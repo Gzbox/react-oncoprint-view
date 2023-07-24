@@ -1,0 +1,28 @@
+.shareModule {
+    margin-left: 15px;
+    display: flex;
+
+    a {
+        span {
+            font-size: 16px;
+
+            i {
+                color: #ffffff;
+            }
+
+            i:first-child {
+                color: #3786c2;
+            }
+
+            i:last-child {
+                font-size: 0.8em;
+            }
+        }
+
+        &:hover {
+            i:first-child {
+                color: darken(#3786c2, 10%);
+            }
+        }
+    }
+}

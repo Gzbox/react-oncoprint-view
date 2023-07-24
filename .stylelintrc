@@ -1,0 +1,4 @@
+{
+  "extends": "@umijs/lint/dist/config/stylelint",
+  "ignoreFiles": ["**/*.min.css"]
+}
