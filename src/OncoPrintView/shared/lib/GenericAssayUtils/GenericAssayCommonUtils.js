@@ -1,10 +1,9 @@
 import _ from 'lodash';
 import * as Pluralize from 'pluralize';
 import { GENERIC_ASSAY_CONFIG } from './GenericAssayConfig';
-
 export function deriveDisplayTextFromGenericAssayType(
-  genericAssayType: string,
-  plural?: boolean,
+  genericAssayType,
+  plural,
 ) {
   let derivedDisplayText = '';
   if (
@@ -14,7 +13,7 @@ export function deriveDisplayTextFromGenericAssayType(
   ) {
     derivedDisplayText =
       GENERIC_ASSAY_CONFIG.genericAssayConfigByType[genericAssayType]
-        .displayTitleText!;
+        .displayTitleText;
   } else {
     const textArray = genericAssayType.split('_');
     const capitalizeTextArray = textArray.map((text) =>
@@ -22,7 +21,6 @@ export function deriveDisplayTextFromGenericAssayType(
     );
     derivedDisplayText = capitalizeTextArray.join(' ');
   }
-
   if (plural) {
     return Pluralize.plural(derivedDisplayText);
   }

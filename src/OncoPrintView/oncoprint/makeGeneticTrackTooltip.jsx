@@ -4,10 +4,13 @@ import hotspotsImg from '../rootImages/cancer-hotspots.svg';
 import customDriverImg from '../rootImages/driver.svg';
 import customDriverTiersImg from '../rootImages/driver_tiers.png';
 import oncokbImg from '../rootImages/oncogenic.svg';
-import { AlterationTypeConstants } from '../shared/constants';
+import {
+  AlterationTypeConstants,
+  PUTATIVE_DRIVER,
+  PUTATIVE_PASSENGER,
+} from '../shared/constants';
 import { ListIndexedMapOfCounts } from '../shared/lib/ListIndexedMap';
 import { isNotGermlineMutation } from '../shared/lib/MutationUtils';
-import { PUTATIVE_DRIVER, PUTATIVE_PASSENGER } from '../shared/lib/StoreUtils';
 import {
   getCaseViewElt,
   makeGenePanelPopupLink,

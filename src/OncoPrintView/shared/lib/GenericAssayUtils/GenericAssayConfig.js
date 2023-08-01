@@ -1,60 +1,17 @@
 import _ from 'lodash';
-
-export type GenericAssayConfig = {
-  genericAssayConfigByType: {
-    [genericAssayType: string]: GenericAssayTypeConfig;
-  };
-  // Add more Generic Assay global config from here
-};
-
-export const GenericAssayTypeConstants: { [s: string]: string } = {
+export const GenericAssayTypeConstants = {
   TREATMENT_RESPONSE: 'TREATMENT_RESPONSE',
   MUTATIONAL_SIGNATURE: 'MUTATIONAL_SIGNATURE',
   ARMLEVEL_CNA: 'ARMLEVEL_CNA',
   METHYLATION: 'METHYLATION',
 };
-
-export type GenericAssayTypeConfig = {
-  // Add more Generic Assay type specific config at here
-  displayTitleText?: string;
-  globalConfig?: GlobalConfig;
-  oncoprintTrackConfig?: OncoprintTrackConfig;
-  plotsTabConfig?: PlotsTabConfig;
-  selectionConfig?: SelectionConfig;
-  downloadTabConfig?: DownloadTabConfig;
-};
-
-export type OncoprintTrackConfig = {
-  formatNameUsingCompactLabel?: boolean;
-  formatDescriptionUsingCommonLabel?: boolean;
-};
-
-export type PlotsTabConfig = {
-  plotsTabUsecompactLabel?: boolean;
-};
-
-export type GlobalConfig = {
-  geneRelatedGenericAssayType?: boolean;
-  entityTitle?: string;
-};
-
-export type SelectionConfig = {
-  placeHolderText?: string;
-  formatChartNameUsingCompactLabel?: boolean;
-};
-
-export type DownloadTabConfig = {
-  formatDownloadHeaderUsingCompactLabel?: boolean;
-};
-
 // We have some customizations for Gene related Generic Assay profiles (e.g. Methylation)
 // One can add new GenericAssayTypes at here to enable those customization for added types
 const geneRelatedGenericAssayTypes = [GenericAssayTypeConstants.METHYLATION];
-
 const DEFAULT_GENE_RELATED_CONFIG = {
-  genericAssayConfigByType: {
-    // populate gene related configs
-    ..._.reduce(
+  genericAssayConfigByType: Object.assign(
+    {},
+    _.reduce(
       geneRelatedGenericAssayTypes,
       (acc, type) => {
         acc[type] = {
@@ -64,12 +21,11 @@ const DEFAULT_GENE_RELATED_CONFIG = {
         };
         return acc;
       },
-      {} as { [genericAssayType: string]: any },
+      {},
     ),
-  },
+  ),
 };
-
-const DEFAULT_GENERIC_ASSAY_CONFIG: GenericAssayConfig = {
+const DEFAULT_GENERIC_ASSAY_CONFIG = {
   genericAssayConfigByType: {
     [GenericAssayTypeConstants.METHYLATION]: {
       globalConfig: {
@@ -92,8 +48,7 @@ const DEFAULT_GENERIC_ASSAY_CONFIG: GenericAssayConfig = {
     },
   },
 };
-
-export const GENERIC_ASSAY_CONFIG: GenericAssayConfig = _.merge(
+export const GENERIC_ASSAY_CONFIG = _.merge(
   DEFAULT_GENE_RELATED_CONFIG,
   DEFAULT_GENERIC_ASSAY_CONFIG,
 );
