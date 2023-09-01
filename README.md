@@ -5,13 +5,24 @@
 
 A react library developed with dumi
 
+## Demo
+
+![demo.png](./demo.png)
+
 ## Usage
 
-TODO
+```bash
+yarn add react-oncoprint-view
+```
 
-## Options
+然后（点击可查看 [mockData.js](./mockData.js) 数据详情）
 
-TODO
+```js
+// 就可以看到效果了
+import { OncoPrintView } from 'react-oncoprint-view';
+import { mockData } from './mockData';
+export default <OncoPrintView {...mockData} />;
+```
 
 ## Development
 
@@ -34,7 +45,3 @@ $ yarn run docs:build
 # check your project for potential problems
 $ yarn run doctor
 ```
-
-## LICENSE
-
-MIT
