@@ -32,8 +32,8 @@ const Oncoprint = (props) => {
     if (!oncoprintJs.current) {
       // instantiate new one
       oncoprintJs.current = new OncoprintJS(
-        `#${params.divId}`,
-        params.width,
+        `#react-oncoprintjs-container-div`,
+        params.width || divRefHandler.current?.offsetWidth,
         params.initParams,
       );
       oncoprintJs.current?.setTrackGroupLegendOrder([
@@ -72,7 +72,7 @@ const Oncoprint = (props) => {
     };
   }, [props]);
 
-  return <div id={props.divId} ref={divRefHandler} />;
+  return <div id="react-oncoprintjs-container-div" ref={divRefHandler} />;
 };
 
 export default React.memo(Oncoprint);

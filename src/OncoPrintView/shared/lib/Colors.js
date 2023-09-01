@@ -1,3 +1,4 @@
+import _ from 'lodash';
 import {
   CNA_COLOR_AMP,
   CNA_COLOR_GAIN,
@@ -10,8 +11,7 @@ import {
   MUT_COLOR_SPLICE,
   MUT_COLOR_TRUNC,
   STRUCTURAL_VARIANT_COLOR,
-} from 'cbioportal-frontend-commons';
-import _ from 'lodash';
+} from './alterationColors';
 // Default grey
 export const BLACK = '#000000';
 export const LIGHT_GREY = '#D3D3D3';

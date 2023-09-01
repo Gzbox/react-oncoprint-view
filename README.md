@@ -17,10 +17,10 @@ TODO
 
 ```bash
 # install dependencies
-$ yarn install
+$  yarn install
 
 # develop library by docs demo
-$ yarn start
+$ yarn dev
 
 # build library source code
 $ yarn run build

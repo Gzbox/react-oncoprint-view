@@ -1,5 +1,4 @@
 import $ from 'jquery';
-import { deriveStructuralVariantType } from 'oncokb-frontend-commons';
 import hotspotsImg from '../rootImages/cancer-hotspots.svg';
 import customDriverImg from '../rootImages/driver.svg';
 import customDriverTiersImg from '../rootImages/driver_tiers.png';
@@ -12,11 +11,12 @@ import {
 import { ListIndexedMapOfCounts } from '../shared/lib/ListIndexedMap';
 import { isNotGermlineMutation } from '../shared/lib/MutationUtils';
 import {
+  TOOLTIP_DIV_CLASS,
   getCaseViewElt,
   makeGenePanelPopupLink,
   makeGeneticTrackTooltip_getCoverageInformation,
-  TOOLTIP_DIV_CLASS,
 } from './TooltipUtils';
+import { deriveStructuralVariantType } from './deriveStructuralVariantType';
 const disp_cna = {
   '-2': 'HOMODELETED',
   '-1': 'HETLOSS',

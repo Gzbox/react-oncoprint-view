@@ -22,15 +22,16 @@ function makeComparatorMetric(array_spec) {
 function sign(x) {
   if (x > 0) {
     return 1;
-  }
-  else if (x < 0) {
+  } else if (x < 0) {
     return -1;
-  }
-  else {
+  } else {
     return 0;
   }
 }
-export function getGeneticTrackSortComparator(sortByMutationType, sortByDrivers) {
+export function getGeneticTrackSortComparator(
+  sortByMutationType,
+  sortByDrivers,
+) {
   const cna_order = (function () {
     let _order;
     if (!sortByDrivers) {
@@ -42,8 +43,7 @@ export function getGeneticTrackSortComparator(sortByMutationType, sortByDrivers)
         'diploid',
         undefined,
       ]);
-    }
-    else {
+    } else {
       _order = makeComparatorMetric([
         'amp_rec',
         'homdel_rec',
@@ -68,8 +68,7 @@ export function getGeneticTrackSortComparator(sortByMutationType, sortByDrivers)
       return function (m) {
         return { true: 1, false: 2 }[!!m + ''];
       };
-    }
-    else if (!sortByMutationType && sortByDrivers) {
+    } else if (!sortByMutationType && sortByDrivers) {
       _order = makeComparatorMetric([
         [
           'trunc_rec',
@@ -82,8 +81,7 @@ export function getGeneticTrackSortComparator(sortByMutationType, sortByDrivers)
         ['trunc', 'splice', 'inframe', 'promoter', 'missense', 'other'],
         undefined,
       ]);
-    }
-    else if (sortByMutationType && !sortByDrivers) {
+    } else if (sortByMutationType && !sortByDrivers) {
       _order = makeComparatorMetric([
         ['trunc', 'trunc_rec'],
         ['splice', 'splice_rec'],
@@ -95,8 +93,7 @@ export function getGeneticTrackSortComparator(sortByMutationType, sortByDrivers)
         true,
         false,
       ]);
-    }
-    else if (sortByMutationType && sortByDrivers) {
+    } else if (sortByMutationType && sortByDrivers) {
       _order = makeComparatorMetric([
         'trunc_rec',
         'splice_rec',
@@ -123,8 +120,7 @@ export function getGeneticTrackSortComparator(sortByMutationType, sortByDrivers)
     let _order;
     if (sortByDrivers) {
       _order = makeComparatorMetric(['sv_rec', 'sv', undefined]);
-    }
-    else {
+    } else {
       _order = makeComparatorMetric([['sv_rec', 'sv'], undefined]);
     }
     return function (m) {
@@ -170,33 +166,27 @@ function makeNumericalComparator(value_key) {
   return function (d1, d2) {
     if (d1.na && d2.na) {
       return 0;
-    }
-    else if (d1.na && !d2.na) {
+    } else if (d1.na && !d2.na) {
       return 2;
-    }
-    else if (!d1.na && d2.na) {
+    } else if (!d1.na && d2.na) {
       return -2;
-    }
-    else {
+    } else {
       return d1[value_key] < d2[value_key]
         ? -1
         : d1[value_key] === d2[value_key]
-          ? 0
-          : 1;
+        ? 0
+        : 1;
     }
   };
 }
 export function stringClinicalComparator(d1, d2) {
   if (d1.na && d2.na) {
     return 0;
-  }
-  else if (d1.na && !d2.na) {
+  } else if (d1.na && !d2.na) {
     return 2;
-  }
-  else if (!d1.na && d2.na) {
+  } else if (!d1.na && d2.na) {
     return -2;
-  }
-  else {
+  } else {
     return naturalSort(d1.attr_val, d2.attr_val);
   }
 }
@@ -204,52 +194,48 @@ function makeCountsMapClinicalComparator(categories) {
   return function (d1, d2) {
     if (d1.na && d2.na) {
       return 0;
-    }
-    else if (d1.na && !d2.na) {
+    } else if (d1.na && !d2.na) {
       return 2;
-    }
-    else if (!d1.na && d2.na) {
+    } else if (!d1.na && d2.na) {
       return -2;
-    }
-    else {
-      var d1_total = 0;
-      var d2_total = 0;
-      for (var i = 0; i < categories.length; i++) {
+    } else {
+      let d1_total = 0;
+      let d2_total = 0;
+      for (let i = 0; i < categories.length; i++) {
         d1_total += d1.attr_val[categories[i]] || 0;
         d2_total += d2.attr_val[categories[i]] || 0;
       }
       if (d1_total === 0 && d2_total === 0) {
         return 0;
-      }
-      else if (d1_total === 0) {
+      } else if (d1_total === 0) {
         return 1;
-      }
-      else if (d2_total === 0) {
+      } else if (d2_total === 0) {
         return -1;
-      }
-      else {
-        var d1_max_category = 0;
-        var d2_max_category = 0;
-        for (var i = 0; i < categories.length; i++) {
-          if (d1.attr_val[categories[i]] >
-            d1.attr_val[categories[d1_max_category]]) {
+      } else {
+        let d1_max_category = 0;
+        let d2_max_category = 0;
+        for (let i = 0; i < categories.length; i++) {
+          if (
+            d1.attr_val[categories[i]] >
+            d1.attr_val[categories[d1_max_category]]
+          ) {
             d1_max_category = i;
           }
-          if (d2.attr_val[categories[i]] >
-            d2.attr_val[categories[d2_max_category]]) {
+          if (
+            d2.attr_val[categories[i]] >
+            d2.attr_val[categories[d2_max_category]]
+          ) {
             d2_max_category = i;
           }
         }
         if (d1_max_category < d2_max_category) {
           return -1;
-        }
-        else if (d1_max_category > d2_max_category) {
+        } else if (d1_max_category > d2_max_category) {
           return 1;
-        }
-        else {
-          var cmp_category = categories[d1_max_category];
-          var d1_prop = d1.attr_val[cmp_category] / d1_total;
-          var d2_prop = d2.attr_val[cmp_category] / d2_total;
+        } else {
+          let cmp_category = categories[d1_max_category];
+          let d1_prop = d1.attr_val[cmp_category] / d1_total;
+          let d2_prop = d2.attr_val[cmp_category] / d2_total;
           return sign(d1_prop - d2_prop);
         }
       }
@@ -262,12 +248,10 @@ export function alphabeticalDefault(comparator) {
     if (cmp === 0) {
       if (d1.sample) {
         return naturalSort(d1.sample, d2.sample);
-      }
-      else {
+      } else {
         return naturalSort(d1.patient, d2.patient);
       }
-    }
-    else {
+    } else {
       return cmp;
     }
   };
@@ -291,11 +275,11 @@ export function getClinicalTrackSortComparator(track) {
     mandatory: comparator,
   };
 }
-export var SortOrder;
+export let SortOrder;
 (function (SortOrder) {
-  SortOrder[SortOrder["ASC"] = 1] = "ASC";
-  SortOrder[SortOrder["DESC"] = -1] = "DESC";
-  SortOrder[SortOrder["UNSORTED"] = 0] = "UNSORTED";
+  SortOrder[(SortOrder['ASC'] = 1)] = 'ASC';
+  SortOrder[(SortOrder['DESC'] = -1)] = 'DESC';
+  SortOrder[(SortOrder['UNSORTED'] = 0)] = 'UNSORTED';
 })(SortOrder || (SortOrder = {}));
 export function toDirectionEnum(val) {
   return SortOrder[val];
@@ -304,7 +288,10 @@ export function toDirectionString(dir) {
   return SortOrder[dir];
 }
 export function getClinicalTrackSortDirection(track) {
-  return toDirectionEnum((track === null || track === void 0 ? void 0 : track.sortOrder) || 'UNSORTED');
+  return toDirectionEnum(
+    (track === null || track === void 0 ? void 0 : track.sortOrder) ||
+      'UNSORTED',
+  );
 }
 export const heatmapTrackSortComparator = (() => {
   const comparator = makeNumericalComparator('profile_data');
