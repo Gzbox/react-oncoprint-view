@@ -8,9 +8,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2392-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            66: 1,
-          },
+          attr_val_counts: { 66: 1 },
           attr_val: 66,
           uid: 'TCGA-25-2392-01',
           na: false,
@@ -18,9 +16,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2393-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            64: 1,
-          },
+          attr_val_counts: { 64: 1 },
           attr_val: 64,
           uid: 'TCGA-25-2393-01',
           na: false,
@@ -28,9 +24,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1331-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            61: 1,
-          },
+          attr_val_counts: { 61: 1 },
           attr_val: 61,
           uid: 'TCGA-04-1331-01',
           na: false,
@@ -38,9 +32,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1365-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            31: 1,
-          },
+          attr_val_counts: { 31: 1 },
           attr_val: 31,
           uid: 'TCGA-04-1365-01',
           na: false,
@@ -48,9 +40,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1648-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            76: 1,
-          },
+          attr_val_counts: { 76: 1 },
           attr_val: 76,
           uid: 'TCGA-04-1648-01',
           na: false,
@@ -58,9 +48,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-1666-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            78: 1,
-          },
+          attr_val_counts: { 78: 1 },
           attr_val: 78,
           uid: 'TCGA-09-1666-01',
           na: false,
@@ -68,9 +56,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0720-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            52: 1,
-          },
+          attr_val_counts: { 52: 1 },
           attr_val: 52,
           uid: 'TCGA-13-0720-01',
           na: false,
@@ -78,9 +64,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0801-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            73: 1,
-          },
+          attr_val_counts: { 73: 1 },
           attr_val: 73,
           uid: 'TCGA-13-0801-01',
           na: false,
@@ -88,9 +72,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0905-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            76: 1,
-          },
+          attr_val_counts: { 76: 1 },
           attr_val: 76,
           uid: 'TCGA-13-0905-01',
           na: false,
@@ -98,9 +80,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0924-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            47: 1,
-          },
+          attr_val_counts: { 47: 1 },
           attr_val: 47,
           uid: 'TCGA-13-0924-01',
           na: false,
@@ -108,9 +88,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1405-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            55: 1,
-          },
+          attr_val_counts: { 55: 1 },
           attr_val: 55,
           uid: 'TCGA-13-1405-01',
           na: false,
@@ -118,9 +96,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1408-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            76: 1,
-          },
+          attr_val_counts: { 76: 1 },
           attr_val: 76,
           uid: 'TCGA-13-1408-01',
           na: false,
@@ -128,9 +104,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1488-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            28: 1,
-          },
+          attr_val_counts: { 28: 1 },
           attr_val: 28,
           uid: 'TCGA-13-1488-01',
           na: false,
@@ -138,9 +112,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1023-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            56: 1,
-          },
+          attr_val_counts: { 56: 1 },
           attr_val: 56,
           uid: 'TCGA-23-1023-01',
           na: false,
@@ -148,9 +120,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1032-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            60: 1,
-          },
+          attr_val_counts: { 60: 1 },
           attr_val: 60,
           uid: 'TCGA-23-1032-01',
           na: false,
@@ -158,9 +128,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1107-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            56: 1,
-          },
+          attr_val_counts: { 56: 1 },
           attr_val: 56,
           uid: 'TCGA-23-1107-01',
           na: false,
@@ -168,9 +136,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1114-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            41: 1,
-          },
+          attr_val_counts: { 41: 1 },
           attr_val: 41,
           uid: 'TCGA-23-1114-01',
           na: false,
@@ -178,9 +144,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1118-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            77: 1,
-          },
+          attr_val_counts: { 77: 1 },
           attr_val: 77,
           uid: 'TCGA-23-1118-01',
           na: false,
@@ -188,9 +152,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1121-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            23: 1,
-          },
+          attr_val_counts: { 23: 1 },
           attr_val: 23,
           uid: 'TCGA-23-1121-01',
           na: false,
@@ -198,9 +160,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2084-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            23: 1,
-          },
+          attr_val_counts: { 23: 1 },
           attr_val: 23,
           uid: 'TCGA-23-2084-01',
           na: false,
@@ -208,9 +168,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-0968-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            73: 1,
-          },
+          attr_val_counts: { 73: 1 },
           attr_val: 73,
           uid: 'TCGA-24-0968-01',
           na: false,
@@ -218,9 +176,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-0970-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            44: 1,
-          },
+          attr_val_counts: { 44: 1 },
           attr_val: 44,
           uid: 'TCGA-24-0970-01',
           na: false,
@@ -228,9 +184,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1103-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            37: 1,
-          },
+          attr_val_counts: { 37: 1 },
           attr_val: 37,
           uid: 'TCGA-24-1103-01',
           na: false,
@@ -238,9 +192,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1474-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            31: 1,
-          },
+          attr_val_counts: { 31: 1 },
           attr_val: 31,
           uid: 'TCGA-24-1474-01',
           na: false,
@@ -248,9 +200,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1567-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            64: 1,
-          },
+          attr_val_counts: { 64: 1 },
           attr_val: 64,
           uid: 'TCGA-24-1567-01',
           na: false,
@@ -258,9 +208,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2030-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            38: 1,
-          },
+          attr_val_counts: { 38: 1 },
           attr_val: 38,
           uid: 'TCGA-24-2030-01',
           na: false,
@@ -268,9 +216,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2036-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            21: 1,
-          },
+          attr_val_counts: { 21: 1 },
           attr_val: 21,
           uid: 'TCGA-24-2036-01',
           na: false,
@@ -278,9 +224,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2262-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            45: 1,
-          },
+          attr_val_counts: { 45: 1 },
           attr_val: 45,
           uid: 'TCGA-24-2262-01',
           na: false,
@@ -288,9 +232,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2297-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            41: 1,
-          },
+          attr_val_counts: { 41: 1 },
           attr_val: 41,
           uid: 'TCGA-24-2297-01',
           na: false,
@@ -298,9 +240,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1322-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            59: 1,
-          },
+          attr_val_counts: { 59: 1 },
           attr_val: 59,
           uid: 'TCGA-25-1322-01',
           na: false,
@@ -308,9 +248,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2391-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            50: 1,
-          },
+          attr_val_counts: { 50: 1 },
           attr_val: 50,
           uid: 'TCGA-25-2391-01',
           na: false,
@@ -318,9 +256,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2401-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            28: 1,
-          },
+          attr_val_counts: { 28: 1 },
           attr_val: 28,
           uid: 'TCGA-25-2401-01',
           na: false,
@@ -328,9 +264,7 @@ export const mockData = {
         {
           sample: 'TCGA-29-1697-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            64: 1,
-          },
+          attr_val_counts: { 64: 1 },
           attr_val: 64,
           uid: 'TCGA-29-1697-01',
           na: false,
@@ -338,9 +272,7 @@ export const mockData = {
         {
           sample: 'TCGA-29-1702-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            72: 1,
-          },
+          attr_val_counts: { 72: 1 },
           attr_val: 72,
           uid: 'TCGA-29-1702-01',
           na: false,
@@ -348,9 +280,7 @@ export const mockData = {
         {
           sample: 'TCGA-29-1761-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            31: 1,
-          },
+          attr_val_counts: { 31: 1 },
           attr_val: 31,
           uid: 'TCGA-29-1761-01',
           na: false,
@@ -358,9 +288,7 @@ export const mockData = {
         {
           sample: 'TCGA-30-1860-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            48: 1,
-          },
+          attr_val_counts: { 48: 1 },
           attr_val: 48,
           uid: 'TCGA-30-1860-01',
           na: false,
@@ -368,9 +296,7 @@ export const mockData = {
         {
           sample: 'TCGA-31-1951-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            70: 1,
-          },
+          attr_val_counts: { 70: 1 },
           attr_val: 70,
           uid: 'TCGA-31-1951-01',
           na: false,
@@ -378,9 +304,7 @@ export const mockData = {
         {
           sample: 'TCGA-31-1959-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            65: 1,
-          },
+          attr_val_counts: { 65: 1 },
           attr_val: 65,
           uid: 'TCGA-31-1959-01',
           na: false,
@@ -388,9 +312,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1570-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            62: 1,
-          },
+          attr_val_counts: { 62: 1 },
           attr_val: 62,
           uid: 'TCGA-36-1570-01',
           na: false,
@@ -398,9 +320,7 @@ export const mockData = {
         {
           sample: 'TCGA-57-1586-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            71: 1,
-          },
+          attr_val_counts: { 71: 1 },
           attr_val: 71,
           uid: 'TCGA-57-1586-01',
           na: false,
@@ -408,9 +328,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-1728-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            78: 1,
-          },
+          attr_val_counts: { 78: 1 },
           attr_val: 78,
           uid: 'TCGA-61-1728-01',
           na: false,
@@ -418,9 +336,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-1895-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            27: 1,
-          },
+          attr_val_counts: { 27: 1 },
           attr_val: 27,
           uid: 'TCGA-61-1895-01',
           na: false,
@@ -428,9 +344,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-1907-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            44: 1,
-          },
+          attr_val_counts: { 44: 1 },
           attr_val: 44,
           uid: 'TCGA-61-1907-01',
           na: false,
@@ -438,9 +352,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2012-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            76: 1,
-          },
+          attr_val_counts: { 76: 1 },
           attr_val: 76,
           uid: 'TCGA-61-2012-01',
           na: false,
@@ -448,9 +360,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2094-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            51: 1,
-          },
+          attr_val_counts: { 51: 1 },
           attr_val: 51,
           uid: 'TCGA-61-2094-01',
           na: false,
@@ -458,9 +368,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2097-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            44: 1,
-          },
+          attr_val_counts: { 44: 1 },
           attr_val: 44,
           uid: 'TCGA-61-2097-01',
           na: false,
@@ -468,9 +376,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1625-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            29: 1,
-          },
+          attr_val_counts: { 29: 1 },
           attr_val: 29,
           uid: 'TCGA-25-1625-01',
           na: false,
@@ -478,9 +384,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1357-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            78: 1,
-          },
+          attr_val_counts: { 78: 1 },
           attr_val: 78,
           uid: 'TCGA-04-1357-01',
           na: false,
@@ -488,9 +392,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0893-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            61: 1,
-          },
+          attr_val_counts: { 61: 1 },
           attr_val: 61,
           uid: 'TCGA-13-0893-01',
           na: false,
@@ -498,9 +400,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2109-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            70: 1,
-          },
+          attr_val_counts: { 70: 1 },
           attr_val: 70,
           uid: 'TCGA-61-2109-01',
           na: false,
@@ -508,9 +408,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0761-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            31: 1,
-          },
+          attr_val_counts: { 31: 1 },
           attr_val: 31,
           uid: 'TCGA-13-0761-01',
           na: false,
@@ -518,9 +416,7 @@ export const mockData = {
         {
           sample: 'TCGA-29-2427-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            26: 1,
-          },
+          attr_val_counts: { 26: 1 },
           attr_val: 26,
           uid: 'TCGA-29-2427-01',
           na: false,
@@ -528,9 +424,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1122-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            45: 1,
-          },
+          attr_val_counts: { 45: 1 },
           attr_val: 45,
           uid: 'TCGA-23-1122-01',
           na: false,
@@ -538,9 +432,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1027-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            74: 1,
-          },
+          attr_val_counts: { 74: 1 },
           attr_val: 74,
           uid: 'TCGA-23-1027-01',
           na: false,
@@ -548,9 +440,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1632-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            28: 1,
-          },
+          attr_val_counts: { 28: 1 },
           attr_val: 28,
           uid: 'TCGA-25-1632-01',
           na: false,
@@ -558,9 +448,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1026-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            41: 1,
-          },
+          attr_val_counts: { 41: 1 },
           attr_val: 41,
           uid: 'TCGA-23-1026-01',
           na: false,
@@ -568,9 +456,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0804-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            69: 1,
-          },
+          attr_val_counts: { 69: 1 },
           attr_val: 69,
           uid: 'TCGA-13-0804-01',
           na: false,
@@ -578,9 +464,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2298-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            78: 1,
-          },
+          attr_val_counts: { 78: 1 },
           attr_val: 78,
           uid: 'TCGA-24-2298-01',
           na: false,
@@ -588,9 +472,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2008-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            67: 1,
-          },
+          attr_val_counts: { 67: 1 },
           attr_val: 67,
           uid: 'TCGA-61-2008-01',
           na: false,
@@ -598,9 +480,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-2045-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            59: 1,
-          },
+          attr_val_counts: { 59: 1 },
           attr_val: 59,
           uid: 'TCGA-09-2045-01',
           na: false,
@@ -608,9 +488,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1356-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            46: 1,
-          },
+          attr_val_counts: { 46: 1 },
           attr_val: 46,
           uid: 'TCGA-04-1356-01',
           na: false,
@@ -618,9 +496,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1630-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            69: 1,
-          },
+          attr_val_counts: { 69: 1 },
           attr_val: 69,
           uid: 'TCGA-25-1630-01',
           na: false,
@@ -628,9 +504,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1470-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            43: 1,
-          },
+          attr_val_counts: { 43: 1 },
           attr_val: 43,
           uid: 'TCGA-24-1470-01',
           na: false,
@@ -638,9 +512,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0730-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            33: 1,
-          },
+          attr_val_counts: { 33: 1 },
           attr_val: 33,
           uid: 'TCGA-13-0730-01',
           na: false,
@@ -648,9 +520,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0883-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            58: 1,
-          },
+          attr_val_counts: { 58: 1 },
           attr_val: 58,
           uid: 'TCGA-13-0883-01',
           na: false,
@@ -658,9 +528,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0903-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            32: 1,
-          },
+          attr_val_counts: { 32: 1 },
           attr_val: 32,
           uid: 'TCGA-13-0903-01',
           na: false,
@@ -668,9 +536,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0887-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            72: 1,
-          },
+          attr_val_counts: { 72: 1 },
           attr_val: 72,
           uid: 'TCGA-13-0887-01',
           na: false,
@@ -678,9 +544,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1494-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            47: 1,
-          },
+          attr_val_counts: { 47: 1 },
           attr_val: 47,
           uid: 'TCGA-13-1494-01',
           na: false,
@@ -688,9 +552,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-2051-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            67: 1,
-          },
+          attr_val_counts: { 67: 1 },
           attr_val: 67,
           uid: 'TCGA-09-2051-01',
           na: false,
@@ -698,9 +560,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2078-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            27: 1,
-          },
+          attr_val_counts: { 27: 1 },
           attr_val: 27,
           uid: 'TCGA-23-2078-01',
           na: false,
@@ -708,9 +568,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2079-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            28: 1,
-          },
+          attr_val_counts: { 28: 1 },
           attr_val: 28,
           uid: 'TCGA-23-2079-01',
           na: false,
@@ -718,9 +576,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0931-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            31: 1,
-          },
+          attr_val_counts: { 31: 1 },
           attr_val: 31,
           uid: 'TCGA-10-0931-01',
           na: false,
@@ -728,9 +584,7 @@ export const mockData = {
         {
           sample: 'TCGA-59-2348-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            73: 1,
-          },
+          attr_val_counts: { 73: 1 },
           attr_val: 73,
           uid: 'TCGA-59-2348-01',
           na: false,
@@ -738,9 +592,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2077-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            73: 1,
-          },
+          attr_val_counts: { 73: 1 },
           attr_val: 73,
           uid: 'TCGA-23-2077-01',
           na: false,
@@ -748,9 +600,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-1669-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            65: 1,
-          },
+          attr_val_counts: { 65: 1 },
           attr_val: 65,
           uid: 'TCGA-09-1669-01',
           na: false,
@@ -758,9 +608,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2081-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            29: 1,
-          },
+          attr_val_counts: { 29: 1 },
           attr_val: 29,
           uid: 'TCGA-23-2081-01',
           na: false,
@@ -768,9 +616,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1489-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            45: 1,
-          },
+          attr_val_counts: { 45: 1 },
           attr_val: 45,
           uid: 'TCGA-13-1489-01',
           na: false,
@@ -778,9 +624,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1318-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            28: 1,
-          },
+          attr_val_counts: { 28: 1 },
           attr_val: 28,
           uid: 'TCGA-25-1318-01',
           na: false,
@@ -788,9 +632,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0793-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            21: 1,
-          },
+          attr_val_counts: { 21: 1 },
           attr_val: 21,
           uid: 'TCGA-13-0793-01',
           na: false,
@@ -798,9 +640,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1463-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            66: 1,
-          },
+          attr_val_counts: { 66: 1 },
           attr_val: 66,
           uid: 'TCGA-24-1463-01',
           na: false,
@@ -808,9 +648,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0913-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            63: 1,
-          },
+          attr_val_counts: { 63: 1 },
           attr_val: 63,
           uid: 'TCGA-13-0913-01',
           na: false,
@@ -818,9 +656,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1367-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            59: 1,
-          },
+          attr_val_counts: { 59: 1 },
           attr_val: 59,
           uid: 'TCGA-04-1367-01',
           na: false,
@@ -828,9 +664,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1562-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            32: 1,
-          },
+          attr_val_counts: { 32: 1 },
           attr_val: 32,
           uid: 'TCGA-24-1562-01',
           na: false,
@@ -838,9 +672,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0885-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            65: 1,
-          },
+          attr_val_counts: { 65: 1 },
           attr_val: 65,
           uid: 'TCGA-13-0885-01',
           na: false,
@@ -848,9 +680,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0890-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            77: 1,
-          },
+          attr_val_counts: { 77: 1 },
           attr_val: 77,
           uid: 'TCGA-13-0890-01',
           na: false,
@@ -858,9 +688,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1512-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            43: 1,
-          },
+          attr_val_counts: { 43: 1 },
           attr_val: 43,
           uid: 'TCGA-13-1512-01',
           na: false,
@@ -868,9 +696,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1030-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            67: 1,
-          },
+          attr_val_counts: { 67: 1 },
           attr_val: 67,
           uid: 'TCGA-23-1030-01',
           na: false,
@@ -878,9 +704,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1634-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            34: 1,
-          },
+          attr_val_counts: { 34: 1 },
           attr_val: 34,
           uid: 'TCGA-25-1634-01',
           na: false,
@@ -888,9 +712,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1555-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            65: 1,
-          },
+          attr_val_counts: { 65: 1 },
           attr_val: 65,
           uid: 'TCGA-24-1555-01',
           na: false,
@@ -898,9 +720,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0886-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            39: 1,
-          },
+          attr_val_counts: { 39: 1 },
           attr_val: 39,
           uid: 'TCGA-13-0886-01',
           na: false,
@@ -908,9 +728,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0792-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            37: 1,
-          },
+          attr_val_counts: { 37: 1 },
           attr_val: 37,
           uid: 'TCGA-13-0792-01',
           na: false,
@@ -918,9 +736,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2293-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            33: 1,
-          },
+          attr_val_counts: { 33: 1 },
           attr_val: 33,
           uid: 'TCGA-24-2293-01',
           na: false,
@@ -928,9 +744,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1120-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            69: 1,
-          },
+          attr_val_counts: { 69: 1 },
           attr_val: 69,
           uid: 'TCGA-23-1120-01',
           na: false,
@@ -938,9 +752,7 @@ export const mockData = {
         {
           sample: 'TCGA-57-1584-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            38: 1,
-          },
+          attr_val_counts: { 38: 1 },
           attr_val: 38,
           uid: 'TCGA-57-1584-01',
           na: false,
@@ -948,9 +760,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0900-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            44: 1,
-          },
+          attr_val_counts: { 44: 1 },
           attr_val: 44,
           uid: 'TCGA-13-0900-01',
           na: false,
@@ -958,9 +768,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2280-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            47: 1,
-          },
+          attr_val_counts: { 47: 1 },
           attr_val: 47,
           uid: 'TCGA-24-2280-01',
           na: false,
@@ -968,9 +776,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-0975-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            61: 1,
-          },
+          attr_val_counts: { 61: 1 },
           attr_val: 61,
           uid: 'TCGA-24-0975-01',
           na: false,
@@ -978,9 +784,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2288-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            27: 1,
-          },
+          attr_val_counts: { 27: 1 },
           attr_val: 27,
           uid: 'TCGA-24-2288-01',
           na: false,
@@ -988,9 +792,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1417-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            43: 1,
-          },
+          attr_val_counts: { 43: 1 },
           attr_val: 43,
           uid: 'TCGA-24-1417-01',
           na: false,
@@ -998,9 +800,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1498-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            27: 1,
-          },
+          attr_val_counts: { 27: 1 },
           attr_val: 27,
           uid: 'TCGA-13-1498-01',
           na: false,
@@ -1008,9 +808,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1499-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            65: 1,
-          },
+          attr_val_counts: { 65: 1 },
           attr_val: 65,
           uid: 'TCGA-13-1499-01',
           na: false,
@@ -1018,9 +816,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0726-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            34: 1,
-          },
+          attr_val_counts: { 34: 1 },
           attr_val: 34,
           uid: 'TCGA-13-0726-01',
           na: false,
@@ -1028,9 +824,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2404-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            32: 1,
-          },
+          attr_val_counts: { 32: 1 },
           attr_val: 32,
           uid: 'TCGA-25-2404-01',
           na: false,
@@ -1038,9 +832,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1481-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            64: 1,
-          },
+          attr_val_counts: { 64: 1 },
           attr_val: 64,
           uid: 'TCGA-13-1481-01',
           na: false,
@@ -1048,9 +840,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0930-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            41: 1,
-          },
+          attr_val_counts: { 41: 1 },
           attr_val: 41,
           uid: 'TCGA-10-0930-01',
           na: false,
@@ -1058,9 +848,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1492-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            65: 1,
-          },
+          attr_val_counts: { 65: 1 },
           attr_val: 65,
           uid: 'TCGA-13-1492-01',
           na: false,
@@ -1068,9 +856,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1505-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            24: 1,
-          },
+          attr_val_counts: { 24: 1 },
           attr_val: 24,
           uid: 'TCGA-13-1505-01',
           na: false,
@@ -1078,9 +864,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1336-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            46: 1,
-          },
+          attr_val_counts: { 46: 1 },
           attr_val: 46,
           uid: 'TCGA-04-1336-01',
           na: false,
@@ -1088,9 +872,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2261-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            43: 1,
-          },
+          attr_val_counts: { 43: 1 },
           attr_val: 43,
           uid: 'TCGA-24-2261-01',
           na: false,
@@ -1098,9 +880,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0912-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            57: 1,
-          },
+          attr_val_counts: { 57: 1 },
           attr_val: 57,
           uid: 'TCGA-13-0912-01',
           na: false,
@@ -1108,9 +888,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1580-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            71: 1,
-          },
+          attr_val_counts: { 71: 1 },
           attr_val: 71,
           uid: 'TCGA-36-1580-01',
           na: false,
@@ -1118,9 +896,7 @@ export const mockData = {
         {
           sample: 'TCGA-59-2352-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            36: 1,
-          },
+          attr_val_counts: { 36: 1 },
           attr_val: 36,
           uid: 'TCGA-59-2352-01',
           na: false,
@@ -1128,9 +904,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2409-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            21: 1,
-          },
+          attr_val_counts: { 21: 1 },
           attr_val: 21,
           uid: 'TCGA-25-2409-01',
           na: false,
@@ -1138,9 +912,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-1919-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            24: 1,
-          },
+          attr_val_counts: { 24: 1 },
           attr_val: 24,
           uid: 'TCGA-61-1919-01',
           na: false,
@@ -1148,9 +920,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0919-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            40: 1,
-          },
+          attr_val_counts: { 40: 1 },
           attr_val: 40,
           uid: 'TCGA-13-0919-01',
           na: false,
@@ -1158,9 +928,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-2050-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            32: 1,
-          },
+          attr_val_counts: { 32: 1 },
           attr_val: 32,
           uid: 'TCGA-09-2050-01',
           na: false,
@@ -1168,9 +936,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1626-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            39: 1,
-          },
+          attr_val_counts: { 39: 1 },
           attr_val: 39,
           uid: 'TCGA-25-1626-01',
           na: false,
@@ -1178,9 +944,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-2049-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            24: 1,
-          },
+          attr_val_counts: { 24: 1 },
           attr_val: 24,
           uid: 'TCGA-09-2049-01',
           na: false,
@@ -1188,9 +952,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1422-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            41: 1,
-          },
+          attr_val_counts: { 41: 1 },
           attr_val: 41,
           uid: 'TCGA-24-1422-01',
           na: false,
@@ -1198,9 +960,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1416-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            66: 1,
-          },
+          attr_val_counts: { 66: 1 },
           attr_val: 66,
           uid: 'TCGA-24-1416-01',
           na: false,
@@ -1208,9 +968,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1564-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            71: 1,
-          },
+          attr_val_counts: { 71: 1 },
           attr_val: 71,
           uid: 'TCGA-24-1564-01',
           na: false,
@@ -1218,9 +976,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2088-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            71: 1,
-          },
+          attr_val_counts: { 71: 1 },
           attr_val: 71,
           uid: 'TCGA-61-2088-01',
           na: false,
@@ -1228,9 +984,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0934-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            23: 1,
-          },
+          attr_val_counts: { 23: 1 },
           attr_val: 23,
           uid: 'TCGA-10-0934-01',
           na: false,
@@ -1238,9 +992,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2003-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            73: 1,
-          },
+          attr_val_counts: { 73: 1 },
           attr_val: 73,
           uid: 'TCGA-61-2003-01',
           na: false,
@@ -1248,9 +1000,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0714-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            78: 1,
-          },
+          attr_val_counts: { 78: 1 },
           attr_val: 78,
           uid: 'TCGA-13-0714-01',
           na: false,
@@ -1258,9 +1008,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1510-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            70: 1,
-          },
+          attr_val_counts: { 70: 1 },
           attr_val: 70,
           uid: 'TCGA-13-1510-01',
           na: false,
@@ -1268,9 +1016,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1576-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            25: 1,
-          },
+          attr_val_counts: { 25: 1 },
           attr_val: 25,
           uid: 'TCGA-36-1576-01',
           na: false,
@@ -1278,9 +1024,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1329-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            71: 1,
-          },
+          attr_val_counts: { 71: 1 },
           attr_val: 71,
           uid: 'TCGA-25-1329-01',
           na: false,
@@ -1288,9 +1032,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1337-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            57: 1,
-          },
+          attr_val_counts: { 57: 1 },
           attr_val: 57,
           uid: 'TCGA-04-1337-01',
           na: false,
@@ -1298,9 +1040,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1428-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            31: 1,
-          },
+          attr_val_counts: { 31: 1 },
           attr_val: 31,
           uid: 'TCGA-24-1428-01',
           na: false,
@@ -1308,9 +1048,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1332-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            31: 1,
-          },
+          attr_val_counts: { 31: 1 },
           attr_val: 31,
           uid: 'TCGA-04-1332-01',
           na: false,
@@ -1318,9 +1056,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1349-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            69: 1,
-          },
+          attr_val_counts: { 69: 1 },
           attr_val: 69,
           uid: 'TCGA-04-1349-01',
           na: false,
@@ -1328,9 +1064,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0791-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            39: 1,
-          },
+          attr_val_counts: { 39: 1 },
           attr_val: 39,
           uid: 'TCGA-13-0791-01',
           na: false,
@@ -1338,9 +1072,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2019-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            44: 1,
-          },
+          attr_val_counts: { 44: 1 },
           attr_val: 44,
           uid: 'TCGA-24-2019-01',
           na: false,
@@ -1348,9 +1080,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1425-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            28: 1,
-          },
+          attr_val_counts: { 28: 1 },
           attr_val: 28,
           uid: 'TCGA-24-1425-01',
           na: false,
@@ -1358,9 +1088,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1423-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            34: 1,
-          },
+          attr_val_counts: { 34: 1 },
           attr_val: 34,
           uid: 'TCGA-24-1423-01',
           na: false,
@@ -1368,9 +1096,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0926-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            68: 1,
-          },
+          attr_val_counts: { 68: 1 },
           attr_val: 68,
           uid: 'TCGA-10-0926-01',
           na: false,
@@ -1378,9 +1104,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0760-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            61: 1,
-          },
+          attr_val_counts: { 61: 1 },
           attr_val: 61,
           uid: 'TCGA-13-0760-01',
           na: false,
@@ -1388,9 +1112,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1556-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            66: 1,
-          },
+          attr_val_counts: { 66: 1 },
           attr_val: 66,
           uid: 'TCGA-24-1556-01',
           na: false,
@@ -1398,9 +1120,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1558-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            22: 1,
-          },
+          attr_val_counts: { 22: 1 },
           attr_val: 22,
           uid: 'TCGA-24-1558-01',
           na: false,
@@ -1408,9 +1128,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1616-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            21: 1,
-          },
+          attr_val_counts: { 21: 1 },
           attr_val: 21,
           uid: 'TCGA-24-1616-01',
           na: false,
@@ -1418,9 +1136,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1604-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            72: 1,
-          },
+          attr_val_counts: { 72: 1 },
           attr_val: 72,
           uid: 'TCGA-24-1604-01',
           na: false,
@@ -1428,9 +1144,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-1659-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            36: 1,
-          },
+          attr_val_counts: { 36: 1 },
           attr_val: 36,
           uid: 'TCGA-09-1659-01',
           na: false,
@@ -1438,9 +1152,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1413-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            36: 1,
-          },
+          attr_val_counts: { 36: 1 },
           attr_val: 36,
           uid: 'TCGA-24-1413-01',
           na: false,
@@ -1448,9 +1160,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-1662-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            45: 1,
-          },
+          attr_val_counts: { 45: 1 },
           attr_val: 45,
           uid: 'TCGA-09-1662-01',
           na: false,
@@ -1458,9 +1168,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0724-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            41: 1,
-          },
+          attr_val_counts: { 41: 1 },
           attr_val: 41,
           uid: 'TCGA-13-0724-01',
           na: false,
@@ -1468,9 +1176,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1484-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            53: 1,
-          },
+          attr_val_counts: { 53: 1 },
           attr_val: 53,
           uid: 'TCGA-13-1484-01',
           na: false,
@@ -1478,9 +1184,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2254-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            60: 1,
-          },
+          attr_val_counts: { 60: 1 },
           attr_val: 60,
           uid: 'TCGA-24-2254-01',
           na: false,
@@ -1488,9 +1192,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2101-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            43: 1,
-          },
+          attr_val_counts: { 43: 1 },
           attr_val: 43,
           uid: 'TCGA-61-2101-01',
           na: false,
@@ -1498,9 +1200,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-0366-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            51: 1,
-          },
+          attr_val_counts: { 51: 1 },
           attr_val: 51,
           uid: 'TCGA-09-0366-01',
           na: false,
@@ -1508,9 +1208,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-2053-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            73: 1,
-          },
+          attr_val_counts: { 73: 1 },
           attr_val: 73,
           uid: 'TCGA-09-2053-01',
           na: false,
@@ -1518,9 +1216,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2024-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            42: 1,
-          },
+          attr_val_counts: { 42: 1 },
           attr_val: 42,
           uid: 'TCGA-24-2024-01',
           na: false,
@@ -1528,9 +1224,7 @@ export const mockData = {
         {
           sample: 'TCGA-57-1993-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            58: 1,
-          },
+          attr_val_counts: { 58: 1 },
           attr_val: 58,
           uid: 'TCGA-57-1993-01',
           na: false,
@@ -1538,9 +1232,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0751-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            48: 1,
-          },
+          attr_val_counts: { 48: 1 },
           attr_val: 48,
           uid: 'TCGA-13-0751-01',
           na: false,
@@ -1548,9 +1240,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0928-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            44: 1,
-          },
+          attr_val_counts: { 44: 1 },
           attr_val: 44,
           uid: 'TCGA-10-0928-01',
           na: false,
@@ -1558,9 +1248,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1525-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            47: 1,
-          },
+          attr_val_counts: { 47: 1 },
           attr_val: 47,
           uid: 'TCGA-04-1525-01',
           na: false,
@@ -1568,9 +1256,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1022-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            23: 1,
-          },
+          attr_val_counts: { 23: 1 },
           attr_val: 23,
           uid: 'TCGA-23-1022-01',
           na: false,
@@ -1578,9 +1264,7 @@ export const mockData = {
         {
           sample: 'TCGA-30-1862-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            59: 1,
-          },
+          attr_val_counts: { 59: 1 },
           attr_val: 59,
           uid: 'TCGA-30-1862-01',
           na: false,
@@ -1588,9 +1272,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0765-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            77: 1,
-          },
+          attr_val_counts: { 77: 1 },
           attr_val: 77,
           uid: 'TCGA-13-0765-01',
           na: false,
@@ -1598,9 +1280,7 @@ export const mockData = {
         {
           sample: 'TCGA-31-1953-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            27: 1,
-          },
+          attr_val_counts: { 27: 1 },
           attr_val: 27,
           uid: 'TCGA-31-1953-01',
           na: false,
@@ -1608,9 +1288,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1514-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            61: 1,
-          },
+          attr_val_counts: { 61: 1 },
           attr_val: 61,
           uid: 'TCGA-04-1514-01',
           na: false,
@@ -1618,9 +1296,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1509-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            24: 1,
-          },
+          attr_val_counts: { 24: 1 },
           attr_val: 24,
           uid: 'TCGA-13-1509-01',
           na: false,
@@ -1628,9 +1304,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1419-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            58: 1,
-          },
+          attr_val_counts: { 58: 1 },
           attr_val: 58,
           uid: 'TCGA-24-1419-01',
           na: false,
@@ -1638,9 +1312,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1321-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            72: 1,
-          },
+          attr_val_counts: { 72: 1 },
           attr_val: 72,
           uid: 'TCGA-25-1321-01',
           na: false,
@@ -1648,9 +1320,7 @@ export const mockData = {
         {
           sample: 'TCGA-20-0987-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            71: 1,
-          },
+          attr_val_counts: { 71: 1 },
           attr_val: 71,
           uid: 'TCGA-20-0987-01',
           na: false,
@@ -1658,9 +1328,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1024-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            31: 1,
-          },
+          attr_val_counts: { 31: 1 },
           attr_val: 31,
           uid: 'TCGA-23-1024-01',
           na: false,
@@ -1668,9 +1336,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2290-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            38: 1,
-          },
+          attr_val_counts: { 38: 1 },
           attr_val: 38,
           uid: 'TCGA-24-2290-01',
           na: false,
@@ -1678,9 +1344,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1124-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            24: 1,
-          },
+          attr_val_counts: { 24: 1 },
           attr_val: 24,
           uid: 'TCGA-23-1124-01',
           na: false,
@@ -1688,9 +1352,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-1736-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            70: 1,
-          },
+          attr_val_counts: { 70: 1 },
           attr_val: 70,
           uid: 'TCGA-61-1736-01',
           na: false,
@@ -1698,9 +1360,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0800-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            38: 1,
-          },
+          attr_val_counts: { 38: 1 },
           attr_val: 38,
           uid: 'TCGA-13-0800-01',
           na: false,
@@ -1708,9 +1368,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1434-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            50: 1,
-          },
+          attr_val_counts: { 50: 1 },
           attr_val: 50,
           uid: 'TCGA-24-1434-01',
           na: false,
@@ -1718,9 +1376,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1517-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            57: 1,
-          },
+          attr_val_counts: { 57: 1 },
           attr_val: 57,
           uid: 'TCGA-04-1517-01',
           na: false,
@@ -1728,9 +1384,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-1661-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            25: 1,
-          },
+          attr_val_counts: { 25: 1 },
           attr_val: 25,
           uid: 'TCGA-09-1661-01',
           na: false,
@@ -1738,9 +1392,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-1995-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            67: 1,
-          },
+          attr_val_counts: { 67: 1 },
           attr_val: 67,
           uid: 'TCGA-61-1995-01',
           na: false,
@@ -1748,9 +1400,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1614-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            42: 1,
-          },
+          attr_val_counts: { 42: 1 },
           attr_val: 42,
           uid: 'TCGA-24-1614-01',
           na: false,
@@ -1758,9 +1408,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1569-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            43: 1,
-          },
+          attr_val_counts: { 43: 1 },
           attr_val: 43,
           uid: 'TCGA-36-1569-01',
           na: false,
@@ -1768,9 +1416,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2271-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            72: 1,
-          },
+          attr_val_counts: { 72: 1 },
           attr_val: 72,
           uid: 'TCGA-24-2271-01',
           na: false,
@@ -1778,9 +1424,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1123-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            22: 1,
-          },
+          attr_val_counts: { 22: 1 },
           attr_val: 22,
           uid: 'TCGA-23-1123-01',
           na: false,
@@ -1788,9 +1432,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1507-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            30: 1,
-          },
+          attr_val_counts: { 30: 1 },
           attr_val: 30,
           uid: 'TCGA-13-1507-01',
           na: false,
@@ -1798,9 +1440,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0899-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            22: 1,
-          },
+          attr_val_counts: { 22: 1 },
           attr_val: 22,
           uid: 'TCGA-13-0899-01',
           na: false,
@@ -1808,9 +1448,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1110-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            34: 1,
-          },
+          attr_val_counts: { 34: 1 },
           attr_val: 34,
           uid: 'TCGA-23-1110-01',
           na: false,
@@ -1818,9 +1456,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1319-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            23: 1,
-          },
+          attr_val_counts: { 23: 1 },
           attr_val: 23,
           uid: 'TCGA-25-1319-01',
           na: false,
@@ -1828,9 +1464,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1548-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            65: 1,
-          },
+          attr_val_counts: { 65: 1 },
           attr_val: 65,
           uid: 'TCGA-24-1548-01',
           na: false,
@@ -1838,9 +1472,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0910-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            43: 1,
-          },
+          attr_val_counts: { 43: 1 },
           attr_val: 43,
           uid: 'TCGA-13-0910-01',
           na: false,
@@ -1848,9 +1480,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1346-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            79: 1,
-          },
+          attr_val_counts: { 79: 1 },
           attr_val: 79,
           uid: 'TCGA-04-1346-01',
           na: false,
@@ -1858,9 +1488,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1350-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            46: 1,
-          },
+          attr_val_counts: { 46: 1 },
           attr_val: 46,
           uid: 'TCGA-04-1350-01',
           na: false,
@@ -1868,9 +1496,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1326-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            64: 1,
-          },
+          attr_val_counts: { 64: 1 },
           attr_val: 64,
           uid: 'TCGA-25-1326-01',
           na: false,
@@ -1878,9 +1504,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1549-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            27: 1,
-          },
+          attr_val_counts: { 27: 1 },
           attr_val: 27,
           uid: 'TCGA-24-1549-01',
           na: false,
@@ -1888,9 +1512,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0891-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            47: 1,
-          },
+          attr_val_counts: { 47: 1 },
           attr_val: 47,
           uid: 'TCGA-13-0891-01',
           na: false,
@@ -1898,9 +1520,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1411-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            77: 1,
-          },
+          attr_val_counts: { 77: 1 },
           attr_val: 77,
           uid: 'TCGA-13-1411-01',
           na: false,
@@ -1908,9 +1528,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2260-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            37: 1,
-          },
+          attr_val_counts: { 37: 1 },
           attr_val: 37,
           uid: 'TCGA-24-2260-01',
           na: false,
@@ -1918,9 +1536,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1342-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            70: 1,
-          },
+          attr_val_counts: { 70: 1 },
           attr_val: 70,
           uid: 'TCGA-04-1342-01',
           na: false,
@@ -1928,9 +1544,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0723-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            66: 1,
-          },
+          attr_val_counts: { 66: 1 },
           attr_val: 66,
           uid: 'TCGA-13-0723-01',
           na: false,
@@ -1938,9 +1552,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2289-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            47: 1,
-          },
+          attr_val_counts: { 47: 1 },
           attr_val: 47,
           uid: 'TCGA-24-2289-01',
           na: false,
@@ -1948,9 +1560,7 @@ export const mockData = {
         {
           sample: 'TCGA-59-2354-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            35: 1,
-          },
+          attr_val_counts: { 35: 1 },
           attr_val: 35,
           uid: 'TCGA-59-2354-01',
           na: false,
@@ -1958,9 +1568,7 @@ export const mockData = {
         {
           sample: 'TCGA-59-2350-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            61: 1,
-          },
+          attr_val_counts: { 61: 1 },
           attr_val: 61,
           uid: 'TCGA-59-2350-01',
           na: false,
@@ -1968,9 +1576,7 @@ export const mockData = {
         {
           sample: 'TCGA-59-2363-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            31: 1,
-          },
+          attr_val_counts: { 31: 1 },
           attr_val: 31,
           uid: 'TCGA-59-2363-01',
           na: false,
@@ -1978,9 +1584,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0762-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            24: 1,
-          },
+          attr_val_counts: { 24: 1 },
           attr_val: 24,
           uid: 'TCGA-13-0762-01',
           na: false,
@@ -1988,9 +1592,7 @@ export const mockData = {
         {
           sample: 'TCGA-59-2351-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            45: 1,
-          },
+          attr_val_counts: { 45: 1 },
           attr_val: 45,
           uid: 'TCGA-59-2351-01',
           na: false,
@@ -1998,9 +1600,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2398-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            29: 1,
-          },
+          attr_val_counts: { 29: 1 },
           attr_val: 29,
           uid: 'TCGA-25-2398-01',
           na: false,
@@ -2008,9 +1608,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1315-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            21: 1,
-          },
+          attr_val_counts: { 21: 1 },
           attr_val: 21,
           uid: 'TCGA-25-1315-01',
           na: false,
@@ -2018,9 +1616,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1497-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            35: 1,
-          },
+          attr_val_counts: { 35: 1 },
           attr_val: 35,
           uid: 'TCGA-13-1497-01',
           na: false,
@@ -2028,9 +1624,7 @@ export const mockData = {
         {
           sample: 'TCGA-30-1853-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            22: 1,
-          },
+          attr_val_counts: { 22: 1 },
           attr_val: 22,
           uid: 'TCGA-30-1853-01',
           na: false,
@@ -2038,9 +1632,7 @@ export const mockData = {
         {
           sample: 'TCGA-57-1582-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            65: 1,
-          },
+          attr_val_counts: { 65: 1 },
           attr_val: 65,
           uid: 'TCGA-57-1582-01',
           na: false,
@@ -2048,9 +1640,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-0966-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            53: 1,
-          },
+          attr_val_counts: { 53: 1 },
           attr_val: 53,
           uid: 'TCGA-24-0966-01',
           na: false,
@@ -2058,9 +1648,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1557-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            71: 1,
-          },
+          attr_val_counts: { 71: 1 },
           attr_val: 71,
           uid: 'TCGA-24-1557-01',
           na: false,
@@ -2068,9 +1656,7 @@ export const mockData = {
         {
           sample: 'TCGA-59-2355-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            51: 1,
-          },
+          attr_val_counts: { 51: 1 },
           attr_val: 51,
           uid: 'TCGA-59-2355-01',
           na: false,
@@ -2078,9 +1664,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0927-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            40: 1,
-          },
+          attr_val_counts: { 40: 1 },
           attr_val: 40,
           uid: 'TCGA-10-0927-01',
           na: false,
@@ -2088,9 +1672,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-2044-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            33: 1,
-          },
+          attr_val_counts: { 33: 1 },
           attr_val: 33,
           uid: 'TCGA-09-2044-01',
           na: false,
@@ -2098,9 +1680,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0906-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            61: 1,
-          },
+          attr_val_counts: { 61: 1 },
           attr_val: 61,
           uid: 'TCGA-13-0906-01',
           na: false,
@@ -2108,9 +1688,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1627-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            73: 1,
-          },
+          attr_val_counts: { 73: 1 },
           attr_val: 73,
           uid: 'TCGA-25-1627-01',
           na: false,
@@ -2118,9 +1696,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1482-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            24: 1,
-          },
+          attr_val_counts: { 24: 1 },
           attr_val: 24,
           uid: 'TCGA-13-1482-01',
           na: false,
@@ -2128,9 +1704,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2281-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            34: 1,
-          },
+          attr_val_counts: { 34: 1 },
           attr_val: 34,
           uid: 'TCGA-24-2281-01',
           na: false,
@@ -2138,9 +1712,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0889-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            67: 1,
-          },
+          attr_val_counts: { 67: 1 },
           attr_val: 67,
           uid: 'TCGA-13-0889-01',
           na: false,
@@ -2148,9 +1720,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2016-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            27: 1,
-          },
+          attr_val_counts: { 27: 1 },
           attr_val: 27,
           uid: 'TCGA-61-2016-01',
           na: false,
@@ -2158,9 +1728,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1362-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            73: 1,
-          },
+          attr_val_counts: { 73: 1 },
           attr_val: 73,
           uid: 'TCGA-04-1362-01',
           na: false,
@@ -2168,9 +1736,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0717-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            79: 1,
-          },
+          attr_val_counts: { 79: 1 },
           attr_val: 79,
           uid: 'TCGA-13-0717-01',
           na: false,
@@ -2178,9 +1744,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2104-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            71: 1,
-          },
+          attr_val_counts: { 71: 1 },
           attr_val: 71,
           uid: 'TCGA-61-2104-01',
           na: false,
@@ -2188,9 +1752,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0938-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            61: 1,
-          },
+          attr_val_counts: { 61: 1 },
           attr_val: 61,
           uid: 'TCGA-10-0938-01',
           na: false,
@@ -2198,9 +1760,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2035-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            53: 1,
-          },
+          attr_val_counts: { 53: 1 },
           attr_val: 53,
           uid: 'TCGA-24-2035-01',
           na: false,
@@ -2208,9 +1768,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1105-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            76: 1,
-          },
+          attr_val_counts: { 76: 1 },
           attr_val: 76,
           uid: 'TCGA-24-1105-01',
           na: false,
@@ -2218,9 +1776,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-0979-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            52: 1,
-          },
+          attr_val_counts: { 52: 1 },
           attr_val: 52,
           uid: 'TCGA-24-0979-01',
           na: false,
@@ -2228,9 +1784,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1361-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            39: 1,
-          },
+          attr_val_counts: { 39: 1 },
           attr_val: 39,
           uid: 'TCGA-04-1361-01',
           na: false,
@@ -2238,9 +1792,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1628-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            55: 1,
-          },
+          attr_val_counts: { 55: 1 },
           attr_val: 55,
           uid: 'TCGA-25-1628-01',
           na: false,
@@ -2248,9 +1800,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1491-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            78: 1,
-          },
+          attr_val_counts: { 78: 1 },
           attr_val: 78,
           uid: 'TCGA-13-1491-01',
           na: false,
@@ -2258,9 +1808,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1635-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            46: 1,
-          },
+          attr_val_counts: { 46: 1 },
           attr_val: 46,
           uid: 'TCGA-25-1635-01',
           na: false,
@@ -2268,9 +1816,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1506-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            27: 1,
-          },
+          attr_val_counts: { 27: 1 },
           attr_val: 27,
           uid: 'TCGA-13-1506-01',
           na: false,
@@ -2278,9 +1824,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1560-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            48: 1,
-          },
+          attr_val_counts: { 48: 1 },
           attr_val: 48,
           uid: 'TCGA-24-1560-01',
           na: false,
@@ -2288,9 +1832,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1410-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            73: 1,
-          },
+          attr_val_counts: { 73: 1 },
           attr_val: 73,
           uid: 'TCGA-13-1410-01',
           na: false,
@@ -2298,9 +1840,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1464-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            58: 1,
-          },
+          attr_val_counts: { 58: 1 },
           attr_val: 58,
           uid: 'TCGA-24-1464-01',
           na: false,
@@ -2308,9 +1848,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0935-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            26: 1,
-          },
+          attr_val_counts: { 26: 1 },
           attr_val: 26,
           uid: 'TCGA-10-0935-01',
           na: false,
@@ -2318,9 +1856,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1568-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            64: 1,
-          },
+          attr_val_counts: { 64: 1 },
           attr_val: 64,
           uid: 'TCGA-36-1568-01',
           na: false,
@@ -2328,9 +1864,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2072-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            32: 1,
-          },
+          attr_val_counts: { 32: 1 },
           attr_val: 32,
           uid: 'TCGA-23-2072-01',
           na: false,
@@ -2338,9 +1872,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1487-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            50: 1,
-          },
+          attr_val_counts: { 50: 1 },
           attr_val: 50,
           uid: 'TCGA-13-1487-01',
           na: false,
@@ -2348,9 +1880,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1426-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            51: 1,
-          },
+          attr_val_counts: { 51: 1 },
           attr_val: 51,
           uid: 'TCGA-24-1426-01',
           na: false,
@@ -2358,9 +1888,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0920-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            54: 1,
-          },
+          attr_val_counts: { 54: 1 },
           attr_val: 54,
           uid: 'TCGA-13-0920-01',
           na: false,
@@ -2368,9 +1896,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1320-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            67: 1,
-          },
+          attr_val_counts: { 67: 1 },
           attr_val: 67,
           uid: 'TCGA-25-1320-01',
           na: false,
@@ -2378,9 +1904,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1021-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            37: 1,
-          },
+          attr_val_counts: { 37: 1 },
           attr_val: 37,
           uid: 'TCGA-23-1021-01',
           na: false,
@@ -2388,9 +1912,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1348-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            79: 1,
-          },
+          attr_val_counts: { 79: 1 },
           attr_val: 79,
           uid: 'TCGA-04-1348-01',
           na: false,
@@ -2398,9 +1920,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1338-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            53: 1,
-          },
+          attr_val_counts: { 53: 1 },
           attr_val: 53,
           uid: 'TCGA-04-1338-01',
           na: false,
@@ -2408,9 +1928,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1117-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            38: 1,
-          },
+          attr_val_counts: { 38: 1 },
           attr_val: 38,
           uid: 'TCGA-23-1117-01',
           na: false,
@@ -2418,9 +1936,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1578-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            54: 1,
-          },
+          attr_val_counts: { 54: 1 },
           attr_val: 54,
           uid: 'TCGA-36-1578-01',
           na: false,
@@ -2428,9 +1944,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1575-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            56: 1,
-          },
+          attr_val_counts: { 56: 1 },
           attr_val: 56,
           uid: 'TCGA-36-1575-01',
           na: false,
@@ -2438,9 +1952,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1574-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            70: 1,
-          },
+          attr_val_counts: { 70: 1 },
           attr_val: 70,
           uid: 'TCGA-36-1574-01',
           na: false,
@@ -2448,9 +1960,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2399-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            40: 1,
-          },
+          attr_val_counts: { 40: 1 },
           attr_val: 40,
           uid: 'TCGA-25-2399-01',
           na: false,
@@ -2458,9 +1968,7 @@ export const mockData = {
         {
           sample: 'TCGA-30-1891-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            22: 1,
-          },
+          attr_val_counts: { 22: 1 },
           attr_val: 22,
           uid: 'TCGA-30-1891-01',
           na: false,
@@ -2468,9 +1976,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1577-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            72: 1,
-          },
+          attr_val_counts: { 72: 1 },
           attr_val: 72,
           uid: 'TCGA-36-1577-01',
           na: false,
@@ -2478,9 +1984,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1466-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            51: 1,
-          },
+          attr_val_counts: { 51: 1 },
           attr_val: 51,
           uid: 'TCGA-24-1466-01',
           na: false,
@@ -2488,9 +1992,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2092-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            68: 1,
-          },
+          attr_val_counts: { 68: 1 },
           attr_val: 68,
           uid: 'TCGA-61-2092-01',
           na: false,
@@ -2498,9 +2000,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1347-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            26: 1,
-          },
+          attr_val_counts: { 26: 1 },
           attr_val: 26,
           uid: 'TCGA-04-1347-01',
           na: false,
@@ -2508,9 +2008,7 @@ export const mockData = {
         {
           sample: 'TCGA-20-0990-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            38: 1,
-          },
+          attr_val_counts: { 38: 1 },
           attr_val: 38,
           uid: 'TCGA-20-0990-01',
           na: false,
@@ -2518,9 +2016,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1104-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            23: 1,
-          },
+          attr_val_counts: { 23: 1 },
           attr_val: 23,
           uid: 'TCGA-24-1104-01',
           na: false,
@@ -2528,9 +2024,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1418-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            43: 1,
-          },
+          attr_val_counts: { 43: 1 },
           attr_val: 43,
           uid: 'TCGA-24-1418-01',
           na: false,
@@ -2538,9 +2032,7 @@ export const mockData = {
         {
           sample: 'TCGA-57-1583-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            33: 1,
-          },
+          attr_val_counts: { 33: 1 },
           attr_val: 33,
           uid: 'TCGA-57-1583-01',
           na: false,
@@ -2548,9 +2040,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0795-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            39: 1,
-          },
+          attr_val_counts: { 39: 1 },
           attr_val: 39,
           uid: 'TCGA-13-0795-01',
           na: false,
@@ -2558,9 +2048,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1496-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            48: 1,
-          },
+          attr_val_counts: { 48: 1 },
           attr_val: 48,
           uid: 'TCGA-13-1496-01',
           na: false,
@@ -2568,9 +2056,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1623-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            34: 1,
-          },
+          attr_val_counts: { 34: 1 },
           attr_val: 34,
           uid: 'TCGA-25-1623-01',
           na: false,
@@ -2578,9 +2064,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1551-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            41: 1,
-          },
+          attr_val_counts: { 41: 1 },
           attr_val: 41,
           uid: 'TCGA-24-1551-01',
           na: false,
@@ -2588,9 +2072,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1431-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            41: 1,
-          },
+          attr_val_counts: { 41: 1 },
           attr_val: 41,
           uid: 'TCGA-24-1431-01',
           na: false,
@@ -2598,9 +2080,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-2060-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            45: 1,
-          },
+          attr_val_counts: { 45: 1 },
           attr_val: 45,
           uid: 'TCGA-13-2060-01',
           na: false,
@@ -2608,9 +2088,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1631-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            68: 1,
-          },
+          attr_val_counts: { 68: 1 },
           attr_val: 68,
           uid: 'TCGA-25-1631-01',
           na: false,
@@ -2618,9 +2096,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1495-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            28: 1,
-          },
+          attr_val_counts: { 28: 1 },
           attr_val: 28,
           uid: 'TCGA-13-1495-01',
           na: false,
@@ -2628,9 +2104,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1603-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            32: 1,
-          },
+          attr_val_counts: { 32: 1 },
           attr_val: 32,
           uid: 'TCGA-24-1603-01',
           na: false,
@@ -2638,9 +2112,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1530-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            50: 1,
-          },
+          attr_val_counts: { 50: 1 },
           attr_val: 50,
           uid: 'TCGA-04-1530-01',
           na: false,
@@ -2648,9 +2120,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1542-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            34: 1,
-          },
+          attr_val_counts: { 34: 1 },
           attr_val: 34,
           uid: 'TCGA-04-1542-01',
           na: false,
@@ -2658,9 +2128,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1471-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            70: 1,
-          },
+          attr_val_counts: { 70: 1 },
           attr_val: 70,
           uid: 'TCGA-24-1471-01',
           na: false,
@@ -2668,9 +2136,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2102-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            63: 1,
-          },
+          attr_val_counts: { 63: 1 },
           attr_val: 63,
           uid: 'TCGA-61-2102-01',
           na: false,
@@ -2678,9 +2144,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1469-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            41: 1,
-          },
+          attr_val_counts: { 41: 1 },
           attr_val: 41,
           uid: 'TCGA-24-1469-01',
           na: false,
@@ -2688,9 +2152,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1407-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            32: 1,
-          },
+          attr_val_counts: { 32: 1 },
           attr_val: 32,
           uid: 'TCGA-13-1407-01',
           na: false,
@@ -2698,9 +2160,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1028-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            44: 1,
-          },
+          attr_val_counts: { 44: 1 },
           attr_val: 44,
           uid: 'TCGA-23-1028-01',
           na: false,
@@ -2708,9 +2168,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0894-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            71: 1,
-          },
+          attr_val_counts: { 71: 1 },
           attr_val: 71,
           uid: 'TCGA-13-0894-01',
           na: false,
@@ -2718,9 +2176,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1409-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            33: 1,
-          },
+          attr_val_counts: { 33: 1 },
           attr_val: 33,
           uid: 'TCGA-13-1409-01',
           na: false,
@@ -2728,9 +2184,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-0982-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            69: 1,
-          },
+          attr_val_counts: { 69: 1 },
           attr_val: 69,
           uid: 'TCGA-24-0982-01',
           na: false,
@@ -2738,9 +2192,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2000-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            66: 1,
-          },
+          attr_val_counts: { 66: 1 },
           attr_val: 66,
           uid: 'TCGA-61-2000-01',
           na: false,
@@ -2748,9 +2200,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2110-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            70: 1,
-          },
+          attr_val_counts: { 70: 1 },
           attr_val: 70,
           uid: 'TCGA-61-2110-01',
           na: false,
@@ -2758,9 +2208,7 @@ export const mockData = {
         {
           sample: 'TCGA-31-1950-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            28: 1,
-          },
+          attr_val_counts: { 28: 1 },
           attr_val: 28,
           uid: 'TCGA-31-1950-01',
           na: false,
@@ -2768,9 +2216,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1424-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            45: 1,
-          },
+          attr_val_counts: { 45: 1 },
           attr_val: 45,
           uid: 'TCGA-24-1424-01',
           na: false,
@@ -2778,9 +2224,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1427-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            51: 1,
-          },
+          attr_val_counts: { 51: 1 },
           attr_val: 51,
           uid: 'TCGA-24-1427-01',
           na: false,
@@ -2788,9 +2232,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-1998-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            71: 1,
-          },
+          attr_val_counts: { 71: 1 },
           attr_val: 71,
           uid: 'TCGA-61-1998-01',
           na: false,
@@ -2798,9 +2240,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0904-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            78: 1,
-          },
+          attr_val_counts: { 78: 1 },
           attr_val: 78,
           uid: 'TCGA-13-0904-01',
           na: false,
@@ -2808,9 +2248,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0923-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            43: 1,
-          },
+          attr_val_counts: { 43: 1 },
           attr_val: 43,
           uid: 'TCGA-13-0923-01',
           na: false,
@@ -2818,9 +2256,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1563-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            28: 1,
-          },
+          attr_val_counts: { 28: 1 },
           attr_val: 28,
           uid: 'TCGA-24-1563-01',
           na: false,
@@ -2828,9 +2264,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1504-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            46: 1,
-          },
+          attr_val_counts: { 46: 1 },
           attr_val: 46,
           uid: 'TCGA-13-1504-01',
           na: false,
@@ -2838,9 +2272,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1324-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            62: 1,
-          },
+          attr_val_counts: { 62: 1 },
           attr_val: 62,
           uid: 'TCGA-25-1324-01',
           na: false,
@@ -2848,9 +2280,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0897-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            27: 1,
-          },
+          attr_val_counts: { 27: 1 },
           attr_val: 27,
           uid: 'TCGA-13-0897-01',
           na: false,
@@ -2858,9 +2288,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0937-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            80: 1,
-          },
+          attr_val_counts: { 80: 1 },
           attr_val: 80,
           uid: 'TCGA-10-0937-01',
           na: false,
@@ -2868,9 +2296,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1364-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            30: 1,
-          },
+          attr_val_counts: { 30: 1 },
           attr_val: 30,
           uid: 'TCGA-04-1364-01',
           na: false,
@@ -2878,9 +2304,7 @@ export const mockData = {
         {
           sample: 'TCGA-20-0991-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            74: 1,
-          },
+          attr_val_counts: { 74: 1 },
           attr_val: 74,
           uid: 'TCGA-20-0991-01',
           na: false,
@@ -2888,9 +2312,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2267-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            23: 1,
-          },
+          attr_val_counts: { 23: 1 },
           attr_val: 23,
           uid: 'TCGA-24-2267-01',
           na: false,
@@ -2898,9 +2320,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1404-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            72: 1,
-          },
+          attr_val_counts: { 72: 1 },
           attr_val: 72,
           uid: 'TCGA-13-1404-01',
           na: false,
@@ -2908,9 +2328,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0911-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            70: 1,
-          },
+          attr_val_counts: { 70: 1 },
           attr_val: 70,
           uid: 'TCGA-13-0911-01',
           na: false,
@@ -2918,9 +2336,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1313-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            36: 1,
-          },
+          attr_val_counts: { 36: 1 },
           attr_val: 36,
           uid: 'TCGA-25-1313-01',
           na: false,
@@ -2928,9 +2344,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1571-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            69: 1,
-          },
+          attr_val_counts: { 69: 1 },
           attr_val: 69,
           uid: 'TCGA-36-1571-01',
           na: false,
@@ -2938,9 +2352,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0884-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            80: 1,
-          },
+          attr_val_counts: { 80: 1 },
           attr_val: 80,
           uid: 'TCGA-13-0884-01',
           na: false,
@@ -2948,9 +2360,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1412-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            68: 1,
-          },
+          attr_val_counts: { 68: 1 },
           attr_val: 68,
           uid: 'TCGA-13-1412-01',
           na: false,
@@ -2958,9 +2368,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1545-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            58: 1,
-          },
+          attr_val_counts: { 58: 1 },
           attr_val: 58,
           uid: 'TCGA-24-1545-01',
           na: false,
@@ -2968,9 +2376,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1436-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            70: 1,
-          },
+          attr_val_counts: { 70: 1 },
           attr_val: 70,
           uid: 'TCGA-24-1436-01',
           na: false,
@@ -2978,9 +2384,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2400-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            58: 1,
-          },
+          attr_val_counts: { 58: 1 },
           attr_val: 58,
           uid: 'TCGA-25-2400-01',
           na: false,
@@ -2988,9 +2392,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1403-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            59: 1,
-          },
+          attr_val_counts: { 59: 1 },
           attr_val: 59,
           uid: 'TCGA-13-1403-01',
           na: false,
@@ -2998,9 +2400,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1116-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            29: 1,
-          },
+          attr_val_counts: { 29: 1 },
           attr_val: 29,
           uid: 'TCGA-23-1116-01',
           na: false,
@@ -3008,9 +2408,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0925-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            46: 1,
-          },
+          attr_val_counts: { 46: 1 },
           attr_val: 46,
           uid: 'TCGA-10-0925-01',
           na: false,
@@ -3018,9 +2416,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0933-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            79: 1,
-          },
+          attr_val_counts: { 79: 1 },
           attr_val: 79,
           uid: 'TCGA-10-0933-01',
           na: false,
@@ -3028,9 +2424,7 @@ export const mockData = {
         {
           sample: 'TCGA-20-1684-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            60: 1,
-          },
+          attr_val_counts: { 60: 1 },
           attr_val: 60,
           uid: 'TCGA-20-1684-01',
           na: false,
@@ -3038,9 +2432,7 @@ export const mockData = {
         {
           sample: 'TCGA-20-1685-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            76: 1,
-          },
+          attr_val_counts: { 76: 1 },
           attr_val: 76,
           uid: 'TCGA-20-1685-01',
           na: false,
@@ -3048,9 +2440,7 @@ export const mockData = {
         {
           sample: 'TCGA-20-1686-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            64: 1,
-          },
+          attr_val_counts: { 64: 1 },
           attr_val: 64,
           uid: 'TCGA-20-1686-01',
           na: false,
@@ -3058,9 +2448,7 @@ export const mockData = {
         {
           sample: 'TCGA-20-1687-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            42: 1,
-          },
+          attr_val_counts: { 42: 1 },
           attr_val: 42,
           uid: 'TCGA-20-1687-01',
           na: false,
@@ -3068,9 +2456,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1029-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            45: 1,
-          },
+          attr_val_counts: { 45: 1 },
           attr_val: 45,
           uid: 'TCGA-23-1029-01',
           na: false,
@@ -3078,9 +2464,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1031-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            22: 1,
-          },
+          attr_val_counts: { 22: 1 },
           attr_val: 22,
           uid: 'TCGA-23-1031-01',
           na: false,
@@ -3088,9 +2472,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1109-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            29: 1,
-          },
+          attr_val_counts: { 29: 1 },
           attr_val: 29,
           uid: 'TCGA-23-1109-01',
           na: false,
@@ -3098,9 +2480,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1111-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            76: 1,
-          },
+          attr_val_counts: { 76: 1 },
           attr_val: 76,
           uid: 'TCGA-23-1111-01',
           na: false,
@@ -3108,9 +2488,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1113-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            40: 1,
-          },
+          attr_val_counts: { 40: 1 },
           attr_val: 40,
           uid: 'TCGA-23-1113-01',
           na: false,
@@ -3118,9 +2496,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1119-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            35: 1,
-          },
+          attr_val_counts: { 35: 1 },
           attr_val: 35,
           uid: 'TCGA-23-1119-01',
           na: false,
@@ -3128,9 +2504,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1809-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            64: 1,
-          },
+          attr_val_counts: { 64: 1 },
           attr_val: 64,
           uid: 'TCGA-23-1809-01',
           na: false,
@@ -3138,9 +2512,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2641-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            63: 1,
-          },
+          attr_val_counts: { 63: 1 },
           attr_val: 63,
           uid: 'TCGA-23-2641-01',
           na: false,
@@ -3148,9 +2520,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2643-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            25: 1,
-          },
+          attr_val_counts: { 25: 1 },
           attr_val: 25,
           uid: 'TCGA-23-2643-01',
           na: false,
@@ -3158,9 +2528,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2645-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            73: 1,
-          },
+          attr_val_counts: { 73: 1 },
           attr_val: 73,
           uid: 'TCGA-23-2645-01',
           na: false,
@@ -3168,9 +2536,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2647-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            75: 1,
-          },
+          attr_val_counts: { 75: 1 },
           attr_val: 75,
           uid: 'TCGA-23-2647-01',
           na: false,
@@ -3178,9 +2544,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2649-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            39: 1,
-          },
+          attr_val_counts: { 39: 1 },
           attr_val: 39,
           uid: 'TCGA-23-2649-01',
           na: false,
@@ -3188,9 +2552,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-0980-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            67: 1,
-          },
+          attr_val_counts: { 67: 1 },
           attr_val: 67,
           uid: 'TCGA-24-0980-01',
           na: false,
@@ -3198,9 +2560,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-0981-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            66: 1,
-          },
+          attr_val_counts: { 66: 1 },
           attr_val: 66,
           uid: 'TCGA-24-0981-01',
           na: false,
@@ -3208,9 +2568,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1430-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            22: 1,
-          },
+          attr_val_counts: { 22: 1 },
           attr_val: 22,
           uid: 'TCGA-24-1430-01',
           na: false,
@@ -3218,9 +2576,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1435-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            44: 1,
-          },
+          attr_val_counts: { 44: 1 },
           attr_val: 44,
           uid: 'TCGA-24-1435-01',
           na: false,
@@ -3228,9 +2584,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1467-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            55: 1,
-          },
+          attr_val_counts: { 55: 1 },
           attr_val: 55,
           uid: 'TCGA-24-1467-01',
           na: false,
@@ -3238,9 +2592,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1544-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            55: 1,
-          },
+          attr_val_counts: { 55: 1 },
           attr_val: 55,
           uid: 'TCGA-24-1544-01',
           na: false,
@@ -3248,9 +2600,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1546-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            26: 1,
-          },
+          attr_val_counts: { 26: 1 },
           attr_val: 26,
           uid: 'TCGA-24-1546-01',
           na: false,
@@ -3258,9 +2608,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1550-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            39: 1,
-          },
+          attr_val_counts: { 39: 1 },
           attr_val: 39,
           uid: 'TCGA-24-1550-01',
           na: false,
@@ -3268,9 +2616,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1552-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            22: 1,
-          },
+          attr_val_counts: { 22: 1 },
           attr_val: 22,
           uid: 'TCGA-24-1552-01',
           na: false,
@@ -3278,9 +2624,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1553-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            56: 1,
-          },
+          attr_val_counts: { 56: 1 },
           attr_val: 56,
           uid: 'TCGA-24-1553-01',
           na: false,
@@ -3288,9 +2632,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1565-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            21: 1,
-          },
+          attr_val_counts: { 21: 1 },
           attr_val: 21,
           uid: 'TCGA-24-1565-01',
           na: false,
@@ -3298,9 +2640,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1842-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            50: 1,
-          },
+          attr_val_counts: { 50: 1 },
           attr_val: 50,
           uid: 'TCGA-24-1842-01',
           na: false,
@@ -3308,9 +2648,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1843-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            39: 1,
-          },
+          attr_val_counts: { 39: 1 },
           attr_val: 39,
           uid: 'TCGA-24-1843-01',
           na: false,
@@ -3318,9 +2656,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1844-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            26: 1,
-          },
+          attr_val_counts: { 26: 1 },
           attr_val: 26,
           uid: 'TCGA-24-1844-01',
           na: false,
@@ -3328,9 +2664,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1845-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            41: 1,
-          },
+          attr_val_counts: { 41: 1 },
           attr_val: 41,
           uid: 'TCGA-24-1845-01',
           na: false,
@@ -3338,9 +2672,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1846-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            50: 1,
-          },
+          attr_val_counts: { 50: 1 },
           attr_val: 50,
           uid: 'TCGA-24-1846-01',
           na: false,
@@ -3348,9 +2680,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1847-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            26: 1,
-          },
+          attr_val_counts: { 26: 1 },
           attr_val: 26,
           uid: 'TCGA-24-1847-01',
           na: false,
@@ -3358,9 +2688,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1849-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            72: 1,
-          },
+          attr_val_counts: { 72: 1 },
           attr_val: 72,
           uid: 'TCGA-24-1849-01',
           na: false,
@@ -3368,9 +2696,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1850-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            78: 1,
-          },
+          attr_val_counts: { 78: 1 },
           attr_val: 78,
           uid: 'TCGA-24-1850-01',
           na: false,
@@ -3378,9 +2704,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1852-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            35: 1,
-          },
+          attr_val_counts: { 35: 1 },
           attr_val: 35,
           uid: 'TCGA-24-1852-01',
           na: false,
@@ -3388,9 +2712,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1920-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            36: 1,
-          },
+          attr_val_counts: { 36: 1 },
           attr_val: 36,
           uid: 'TCGA-24-1920-01',
           na: false,
@@ -3398,9 +2720,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1923-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            40: 1,
-          },
+          attr_val_counts: { 40: 1 },
           attr_val: 40,
           uid: 'TCGA-24-1923-01',
           na: false,
@@ -3408,9 +2728,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1924-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            59: 1,
-          },
+          attr_val_counts: { 59: 1 },
           attr_val: 59,
           uid: 'TCGA-24-1924-01',
           na: false,
@@ -3418,9 +2736,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1927-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            61: 1,
-          },
+          attr_val_counts: { 61: 1 },
           attr_val: 61,
           uid: 'TCGA-24-1927-01',
           na: false,
@@ -3428,9 +2744,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1928-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            40: 1,
-          },
+          attr_val_counts: { 40: 1 },
           attr_val: 40,
           uid: 'TCGA-24-1928-01',
           na: false,
@@ -3438,9 +2752,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1930-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            59: 1,
-          },
+          attr_val_counts: { 59: 1 },
           attr_val: 59,
           uid: 'TCGA-24-1930-01',
           na: false,
@@ -3448,9 +2760,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2020-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            40: 1,
-          },
+          attr_val_counts: { 40: 1 },
           attr_val: 40,
           uid: 'TCGA-24-2020-01',
           na: false,
@@ -3458,9 +2768,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2023-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            49: 1,
-          },
+          attr_val_counts: { 49: 1 },
           attr_val: 49,
           uid: 'TCGA-24-2023-01',
           na: false,
@@ -3468,9 +2776,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2026-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            76: 1,
-          },
+          attr_val_counts: { 76: 1 },
           attr_val: 76,
           uid: 'TCGA-24-2026-01',
           na: false,
@@ -3478,9 +2784,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2027-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            64: 1,
-          },
+          attr_val_counts: { 64: 1 },
           attr_val: 64,
           uid: 'TCGA-24-2027-01',
           na: false,
@@ -3488,9 +2792,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2029-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            22: 1,
-          },
+          attr_val_counts: { 22: 1 },
           attr_val: 22,
           uid: 'TCGA-24-2029-01',
           na: false,
@@ -3498,9 +2800,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2033-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            21: 1,
-          },
+          attr_val_counts: { 21: 1 },
           attr_val: 21,
           uid: 'TCGA-24-2033-01',
           na: false,
@@ -3508,9 +2808,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2038-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            67: 1,
-          },
+          attr_val_counts: { 67: 1 },
           attr_val: 67,
           uid: 'TCGA-24-2038-01',
           na: false,
@@ -3518,9 +2816,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2295-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            55: 1,
-          },
+          attr_val_counts: { 55: 1 },
           attr_val: 55,
           uid: 'TCGA-24-2295-01',
           na: false,
@@ -3528,9 +2824,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1312-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            44: 1,
-          },
+          attr_val_counts: { 44: 1 },
           attr_val: 44,
           uid: 'TCGA-25-1312-01',
           na: false,
@@ -3538,9 +2832,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1314-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            32: 1,
-          },
+          attr_val_counts: { 32: 1 },
           attr_val: 32,
           uid: 'TCGA-25-1314-01',
           na: false,
@@ -3548,9 +2840,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1316-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            80: 1,
-          },
+          attr_val_counts: { 80: 1 },
           attr_val: 80,
           uid: 'TCGA-25-1316-01',
           na: false,
@@ -3558,9 +2848,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1317-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            52: 1,
-          },
+          attr_val_counts: { 52: 1 },
           attr_val: 52,
           uid: 'TCGA-25-1317-01',
           na: false,
@@ -3568,9 +2856,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1323-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            31: 1,
-          },
+          attr_val_counts: { 31: 1 },
           attr_val: 31,
           uid: 'TCGA-25-1323-01',
           na: false,
@@ -3578,9 +2864,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1325-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            76: 1,
-          },
+          attr_val_counts: { 76: 1 },
           attr_val: 76,
           uid: 'TCGA-25-1325-01',
           na: false,
@@ -3588,9 +2872,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1328-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            32: 1,
-          },
+          attr_val_counts: { 32: 1 },
           attr_val: 32,
           uid: 'TCGA-25-1328-01',
           na: false,
@@ -3598,9 +2880,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1633-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            69: 1,
-          },
+          attr_val_counts: { 69: 1 },
           attr_val: 69,
           uid: 'TCGA-25-1633-01',
           na: false,
@@ -3608,9 +2888,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1870-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            78: 1,
-          },
+          attr_val_counts: { 78: 1 },
           attr_val: 78,
           uid: 'TCGA-25-1870-01',
           na: false,
@@ -3618,9 +2896,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1871-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            40: 1,
-          },
+          attr_val_counts: { 40: 1 },
           attr_val: 40,
           uid: 'TCGA-25-1871-01',
           na: false,
@@ -3628,9 +2904,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1877-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            36: 1,
-          },
+          attr_val_counts: { 36: 1 },
           attr_val: 36,
           uid: 'TCGA-25-1877-01',
           na: false,
@@ -3638,9 +2912,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1878-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            71: 1,
-          },
+          attr_val_counts: { 71: 1 },
           attr_val: 71,
           uid: 'TCGA-25-1878-01',
           na: false,
@@ -3648,9 +2920,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2042-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            53: 1,
-          },
+          attr_val_counts: { 53: 1 },
           attr_val: 53,
           uid: 'TCGA-25-2042-01',
           na: false,
@@ -3658,9 +2928,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2390-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            59: 1,
-          },
+          attr_val_counts: { 59: 1 },
           attr_val: 59,
           uid: 'TCGA-25-2390-01',
           na: false,
@@ -3668,9 +2936,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2396-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            40: 1,
-          },
+          attr_val_counts: { 40: 1 },
           attr_val: 40,
           uid: 'TCGA-25-2396-01',
           na: false,
@@ -3678,9 +2944,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2397-01',
           attr_id: 'AGE',
-          attr_val_counts: {
-            31: 1,
-          },
+          attr_val_counts: { 31: 1 },
           attr_val: 31,
           uid: 'TCGA-25-2397-01',
           na: false,
@@ -3698,9 +2962,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2392-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-25-2392-01',
           na: false,
@@ -3708,9 +2970,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2393-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-25-2393-01',
           na: false,
@@ -3718,9 +2978,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1331-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-04-1331-01',
           na: false,
@@ -3728,9 +2986,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1365-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-04-1365-01',
           na: false,
@@ -3738,9 +2994,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1648-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-04-1648-01',
           na: false,
@@ -3748,9 +3002,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-1666-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-09-1666-01',
           na: false,
@@ -3758,9 +3010,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0720-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-13-0720-01',
           na: false,
@@ -3784,9 +3034,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0924-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-13-0924-01',
           na: false,
@@ -3794,9 +3042,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1405-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-13-1405-01',
           na: false,
@@ -3804,9 +3050,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1408-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-13-1408-01',
           na: false,
@@ -3822,9 +3066,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1023-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-23-1023-01',
           na: false,
@@ -3832,9 +3074,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1032-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-23-1032-01',
           na: false,
@@ -3858,9 +3098,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1118-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-23-1118-01',
           na: false,
@@ -3876,9 +3114,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2084-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-23-2084-01',
           na: false,
@@ -3886,9 +3122,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-0968-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-0968-01',
           na: false,
@@ -3904,9 +3138,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1103-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-24-1103-01',
           na: false,
@@ -3914,9 +3146,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1474-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-24-1474-01',
           na: false,
@@ -3924,9 +3154,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1567-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-24-1567-01',
           na: false,
@@ -3934,9 +3162,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2030-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-24-2030-01',
           na: false,
@@ -3944,9 +3170,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2036-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-2036-01',
           na: false,
@@ -3954,9 +3178,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2262-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-24-2262-01',
           na: false,
@@ -3972,9 +3194,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1322-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-25-1322-01',
           na: false,
@@ -3982,9 +3202,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2391-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-25-2391-01',
           na: false,
@@ -3992,9 +3210,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2401-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-25-2401-01',
           na: false,
@@ -4002,9 +3218,7 @@ export const mockData = {
         {
           sample: 'TCGA-29-1697-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-29-1697-01',
           na: false,
@@ -4012,9 +3226,7 @@ export const mockData = {
         {
           sample: 'TCGA-29-1702-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-29-1702-01',
           na: false,
@@ -4030,9 +3242,7 @@ export const mockData = {
         {
           sample: 'TCGA-30-1860-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-30-1860-01',
           na: false,
@@ -4040,9 +3250,7 @@ export const mockData = {
         {
           sample: 'TCGA-31-1951-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-31-1951-01',
           na: false,
@@ -4066,9 +3274,7 @@ export const mockData = {
         {
           sample: 'TCGA-57-1586-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-57-1586-01',
           na: false,
@@ -4076,9 +3282,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-1728-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-61-1728-01',
           na: false,
@@ -4094,9 +3298,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-1907-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-61-1907-01',
           na: false,
@@ -4104,9 +3306,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2012-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-61-2012-01',
           na: false,
@@ -4114,9 +3314,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2094-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-61-2094-01',
           na: false,
@@ -4124,9 +3322,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2097-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-61-2097-01',
           na: false,
@@ -4134,9 +3330,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1625-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-25-1625-01',
           na: false,
@@ -4144,9 +3338,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1357-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-04-1357-01',
           na: false,
@@ -4162,9 +3354,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2109-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-61-2109-01',
           na: false,
@@ -4172,9 +3362,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0761-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-13-0761-01',
           na: false,
@@ -4182,9 +3370,7 @@ export const mockData = {
         {
           sample: 'TCGA-29-2427-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-29-2427-01',
           na: false,
@@ -4200,9 +3386,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1027-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-23-1027-01',
           na: false,
@@ -4210,9 +3394,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1632-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-25-1632-01',
           na: false,
@@ -4220,9 +3402,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1026-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-23-1026-01',
           na: false,
@@ -4230,9 +3410,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0804-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-13-0804-01',
           na: false,
@@ -4240,9 +3418,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2298-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-2298-01',
           na: false,
@@ -4258,9 +3434,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-2045-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-09-2045-01',
           na: false,
@@ -4284,9 +3458,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1470-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-1470-01',
           na: false,
@@ -4294,9 +3466,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0730-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-13-0730-01',
           na: false,
@@ -4304,9 +3474,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0883-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-13-0883-01',
           na: false,
@@ -4314,9 +3482,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0903-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-13-0903-01',
           na: false,
@@ -4324,9 +3490,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0887-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-13-0887-01',
           na: false,
@@ -4334,9 +3498,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1494-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-13-1494-01',
           na: false,
@@ -4344,9 +3506,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-2051-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-09-2051-01',
           na: false,
@@ -4354,9 +3514,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2078-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-23-2078-01',
           na: false,
@@ -4364,9 +3522,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2079-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-23-2079-01',
           na: false,
@@ -4374,9 +3530,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0931-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-10-0931-01',
           na: false,
@@ -4384,9 +3538,7 @@ export const mockData = {
         {
           sample: 'TCGA-59-2348-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-59-2348-01',
           na: false,
@@ -4402,9 +3554,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-1669-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-09-1669-01',
           na: false,
@@ -4412,9 +3562,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2081-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-23-2081-01',
           na: false,
@@ -4454,9 +3602,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0913-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-13-0913-01',
           na: false,
@@ -4464,9 +3610,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1367-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-04-1367-01',
           na: false,
@@ -4490,9 +3634,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0890-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-13-0890-01',
           na: false,
@@ -4508,9 +3650,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1030-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-23-1030-01',
           na: false,
@@ -4518,9 +3658,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1634-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-25-1634-01',
           na: false,
@@ -4544,9 +3682,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0792-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-13-0792-01',
           na: false,
@@ -4554,9 +3690,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2293-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-24-2293-01',
           na: false,
@@ -4564,9 +3698,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1120-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-23-1120-01',
           na: false,
@@ -4574,9 +3706,7 @@ export const mockData = {
         {
           sample: 'TCGA-57-1584-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-57-1584-01',
           na: false,
@@ -4584,9 +3714,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0900-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-13-0900-01',
           na: false,
@@ -4602,9 +3730,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-0975-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-24-0975-01',
           na: false,
@@ -4612,9 +3738,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2288-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-24-2288-01',
           na: false,
@@ -4630,9 +3754,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1498-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-13-1498-01',
           na: false,
@@ -4640,9 +3762,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1499-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-13-1499-01',
           na: false,
@@ -4658,9 +3778,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2404-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-25-2404-01',
           na: false,
@@ -4676,9 +3794,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0930-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-10-0930-01',
           na: false,
@@ -4686,9 +3802,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1492-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-13-1492-01',
           na: false,
@@ -4696,9 +3810,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1505-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-13-1505-01',
           na: false,
@@ -4706,9 +3818,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1336-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-04-1336-01',
           na: false,
@@ -4716,9 +3826,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2261-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-24-2261-01',
           na: false,
@@ -4734,9 +3842,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1580-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-36-1580-01',
           na: false,
@@ -4752,9 +3858,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2409-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-25-2409-01',
           na: false,
@@ -4762,9 +3866,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-1919-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-61-1919-01',
           na: false,
@@ -4772,9 +3874,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0919-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-13-0919-01',
           na: false,
@@ -4782,9 +3882,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-2050-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-09-2050-01',
           na: false,
@@ -4792,9 +3890,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1626-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-25-1626-01',
           na: false,
@@ -4810,9 +3906,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1422-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-24-1422-01',
           na: false,
@@ -4828,9 +3922,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1564-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-1564-01',
           na: false,
@@ -4838,9 +3930,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2088-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-61-2088-01',
           na: false,
@@ -4848,9 +3938,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0934-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-10-0934-01',
           na: false,
@@ -4858,9 +3946,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2003-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-61-2003-01',
           na: false,
@@ -4868,9 +3954,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0714-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-13-0714-01',
           na: false,
@@ -4886,9 +3970,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1576-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-36-1576-01',
           na: false,
@@ -4912,9 +3994,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1428-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-24-1428-01',
           na: false,
@@ -4922,9 +4002,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1332-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-04-1332-01',
           na: false,
@@ -4932,9 +4010,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1349-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-04-1349-01',
           na: false,
@@ -4942,9 +4018,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0791-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-13-0791-01',
           na: false,
@@ -4952,9 +4026,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2019-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-24-2019-01',
           na: false,
@@ -4962,9 +4034,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1425-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-24-1425-01',
           na: false,
@@ -4988,9 +4058,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0760-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-13-0760-01',
           na: false,
@@ -4998,9 +4066,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1556-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-24-1556-01',
           na: false,
@@ -5016,9 +4082,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1616-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-24-1616-01',
           na: false,
@@ -5026,9 +4090,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1604-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-1604-01',
           na: false,
@@ -5036,9 +4098,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-1659-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-09-1659-01',
           na: false,
@@ -5046,9 +4106,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1413-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-1413-01',
           na: false,
@@ -5056,9 +4114,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-1662-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-09-1662-01',
           na: false,
@@ -5066,9 +4122,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0724-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-13-0724-01',
           na: false,
@@ -5076,9 +4130,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1484-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-13-1484-01',
           na: false,
@@ -5086,9 +4138,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2254-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-24-2254-01',
           na: false,
@@ -5096,9 +4146,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2101-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-61-2101-01',
           na: false,
@@ -5106,9 +4154,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-0366-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-09-0366-01',
           na: false,
@@ -5116,9 +4162,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-2053-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-09-2053-01',
           na: false,
@@ -5126,9 +4170,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2024-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-2024-01',
           na: false,
@@ -5136,9 +4178,7 @@ export const mockData = {
         {
           sample: 'TCGA-57-1993-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-57-1993-01',
           na: false,
@@ -5154,9 +4194,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0928-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-10-0928-01',
           na: false,
@@ -5164,9 +4202,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1525-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-04-1525-01',
           na: false,
@@ -5182,9 +4218,7 @@ export const mockData = {
         {
           sample: 'TCGA-30-1862-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-30-1862-01',
           na: false,
@@ -5192,9 +4226,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0765-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-13-0765-01',
           na: false,
@@ -5210,9 +4242,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1514-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-04-1514-01',
           na: false,
@@ -5220,9 +4250,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1509-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-13-1509-01',
           na: false,
@@ -5246,9 +4274,7 @@ export const mockData = {
         {
           sample: 'TCGA-20-0987-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-20-0987-01',
           na: false,
@@ -5256,9 +4282,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1024-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-23-1024-01',
           na: false,
@@ -5274,9 +4298,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1124-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-23-1124-01',
           na: false,
@@ -5284,9 +4306,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-1736-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-61-1736-01',
           na: false,
@@ -5302,9 +4322,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1434-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-24-1434-01',
           na: false,
@@ -5312,9 +4330,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1517-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-04-1517-01',
           na: false,
@@ -5322,9 +4338,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-1661-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-09-1661-01',
           na: false,
@@ -5332,9 +4346,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-1995-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-61-1995-01',
           na: false,
@@ -5350,9 +4362,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1569-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-36-1569-01',
           na: false,
@@ -5360,9 +4370,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2271-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-24-2271-01',
           na: false,
@@ -5370,9 +4378,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1123-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-23-1123-01',
           na: false,
@@ -5388,9 +4394,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0899-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-13-0899-01',
           na: false,
@@ -5398,9 +4402,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1110-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-23-1110-01',
           na: false,
@@ -5408,9 +4410,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1319-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-25-1319-01',
           na: false,
@@ -5418,9 +4418,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1548-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-24-1548-01',
           na: false,
@@ -5436,9 +4434,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1346-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-04-1346-01',
           na: false,
@@ -5446,9 +4442,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1350-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-04-1350-01',
           na: false,
@@ -5456,9 +4450,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1326-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-25-1326-01',
           na: false,
@@ -5466,9 +4458,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1549-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-24-1549-01',
           na: false,
@@ -5476,9 +4466,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0891-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-13-0891-01',
           na: false,
@@ -5486,9 +4474,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1411-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-13-1411-01',
           na: false,
@@ -5504,9 +4490,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1342-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-04-1342-01',
           na: false,
@@ -5530,9 +4514,7 @@ export const mockData = {
         {
           sample: 'TCGA-59-2354-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-59-2354-01',
           na: false,
@@ -5540,9 +4522,7 @@ export const mockData = {
         {
           sample: 'TCGA-59-2350-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-59-2350-01',
           na: false,
@@ -5550,9 +4530,7 @@ export const mockData = {
         {
           sample: 'TCGA-59-2363-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-59-2363-01',
           na: false,
@@ -5560,9 +4538,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0762-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-13-0762-01',
           na: false,
@@ -5578,9 +4554,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2398-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-25-2398-01',
           na: false,
@@ -5588,9 +4562,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1315-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-25-1315-01',
           na: false,
@@ -5598,9 +4570,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1497-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-13-1497-01',
           na: false,
@@ -5608,9 +4578,7 @@ export const mockData = {
         {
           sample: 'TCGA-30-1853-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-30-1853-01',
           na: false,
@@ -5618,9 +4586,7 @@ export const mockData = {
         {
           sample: 'TCGA-57-1582-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-57-1582-01',
           na: false,
@@ -5628,9 +4594,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-0966-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-24-0966-01',
           na: false,
@@ -5638,9 +4602,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1557-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-1557-01',
           na: false,
@@ -5648,9 +4610,7 @@ export const mockData = {
         {
           sample: 'TCGA-59-2355-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-59-2355-01',
           na: false,
@@ -5682,9 +4642,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1627-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-25-1627-01',
           na: false,
@@ -5708,9 +4666,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0889-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-13-0889-01',
           na: false,
@@ -5718,9 +4674,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2016-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-61-2016-01',
           na: false,
@@ -5728,9 +4682,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1362-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-04-1362-01',
           na: false,
@@ -5738,9 +4690,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0717-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-13-0717-01',
           na: false,
@@ -5756,9 +4706,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0938-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-10-0938-01',
           na: false,
@@ -5766,9 +4714,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2035-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-2035-01',
           na: false,
@@ -5784,9 +4730,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-0979-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-24-0979-01',
           na: false,
@@ -5794,9 +4738,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1361-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-04-1361-01',
           na: false,
@@ -5812,9 +4754,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1491-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-13-1491-01',
           na: false,
@@ -5822,9 +4762,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1635-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-25-1635-01',
           na: false,
@@ -5832,9 +4770,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1506-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-13-1506-01',
           na: false,
@@ -5842,9 +4778,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1560-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-24-1560-01',
           na: false,
@@ -5852,9 +4786,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1410-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-13-1410-01',
           na: false,
@@ -5862,9 +4794,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1464-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-1464-01',
           na: false,
@@ -5888,9 +4818,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2072-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-23-2072-01',
           na: false,
@@ -5906,9 +4834,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1426-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-24-1426-01',
           na: false,
@@ -5924,9 +4850,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1320-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-25-1320-01',
           na: false,
@@ -5934,9 +4858,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1021-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-23-1021-01',
           na: false,
@@ -5952,9 +4874,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1338-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-04-1338-01',
           na: false,
@@ -5962,9 +4882,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1117-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-23-1117-01',
           na: false,
@@ -5972,9 +4890,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1578-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-36-1578-01',
           na: false,
@@ -5982,9 +4898,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1575-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-36-1575-01',
           na: false,
@@ -5992,9 +4906,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1574-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-36-1574-01',
           na: false,
@@ -6002,9 +4914,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2399-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-25-2399-01',
           na: false,
@@ -6012,9 +4922,7 @@ export const mockData = {
         {
           sample: 'TCGA-30-1891-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-30-1891-01',
           na: false,
@@ -6022,9 +4930,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1577-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-36-1577-01',
           na: false,
@@ -6032,9 +4938,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1466-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-1466-01',
           na: false,
@@ -6042,9 +4946,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2092-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-61-2092-01',
           na: false,
@@ -6060,9 +4962,7 @@ export const mockData = {
         {
           sample: 'TCGA-20-0990-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-20-0990-01',
           na: false,
@@ -6070,9 +4970,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1104-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-1104-01',
           na: false,
@@ -6080,9 +4978,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1418-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-24-1418-01',
           na: false,
@@ -6090,9 +4986,7 @@ export const mockData = {
         {
           sample: 'TCGA-57-1583-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-57-1583-01',
           na: false,
@@ -6124,9 +5018,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1551-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-24-1551-01',
           na: false,
@@ -6134,9 +5026,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1431-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-24-1431-01',
           na: false,
@@ -6144,9 +5034,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-2060-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-13-2060-01',
           na: false,
@@ -6154,9 +5042,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1631-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-25-1631-01',
           na: false,
@@ -6172,9 +5058,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1603-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-1603-01',
           na: false,
@@ -6182,9 +5066,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1530-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-04-1530-01',
           na: false,
@@ -6200,9 +5082,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1471-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-24-1471-01',
           na: false,
@@ -6218,9 +5098,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1469-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-24-1469-01',
           na: false,
@@ -6236,9 +5114,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1028-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-23-1028-01',
           na: false,
@@ -6246,9 +5122,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0894-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-13-0894-01',
           na: false,
@@ -6272,9 +5146,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2000-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-61-2000-01',
           na: false,
@@ -6290,9 +5162,7 @@ export const mockData = {
         {
           sample: 'TCGA-31-1950-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-31-1950-01',
           na: false,
@@ -6308,9 +5178,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1427-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-24-1427-01',
           na: false,
@@ -6326,9 +5194,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0904-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-13-0904-01',
           na: false,
@@ -6336,9 +5202,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0923-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-13-0923-01',
           na: false,
@@ -6346,9 +5210,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1563-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-24-1563-01',
           na: false,
@@ -6356,9 +5218,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1504-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-13-1504-01',
           na: false,
@@ -6366,9 +5226,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1324-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-25-1324-01',
           na: false,
@@ -6376,9 +5234,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0897-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-13-0897-01',
           na: false,
@@ -6386,9 +5242,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0937-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-10-0937-01',
           na: false,
@@ -6396,9 +5250,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1364-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-04-1364-01',
           na: false,
@@ -6406,9 +5258,7 @@ export const mockData = {
         {
           sample: 'TCGA-20-0991-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-20-0991-01',
           na: false,
@@ -6416,9 +5266,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2267-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-24-2267-01',
           na: false,
@@ -6426,9 +5274,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1404-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-13-1404-01',
           na: false,
@@ -6436,9 +5282,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0911-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-13-0911-01',
           na: false,
@@ -6446,9 +5290,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1313-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-25-1313-01',
           na: false,
@@ -6456,9 +5298,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1571-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-36-1571-01',
           na: false,
@@ -6474,9 +5314,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1412-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-13-1412-01',
           na: false,
@@ -6484,9 +5322,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1545-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-24-1545-01',
           na: false,
@@ -6494,9 +5330,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1436-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-24-1436-01',
           na: false,
@@ -6504,9 +5338,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2400-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-25-2400-01',
           na: false,
@@ -6514,9 +5346,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1403-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-13-1403-01',
           na: false,
@@ -6524,9 +5354,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1116-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-23-1116-01',
           na: false,
@@ -6534,9 +5362,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0925-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-10-0925-01',
           na: false,
@@ -6552,9 +5378,7 @@ export const mockData = {
         {
           sample: 'TCGA-20-1684-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-20-1684-01',
           na: false,
@@ -6570,9 +5394,7 @@ export const mockData = {
         {
           sample: 'TCGA-20-1686-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-20-1686-01',
           na: false,
@@ -6580,9 +5402,7 @@ export const mockData = {
         {
           sample: 'TCGA-20-1687-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-20-1687-01',
           na: false,
@@ -6590,9 +5410,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1029-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-23-1029-01',
           na: false,
@@ -6608,9 +5426,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1109-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-23-1109-01',
           na: false,
@@ -6618,9 +5434,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1111-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-23-1111-01',
           na: false,
@@ -6628,9 +5442,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1113-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-23-1113-01',
           na: false,
@@ -6646,9 +5458,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1809-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-23-1809-01',
           na: false,
@@ -6656,9 +5466,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2641-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-23-2641-01',
           na: false,
@@ -6682,9 +5490,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2647-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-23-2647-01',
           na: false,
@@ -6708,9 +5514,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-0981-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-0981-01',
           na: false,
@@ -6718,9 +5522,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1430-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-24-1430-01',
           na: false,
@@ -6744,9 +5546,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1544-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-24-1544-01',
           na: false,
@@ -6762,9 +5562,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1550-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-1550-01',
           na: false,
@@ -6780,9 +5578,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1553-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-1553-01',
           na: false,
@@ -6790,9 +5586,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1565-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-24-1565-01',
           na: false,
@@ -6800,9 +5594,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1842-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-1842-01',
           na: false,
@@ -6818,9 +5610,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1844-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-1844-01',
           na: false,
@@ -6828,9 +5618,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1845-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-1845-01',
           na: false,
@@ -6838,9 +5626,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1846-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-24-1846-01',
           na: false,
@@ -6856,9 +5642,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1849-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-24-1849-01',
           na: false,
@@ -6882,9 +5666,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1920-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-24-1920-01',
           na: false,
@@ -6892,9 +5674,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1923-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-24-1923-01',
           na: false,
@@ -6902,9 +5682,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1924-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-1924-01',
           na: false,
@@ -6912,9 +5690,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1927-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-1927-01',
           na: false,
@@ -6922,9 +5698,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1928-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-1928-01',
           na: false,
@@ -6932,9 +5706,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1930-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-1930-01',
           na: false,
@@ -6950,9 +5722,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2023-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-24-2023-01',
           na: false,
@@ -6960,9 +5730,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2026-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-24-2026-01',
           na: false,
@@ -6970,9 +5738,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2027-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-2027-01',
           na: false,
@@ -6980,9 +5746,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2029-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-2029-01',
           na: false,
@@ -6990,9 +5754,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2033-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Lung: 1,
-          },
+          attr_val_counts: { Lung: 1 },
           attr_val: 'Lung',
           uid: 'TCGA-24-2033-01',
           na: false,
@@ -7000,9 +5762,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2038-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-24-2038-01',
           na: false,
@@ -7018,9 +5778,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1312-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-25-1312-01',
           na: false,
@@ -7028,9 +5786,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1314-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-25-1314-01',
           na: false,
@@ -7038,9 +5794,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1316-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-25-1316-01',
           na: false,
@@ -7048,9 +5802,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1317-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-25-1317-01',
           na: false,
@@ -7058,9 +5810,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1323-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-25-1323-01',
           na: false,
@@ -7068,9 +5818,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1325-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-25-1325-01',
           na: false,
@@ -7086,9 +5834,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1633-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-25-1633-01',
           na: false,
@@ -7096,9 +5842,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1870-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-25-1870-01',
           na: false,
@@ -7106,9 +5850,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1871-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-25-1871-01',
           na: false,
@@ -7116,9 +5858,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1877-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-25-1877-01',
           na: false,
@@ -7126,9 +5866,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1878-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Prostate: 1,
-          },
+          attr_val_counts: { Prostate: 1 },
           attr_val: 'Prostate',
           uid: 'TCGA-25-1878-01',
           na: false,
@@ -7152,9 +5890,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2396-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-25-2396-01',
           na: false,
@@ -7162,9 +5898,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2397-01',
           attr_id: 'CANCER_TYPE',
-          attr_val_counts: {
-            Breast: 1,
-          },
+          attr_val_counts: { Breast: 1 },
           attr_val: 'Breast',
           uid: 'TCGA-25-2397-01',
           na: false,
@@ -7181,9 +5915,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2392-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            94: 1,
-          },
+          attr_val_counts: { 94: 1 },
           attr_val: 94,
           uid: 'TCGA-25-2392-01',
           na: false,
@@ -7191,9 +5923,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2393-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            699: 1,
-          },
+          attr_val_counts: { 699: 1 },
           attr_val: 699,
           uid: 'TCGA-25-2393-01',
           na: false,
@@ -7201,9 +5931,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1331-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            301: 1,
-          },
+          attr_val_counts: { 301: 1 },
           attr_val: 301,
           uid: 'TCGA-04-1331-01',
           na: false,
@@ -7211,9 +5939,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1365-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            11: 1,
-          },
+          attr_val_counts: { 11: 1 },
           attr_val: 11,
           uid: 'TCGA-04-1365-01',
           na: false,
@@ -7221,9 +5947,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1648-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            1: 1,
-          },
+          attr_val_counts: { 1: 1 },
           attr_val: 1,
           uid: 'TCGA-04-1648-01',
           na: false,
@@ -7231,9 +5955,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-1666-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            23: 1,
-          },
+          attr_val_counts: { 23: 1 },
           attr_val: 23,
           uid: 'TCGA-09-1666-01',
           na: false,
@@ -7241,9 +5963,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0720-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            1: 1,
-          },
+          attr_val_counts: { 1: 1 },
           attr_val: 1,
           uid: 'TCGA-13-0720-01',
           na: false,
@@ -7251,9 +5971,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0801-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            655: 1,
-          },
+          attr_val_counts: { 655: 1 },
           attr_val: 655,
           uid: 'TCGA-13-0801-01',
           na: false,
@@ -7261,9 +5979,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0905-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            56: 1,
-          },
+          attr_val_counts: { 56: 1 },
           attr_val: 56,
           uid: 'TCGA-13-0905-01',
           na: false,
@@ -7271,9 +5987,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0924-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            33: 1,
-          },
+          attr_val_counts: { 33: 1 },
           attr_val: 33,
           uid: 'TCGA-13-0924-01',
           na: false,
@@ -7281,9 +5995,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1405-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            49: 1,
-          },
+          attr_val_counts: { 49: 1 },
           attr_val: 49,
           uid: 'TCGA-13-1405-01',
           na: false,
@@ -7291,9 +6003,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1408-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            20: 1,
-          },
+          attr_val_counts: { 20: 1 },
           attr_val: 20,
           uid: 'TCGA-13-1408-01',
           na: false,
@@ -7301,9 +6011,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1488-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            53: 1,
-          },
+          attr_val_counts: { 53: 1 },
           attr_val: 53,
           uid: 'TCGA-13-1488-01',
           na: false,
@@ -7311,9 +6019,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1023-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            7: 1,
-          },
+          attr_val_counts: { 7: 1 },
           attr_val: 7,
           uid: 'TCGA-23-1023-01',
           na: false,
@@ -7321,9 +6027,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1032-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            928: 1,
-          },
+          attr_val_counts: { 928: 1 },
           attr_val: 928,
           uid: 'TCGA-23-1032-01',
           na: false,
@@ -7331,9 +6035,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1107-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            2: 1,
-          },
+          attr_val_counts: { 2: 1 },
           attr_val: 2,
           uid: 'TCGA-23-1107-01',
           na: false,
@@ -7341,9 +6043,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1114-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            509: 1,
-          },
+          attr_val_counts: { 509: 1 },
           attr_val: 509,
           uid: 'TCGA-23-1114-01',
           na: false,
@@ -7351,9 +6051,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1118-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            202: 1,
-          },
+          attr_val_counts: { 202: 1 },
           attr_val: 202,
           uid: 'TCGA-23-1118-01',
           na: false,
@@ -7361,9 +6059,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1121-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            7: 1,
-          },
+          attr_val_counts: { 7: 1 },
           attr_val: 7,
           uid: 'TCGA-23-1121-01',
           na: false,
@@ -7371,9 +6067,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2084-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            13: 1,
-          },
+          attr_val_counts: { 13: 1 },
           attr_val: 13,
           uid: 'TCGA-23-2084-01',
           na: false,
@@ -7381,9 +6075,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-0968-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            17: 1,
-          },
+          attr_val_counts: { 17: 1 },
           attr_val: 17,
           uid: 'TCGA-24-0968-01',
           na: false,
@@ -7391,9 +6083,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-0970-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            17: 1,
-          },
+          attr_val_counts: { 17: 1 },
           attr_val: 17,
           uid: 'TCGA-24-0970-01',
           na: false,
@@ -7401,9 +6091,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1103-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            25: 1,
-          },
+          attr_val_counts: { 25: 1 },
           attr_val: 25,
           uid: 'TCGA-24-1103-01',
           na: false,
@@ -7411,9 +6099,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1474-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            7: 1,
-          },
+          attr_val_counts: { 7: 1 },
           attr_val: 7,
           uid: 'TCGA-24-1474-01',
           na: false,
@@ -7421,9 +6107,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1567-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            491: 1,
-          },
+          attr_val_counts: { 491: 1 },
           attr_val: 491,
           uid: 'TCGA-24-1567-01',
           na: false,
@@ -7431,9 +6115,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2030-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            4: 1,
-          },
+          attr_val_counts: { 4: 1 },
           attr_val: 4,
           uid: 'TCGA-24-2030-01',
           na: false,
@@ -7441,9 +6123,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2036-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            7: 1,
-          },
+          attr_val_counts: { 7: 1 },
           attr_val: 7,
           uid: 'TCGA-24-2036-01',
           na: false,
@@ -7451,9 +6131,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2262-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            378: 1,
-          },
+          attr_val_counts: { 378: 1 },
           attr_val: 378,
           uid: 'TCGA-24-2262-01',
           na: false,
@@ -7461,9 +6139,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2297-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            4: 1,
-          },
+          attr_val_counts: { 4: 1 },
           attr_val: 4,
           uid: 'TCGA-24-2297-01',
           na: false,
@@ -7471,9 +6147,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1322-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            274: 1,
-          },
+          attr_val_counts: { 274: 1 },
           attr_val: 274,
           uid: 'TCGA-25-1322-01',
           na: false,
@@ -7481,9 +6155,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2391-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            78: 1,
-          },
+          attr_val_counts: { 78: 1 },
           attr_val: 78,
           uid: 'TCGA-25-2391-01',
           na: false,
@@ -7491,9 +6163,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2401-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            1: 1,
-          },
+          attr_val_counts: { 1: 1 },
           attr_val: 1,
           uid: 'TCGA-25-2401-01',
           na: false,
@@ -7501,9 +6171,7 @@ export const mockData = {
         {
           sample: 'TCGA-29-1697-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            2: 1,
-          },
+          attr_val_counts: { 2: 1 },
           attr_val: 2,
           uid: 'TCGA-29-1697-01',
           na: false,
@@ -7511,9 +6179,7 @@ export const mockData = {
         {
           sample: 'TCGA-29-1702-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            10: 1,
-          },
+          attr_val_counts: { 10: 1 },
           attr_val: 10,
           uid: 'TCGA-29-1702-01',
           na: false,
@@ -7521,9 +6187,7 @@ export const mockData = {
         {
           sample: 'TCGA-29-1761-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            244: 1,
-          },
+          attr_val_counts: { 244: 1 },
           attr_val: 244,
           uid: 'TCGA-29-1761-01',
           na: false,
@@ -7531,9 +6195,7 @@ export const mockData = {
         {
           sample: 'TCGA-30-1860-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            14: 1,
-          },
+          attr_val_counts: { 14: 1 },
           attr_val: 14,
           uid: 'TCGA-30-1860-01',
           na: false,
@@ -7541,9 +6203,7 @@ export const mockData = {
         {
           sample: 'TCGA-31-1951-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            45: 1,
-          },
+          attr_val_counts: { 45: 1 },
           attr_val: 45,
           uid: 'TCGA-31-1951-01',
           na: false,
@@ -7551,9 +6211,7 @@ export const mockData = {
         {
           sample: 'TCGA-31-1959-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            79: 1,
-          },
+          attr_val_counts: { 79: 1 },
           attr_val: 79,
           uid: 'TCGA-31-1959-01',
           na: false,
@@ -7561,9 +6219,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1570-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            52: 1,
-          },
+          attr_val_counts: { 52: 1 },
           attr_val: 52,
           uid: 'TCGA-36-1570-01',
           na: false,
@@ -7571,9 +6227,7 @@ export const mockData = {
         {
           sample: 'TCGA-57-1586-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            25: 1,
-          },
+          attr_val_counts: { 25: 1 },
           attr_val: 25,
           uid: 'TCGA-57-1586-01',
           na: false,
@@ -7581,9 +6235,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-1728-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            988: 1,
-          },
+          attr_val_counts: { 988: 1 },
           attr_val: 988,
           uid: 'TCGA-61-1728-01',
           na: false,
@@ -7591,9 +6243,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-1895-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            101: 1,
-          },
+          attr_val_counts: { 101: 1 },
           attr_val: 101,
           uid: 'TCGA-61-1895-01',
           na: false,
@@ -7601,9 +6251,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-1907-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            204: 1,
-          },
+          attr_val_counts: { 204: 1 },
           attr_val: 204,
           uid: 'TCGA-61-1907-01',
           na: false,
@@ -7611,9 +6259,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2012-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            55: 1,
-          },
+          attr_val_counts: { 55: 1 },
           attr_val: 55,
           uid: 'TCGA-61-2012-01',
           na: false,
@@ -7621,9 +6267,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2094-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            269: 1,
-          },
+          attr_val_counts: { 269: 1 },
           attr_val: 269,
           uid: 'TCGA-61-2094-01',
           na: false,
@@ -7631,9 +6275,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2097-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            4: 1,
-          },
+          attr_val_counts: { 4: 1 },
           attr_val: 4,
           uid: 'TCGA-61-2097-01',
           na: false,
@@ -7641,9 +6283,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1625-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            65: 1,
-          },
+          attr_val_counts: { 65: 1 },
           attr_val: 65,
           uid: 'TCGA-25-1625-01',
           na: false,
@@ -7651,9 +6291,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1357-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            1: 1,
-          },
+          attr_val_counts: { 1: 1 },
           attr_val: 1,
           uid: 'TCGA-04-1357-01',
           na: false,
@@ -7661,9 +6299,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0893-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            1: 1,
-          },
+          attr_val_counts: { 1: 1 },
           attr_val: 1,
           uid: 'TCGA-13-0893-01',
           na: false,
@@ -7671,9 +6307,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2109-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            15: 1,
-          },
+          attr_val_counts: { 15: 1 },
           attr_val: 15,
           uid: 'TCGA-61-2109-01',
           na: false,
@@ -7681,9 +6315,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0761-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            142: 1,
-          },
+          attr_val_counts: { 142: 1 },
           attr_val: 142,
           uid: 'TCGA-13-0761-01',
           na: false,
@@ -7691,9 +6323,7 @@ export const mockData = {
         {
           sample: 'TCGA-29-2427-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            2: 1,
-          },
+          attr_val_counts: { 2: 1 },
           attr_val: 2,
           uid: 'TCGA-29-2427-01',
           na: false,
@@ -7701,9 +6331,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1122-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            5: 1,
-          },
+          attr_val_counts: { 5: 1 },
           attr_val: 5,
           uid: 'TCGA-23-1122-01',
           na: false,
@@ -7711,9 +6339,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1027-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            619: 1,
-          },
+          attr_val_counts: { 619: 1 },
           attr_val: 619,
           uid: 'TCGA-23-1027-01',
           na: false,
@@ -7721,9 +6347,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1632-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            4: 1,
-          },
+          attr_val_counts: { 4: 1 },
           attr_val: 4,
           uid: 'TCGA-25-1632-01',
           na: false,
@@ -7731,9 +6355,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1026-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            288: 1,
-          },
+          attr_val_counts: { 288: 1 },
           attr_val: 288,
           uid: 'TCGA-23-1026-01',
           na: false,
@@ -7741,9 +6363,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0804-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            184: 1,
-          },
+          attr_val_counts: { 184: 1 },
           attr_val: 184,
           uid: 'TCGA-13-0804-01',
           na: false,
@@ -7751,9 +6371,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2298-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            1: 1,
-          },
+          attr_val_counts: { 1: 1 },
           attr_val: 1,
           uid: 'TCGA-24-2298-01',
           na: false,
@@ -7761,9 +6379,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2008-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            348: 1,
-          },
+          attr_val_counts: { 348: 1 },
           attr_val: 348,
           uid: 'TCGA-61-2008-01',
           na: false,
@@ -7771,9 +6387,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-2045-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            5: 1,
-          },
+          attr_val_counts: { 5: 1 },
           attr_val: 5,
           uid: 'TCGA-09-2045-01',
           na: false,
@@ -7781,9 +6395,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1356-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            358: 1,
-          },
+          attr_val_counts: { 358: 1 },
           attr_val: 358,
           uid: 'TCGA-04-1356-01',
           na: false,
@@ -7791,9 +6403,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1630-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            523: 1,
-          },
+          attr_val_counts: { 523: 1 },
           attr_val: 523,
           uid: 'TCGA-25-1630-01',
           na: false,
@@ -7801,9 +6411,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1470-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            53: 1,
-          },
+          attr_val_counts: { 53: 1 },
           attr_val: 53,
           uid: 'TCGA-24-1470-01',
           na: false,
@@ -7811,9 +6419,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0730-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            116: 1,
-          },
+          attr_val_counts: { 116: 1 },
           attr_val: 116,
           uid: 'TCGA-13-0730-01',
           na: false,
@@ -7821,9 +6427,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0883-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            82: 1,
-          },
+          attr_val_counts: { 82: 1 },
           attr_val: 82,
           uid: 'TCGA-13-0883-01',
           na: false,
@@ -7831,9 +6435,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0903-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            139: 1,
-          },
+          attr_val_counts: { 139: 1 },
           attr_val: 139,
           uid: 'TCGA-13-0903-01',
           na: false,
@@ -7841,9 +6443,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0887-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            315: 1,
-          },
+          attr_val_counts: { 315: 1 },
           attr_val: 315,
           uid: 'TCGA-13-0887-01',
           na: false,
@@ -7851,9 +6451,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1494-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            2: 1,
-          },
+          attr_val_counts: { 2: 1 },
           attr_val: 2,
           uid: 'TCGA-13-1494-01',
           na: false,
@@ -7861,9 +6459,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-2051-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            5: 1,
-          },
+          attr_val_counts: { 5: 1 },
           attr_val: 5,
           uid: 'TCGA-09-2051-01',
           na: false,
@@ -7871,9 +6467,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2078-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            82: 1,
-          },
+          attr_val_counts: { 82: 1 },
           attr_val: 82,
           uid: 'TCGA-23-2078-01',
           na: false,
@@ -7881,9 +6475,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2079-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            215: 1,
-          },
+          attr_val_counts: { 215: 1 },
           attr_val: 215,
           uid: 'TCGA-23-2079-01',
           na: false,
@@ -7891,9 +6483,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0931-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            79: 1,
-          },
+          attr_val_counts: { 79: 1 },
           attr_val: 79,
           uid: 'TCGA-10-0931-01',
           na: false,
@@ -7901,9 +6491,7 @@ export const mockData = {
         {
           sample: 'TCGA-59-2348-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            236: 1,
-          },
+          attr_val_counts: { 236: 1 },
           attr_val: 236,
           uid: 'TCGA-59-2348-01',
           na: false,
@@ -7911,9 +6499,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2077-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            2: 1,
-          },
+          attr_val_counts: { 2: 1 },
           attr_val: 2,
           uid: 'TCGA-23-2077-01',
           na: false,
@@ -7921,9 +6507,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-1669-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            21: 1,
-          },
+          attr_val_counts: { 21: 1 },
           attr_val: 21,
           uid: 'TCGA-09-1669-01',
           na: false,
@@ -7931,9 +6515,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2081-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            295: 1,
-          },
+          attr_val_counts: { 295: 1 },
           attr_val: 295,
           uid: 'TCGA-23-2081-01',
           na: false,
@@ -7941,9 +6523,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1489-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            13: 1,
-          },
+          attr_val_counts: { 13: 1 },
           attr_val: 13,
           uid: 'TCGA-13-1489-01',
           na: false,
@@ -7951,9 +6531,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1318-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            3: 1,
-          },
+          attr_val_counts: { 3: 1 },
           attr_val: 3,
           uid: 'TCGA-25-1318-01',
           na: false,
@@ -7961,9 +6539,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0793-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            14: 1,
-          },
+          attr_val_counts: { 14: 1 },
           attr_val: 14,
           uid: 'TCGA-13-0793-01',
           na: false,
@@ -7971,9 +6547,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1463-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            510: 1,
-          },
+          attr_val_counts: { 510: 1 },
           attr_val: 510,
           uid: 'TCGA-24-1463-01',
           na: false,
@@ -7981,9 +6555,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0913-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            4: 1,
-          },
+          attr_val_counts: { 4: 1 },
           attr_val: 4,
           uid: 'TCGA-13-0913-01',
           na: false,
@@ -7991,9 +6563,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1367-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            6: 1,
-          },
+          attr_val_counts: { 6: 1 },
           attr_val: 6,
           uid: 'TCGA-04-1367-01',
           na: false,
@@ -8001,9 +6571,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1562-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            407: 1,
-          },
+          attr_val_counts: { 407: 1 },
           attr_val: 407,
           uid: 'TCGA-24-1562-01',
           na: false,
@@ -8011,9 +6579,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0885-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            8: 1,
-          },
+          attr_val_counts: { 8: 1 },
           attr_val: 8,
           uid: 'TCGA-13-0885-01',
           na: false,
@@ -8021,9 +6587,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0890-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            145: 1,
-          },
+          attr_val_counts: { 145: 1 },
           attr_val: 145,
           uid: 'TCGA-13-0890-01',
           na: false,
@@ -8031,9 +6595,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1512-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            433: 1,
-          },
+          attr_val_counts: { 433: 1 },
           attr_val: 433,
           uid: 'TCGA-13-1512-01',
           na: false,
@@ -8041,9 +6603,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1030-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            3: 1,
-          },
+          attr_val_counts: { 3: 1 },
           attr_val: 3,
           uid: 'TCGA-23-1030-01',
           na: false,
@@ -8051,9 +6611,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1634-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            2: 1,
-          },
+          attr_val_counts: { 2: 1 },
           attr_val: 2,
           uid: 'TCGA-25-1634-01',
           na: false,
@@ -8061,9 +6619,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1555-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            8: 1,
-          },
+          attr_val_counts: { 8: 1 },
           attr_val: 8,
           uid: 'TCGA-24-1555-01',
           na: false,
@@ -8071,9 +6627,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0886-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            2: 1,
-          },
+          attr_val_counts: { 2: 1 },
           attr_val: 2,
           uid: 'TCGA-13-0886-01',
           na: false,
@@ -8081,9 +6635,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0792-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            365: 1,
-          },
+          attr_val_counts: { 365: 1 },
           attr_val: 365,
           uid: 'TCGA-13-0792-01',
           na: false,
@@ -8091,9 +6643,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2293-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            114: 1,
-          },
+          attr_val_counts: { 114: 1 },
           attr_val: 114,
           uid: 'TCGA-24-2293-01',
           na: false,
@@ -8101,9 +6651,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1120-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            202: 1,
-          },
+          attr_val_counts: { 202: 1 },
           attr_val: 202,
           uid: 'TCGA-23-1120-01',
           na: false,
@@ -8111,9 +6659,7 @@ export const mockData = {
         {
           sample: 'TCGA-57-1584-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            2: 1,
-          },
+          attr_val_counts: { 2: 1 },
           attr_val: 2,
           uid: 'TCGA-57-1584-01',
           na: false,
@@ -8121,9 +6667,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0900-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            2: 1,
-          },
+          attr_val_counts: { 2: 1 },
           attr_val: 2,
           uid: 'TCGA-13-0900-01',
           na: false,
@@ -8131,9 +6675,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2280-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            120: 1,
-          },
+          attr_val_counts: { 120: 1 },
           attr_val: 120,
           uid: 'TCGA-24-2280-01',
           na: false,
@@ -8141,9 +6683,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-0975-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            174: 1,
-          },
+          attr_val_counts: { 174: 1 },
           attr_val: 174,
           uid: 'TCGA-24-0975-01',
           na: false,
@@ -8151,9 +6691,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2288-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            13: 1,
-          },
+          attr_val_counts: { 13: 1 },
           attr_val: 13,
           uid: 'TCGA-24-2288-01',
           na: false,
@@ -8161,9 +6699,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1417-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            11: 1,
-          },
+          attr_val_counts: { 11: 1 },
           attr_val: 11,
           uid: 'TCGA-24-1417-01',
           na: false,
@@ -8171,9 +6707,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1498-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            9: 1,
-          },
+          attr_val_counts: { 9: 1 },
           attr_val: 9,
           uid: 'TCGA-13-1498-01',
           na: false,
@@ -8181,9 +6715,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1499-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            11: 1,
-          },
+          attr_val_counts: { 11: 1 },
           attr_val: 11,
           uid: 'TCGA-13-1499-01',
           na: false,
@@ -8191,9 +6723,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0726-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            727: 1,
-          },
+          attr_val_counts: { 727: 1 },
           attr_val: 727,
           uid: 'TCGA-13-0726-01',
           na: false,
@@ -8201,9 +6731,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2404-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            5: 1,
-          },
+          attr_val_counts: { 5: 1 },
           attr_val: 5,
           uid: 'TCGA-25-2404-01',
           na: false,
@@ -8211,9 +6739,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1481-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            6: 1,
-          },
+          attr_val_counts: { 6: 1 },
           attr_val: 6,
           uid: 'TCGA-13-1481-01',
           na: false,
@@ -8221,9 +6747,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0930-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            436: 1,
-          },
+          attr_val_counts: { 436: 1 },
           attr_val: 436,
           uid: 'TCGA-10-0930-01',
           na: false,
@@ -8231,9 +6755,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1492-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            56: 1,
-          },
+          attr_val_counts: { 56: 1 },
           attr_val: 56,
           uid: 'TCGA-13-1492-01',
           na: false,
@@ -8241,9 +6763,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1505-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            65: 1,
-          },
+          attr_val_counts: { 65: 1 },
           attr_val: 65,
           uid: 'TCGA-13-1505-01',
           na: false,
@@ -8251,9 +6771,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1336-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            401: 1,
-          },
+          attr_val_counts: { 401: 1 },
           attr_val: 401,
           uid: 'TCGA-04-1336-01',
           na: false,
@@ -8261,9 +6779,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2261-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            4: 1,
-          },
+          attr_val_counts: { 4: 1 },
           attr_val: 4,
           uid: 'TCGA-24-2261-01',
           na: false,
@@ -8271,9 +6787,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0912-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            14: 1,
-          },
+          attr_val_counts: { 14: 1 },
           attr_val: 14,
           uid: 'TCGA-13-0912-01',
           na: false,
@@ -8281,9 +6795,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1580-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            3: 1,
-          },
+          attr_val_counts: { 3: 1 },
           attr_val: 3,
           uid: 'TCGA-36-1580-01',
           na: false,
@@ -8291,9 +6803,7 @@ export const mockData = {
         {
           sample: 'TCGA-59-2352-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            490: 1,
-          },
+          attr_val_counts: { 490: 1 },
           attr_val: 490,
           uid: 'TCGA-59-2352-01',
           na: false,
@@ -8301,9 +6811,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2409-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            618: 1,
-          },
+          attr_val_counts: { 618: 1 },
           attr_val: 618,
           uid: 'TCGA-25-2409-01',
           na: false,
@@ -8311,9 +6819,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-1919-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            62: 1,
-          },
+          attr_val_counts: { 62: 1 },
           attr_val: 62,
           uid: 'TCGA-61-1919-01',
           na: false,
@@ -8321,9 +6827,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0919-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            2: 1,
-          },
+          attr_val_counts: { 2: 1 },
           attr_val: 2,
           uid: 'TCGA-13-0919-01',
           na: false,
@@ -8331,9 +6835,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-2050-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            3: 1,
-          },
+          attr_val_counts: { 3: 1 },
           attr_val: 3,
           uid: 'TCGA-09-2050-01',
           na: false,
@@ -8341,9 +6843,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1626-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            150: 1,
-          },
+          attr_val_counts: { 150: 1 },
           attr_val: 150,
           uid: 'TCGA-25-1626-01',
           na: false,
@@ -8351,9 +6851,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-2049-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            5: 1,
-          },
+          attr_val_counts: { 5: 1 },
           attr_val: 5,
           uid: 'TCGA-09-2049-01',
           na: false,
@@ -8361,9 +6859,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1422-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            1071: 1,
-          },
+          attr_val_counts: { 1071: 1 },
           attr_val: 1071,
           uid: 'TCGA-24-1422-01',
           na: false,
@@ -8371,9 +6867,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1416-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            26: 1,
-          },
+          attr_val_counts: { 26: 1 },
           attr_val: 26,
           uid: 'TCGA-24-1416-01',
           na: false,
@@ -8381,9 +6875,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1564-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            5: 1,
-          },
+          attr_val_counts: { 5: 1 },
           attr_val: 5,
           uid: 'TCGA-24-1564-01',
           na: false,
@@ -8391,9 +6883,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2088-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            288: 1,
-          },
+          attr_val_counts: { 288: 1 },
           attr_val: 288,
           uid: 'TCGA-61-2088-01',
           na: false,
@@ -8401,9 +6891,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0934-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            63: 1,
-          },
+          attr_val_counts: { 63: 1 },
           attr_val: 63,
           uid: 'TCGA-10-0934-01',
           na: false,
@@ -8411,9 +6899,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2003-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            5: 1,
-          },
+          attr_val_counts: { 5: 1 },
           attr_val: 5,
           uid: 'TCGA-61-2003-01',
           na: false,
@@ -8421,9 +6907,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0714-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            4: 1,
-          },
+          attr_val_counts: { 4: 1 },
           attr_val: 4,
           uid: 'TCGA-13-0714-01',
           na: false,
@@ -8431,9 +6915,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1510-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            2: 1,
-          },
+          attr_val_counts: { 2: 1 },
           attr_val: 2,
           uid: 'TCGA-13-1510-01',
           na: false,
@@ -8441,9 +6923,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1576-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            8: 1,
-          },
+          attr_val_counts: { 8: 1 },
           attr_val: 8,
           uid: 'TCGA-36-1576-01',
           na: false,
@@ -8451,9 +6931,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1329-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            2: 1,
-          },
+          attr_val_counts: { 2: 1 },
           attr_val: 2,
           uid: 'TCGA-25-1329-01',
           na: false,
@@ -8461,9 +6939,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1337-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            23: 1,
-          },
+          attr_val_counts: { 23: 1 },
           attr_val: 23,
           uid: 'TCGA-04-1337-01',
           na: false,
@@ -8471,9 +6947,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1428-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            178: 1,
-          },
+          attr_val_counts: { 178: 1 },
           attr_val: 178,
           uid: 'TCGA-24-1428-01',
           na: false,
@@ -8481,9 +6955,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1332-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            166: 1,
-          },
+          attr_val_counts: { 166: 1 },
           attr_val: 166,
           uid: 'TCGA-04-1332-01',
           na: false,
@@ -8491,9 +6963,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1349-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            1: 1,
-          },
+          attr_val_counts: { 1: 1 },
           attr_val: 1,
           uid: 'TCGA-04-1349-01',
           na: false,
@@ -8501,9 +6971,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0791-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            690: 1,
-          },
+          attr_val_counts: { 690: 1 },
           attr_val: 690,
           uid: 'TCGA-13-0791-01',
           na: false,
@@ -8511,9 +6979,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2019-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            865: 1,
-          },
+          attr_val_counts: { 865: 1 },
           attr_val: 865,
           uid: 'TCGA-24-2019-01',
           na: false,
@@ -8521,9 +6987,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1425-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            863: 1,
-          },
+          attr_val_counts: { 863: 1 },
           attr_val: 863,
           uid: 'TCGA-24-1425-01',
           na: false,
@@ -8531,9 +6995,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1423-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            15: 1,
-          },
+          attr_val_counts: { 15: 1 },
           attr_val: 15,
           uid: 'TCGA-24-1423-01',
           na: false,
@@ -8541,9 +7003,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0926-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            7: 1,
-          },
+          attr_val_counts: { 7: 1 },
           attr_val: 7,
           uid: 'TCGA-10-0926-01',
           na: false,
@@ -8551,9 +7011,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0760-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            10: 1,
-          },
+          attr_val_counts: { 10: 1 },
           attr_val: 10,
           uid: 'TCGA-13-0760-01',
           na: false,
@@ -8561,9 +7019,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1556-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            4: 1,
-          },
+          attr_val_counts: { 4: 1 },
           attr_val: 4,
           uid: 'TCGA-24-1556-01',
           na: false,
@@ -8571,9 +7027,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1558-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            767: 1,
-          },
+          attr_val_counts: { 767: 1 },
           attr_val: 767,
           uid: 'TCGA-24-1558-01',
           na: false,
@@ -8581,9 +7035,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1616-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            67: 1,
-          },
+          attr_val_counts: { 67: 1 },
           attr_val: 67,
           uid: 'TCGA-24-1616-01',
           na: false,
@@ -8591,9 +7043,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1604-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            8: 1,
-          },
+          attr_val_counts: { 8: 1 },
           attr_val: 8,
           uid: 'TCGA-24-1604-01',
           na: false,
@@ -8601,9 +7051,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-1659-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            150: 1,
-          },
+          attr_val_counts: { 150: 1 },
           attr_val: 150,
           uid: 'TCGA-09-1659-01',
           na: false,
@@ -8611,9 +7059,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1413-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            6: 1,
-          },
+          attr_val_counts: { 6: 1 },
           attr_val: 6,
           uid: 'TCGA-24-1413-01',
           na: false,
@@ -8621,9 +7067,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-1662-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            10: 1,
-          },
+          attr_val_counts: { 10: 1 },
           attr_val: 10,
           uid: 'TCGA-09-1662-01',
           na: false,
@@ -8631,9 +7075,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0724-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            62: 1,
-          },
+          attr_val_counts: { 62: 1 },
           attr_val: 62,
           uid: 'TCGA-13-0724-01',
           na: false,
@@ -8641,9 +7083,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1484-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            1: 1,
-          },
+          attr_val_counts: { 1: 1 },
           attr_val: 1,
           uid: 'TCGA-13-1484-01',
           na: false,
@@ -8651,9 +7091,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2254-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            23: 1,
-          },
+          attr_val_counts: { 23: 1 },
           attr_val: 23,
           uid: 'TCGA-24-2254-01',
           na: false,
@@ -8661,9 +7099,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2101-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            44: 1,
-          },
+          attr_val_counts: { 44: 1 },
           attr_val: 44,
           uid: 'TCGA-61-2101-01',
           na: false,
@@ -8671,9 +7107,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-0366-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            83: 1,
-          },
+          attr_val_counts: { 83: 1 },
           attr_val: 83,
           uid: 'TCGA-09-0366-01',
           na: false,
@@ -8681,9 +7115,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-2053-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            5: 1,
-          },
+          attr_val_counts: { 5: 1 },
           attr_val: 5,
           uid: 'TCGA-09-2053-01',
           na: false,
@@ -8691,9 +7123,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2024-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            38: 1,
-          },
+          attr_val_counts: { 38: 1 },
           attr_val: 38,
           uid: 'TCGA-24-2024-01',
           na: false,
@@ -8701,9 +7131,7 @@ export const mockData = {
         {
           sample: 'TCGA-57-1993-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            19: 1,
-          },
+          attr_val_counts: { 19: 1 },
           attr_val: 19,
           uid: 'TCGA-57-1993-01',
           na: false,
@@ -8711,9 +7139,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0751-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            124: 1,
-          },
+          attr_val_counts: { 124: 1 },
           attr_val: 124,
           uid: 'TCGA-13-0751-01',
           na: false,
@@ -8721,9 +7147,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0928-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            6: 1,
-          },
+          attr_val_counts: { 6: 1 },
           attr_val: 6,
           uid: 'TCGA-10-0928-01',
           na: false,
@@ -8731,9 +7155,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1525-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            1: 1,
-          },
+          attr_val_counts: { 1: 1 },
           attr_val: 1,
           uid: 'TCGA-04-1525-01',
           na: false,
@@ -8741,9 +7163,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1022-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            536: 1,
-          },
+          attr_val_counts: { 536: 1 },
           attr_val: 536,
           uid: 'TCGA-23-1022-01',
           na: false,
@@ -8751,9 +7171,7 @@ export const mockData = {
         {
           sample: 'TCGA-30-1862-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            4: 1,
-          },
+          attr_val_counts: { 4: 1 },
           attr_val: 4,
           uid: 'TCGA-30-1862-01',
           na: false,
@@ -8761,9 +7179,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0765-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            254: 1,
-          },
+          attr_val_counts: { 254: 1 },
           attr_val: 254,
           uid: 'TCGA-13-0765-01',
           na: false,
@@ -8771,9 +7187,7 @@ export const mockData = {
         {
           sample: 'TCGA-31-1953-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            2: 1,
-          },
+          attr_val_counts: { 2: 1 },
           attr_val: 2,
           uid: 'TCGA-31-1953-01',
           na: false,
@@ -8781,9 +7195,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1514-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            32: 1,
-          },
+          attr_val_counts: { 32: 1 },
           attr_val: 32,
           uid: 'TCGA-04-1514-01',
           na: false,
@@ -8791,9 +7203,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1509-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            152: 1,
-          },
+          attr_val_counts: { 152: 1 },
           attr_val: 152,
           uid: 'TCGA-13-1509-01',
           na: false,
@@ -8801,9 +7211,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1419-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            59: 1,
-          },
+          attr_val_counts: { 59: 1 },
           attr_val: 59,
           uid: 'TCGA-24-1419-01',
           na: false,
@@ -8811,9 +7219,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1321-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            9: 1,
-          },
+          attr_val_counts: { 9: 1 },
           attr_val: 9,
           uid: 'TCGA-25-1321-01',
           na: false,
@@ -8821,9 +7227,7 @@ export const mockData = {
         {
           sample: 'TCGA-20-0987-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            14: 1,
-          },
+          attr_val_counts: { 14: 1 },
           attr_val: 14,
           uid: 'TCGA-20-0987-01',
           na: false,
@@ -8831,9 +7235,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1024-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            79: 1,
-          },
+          attr_val_counts: { 79: 1 },
           attr_val: 79,
           uid: 'TCGA-23-1024-01',
           na: false,
@@ -8841,9 +7243,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2290-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            591: 1,
-          },
+          attr_val_counts: { 591: 1 },
           attr_val: 591,
           uid: 'TCGA-24-2290-01',
           na: false,
@@ -8851,9 +7251,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1124-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            2: 1,
-          },
+          attr_val_counts: { 2: 1 },
           attr_val: 2,
           uid: 'TCGA-23-1124-01',
           na: false,
@@ -8861,9 +7259,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-1736-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            8: 1,
-          },
+          attr_val_counts: { 8: 1 },
           attr_val: 8,
           uid: 'TCGA-61-1736-01',
           na: false,
@@ -8871,9 +7267,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0800-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            7: 1,
-          },
+          attr_val_counts: { 7: 1 },
           attr_val: 7,
           uid: 'TCGA-13-0800-01',
           na: false,
@@ -8881,9 +7275,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1434-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            14: 1,
-          },
+          attr_val_counts: { 14: 1 },
           attr_val: 14,
           uid: 'TCGA-24-1434-01',
           na: false,
@@ -8891,9 +7283,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1517-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            107: 1,
-          },
+          attr_val_counts: { 107: 1 },
           attr_val: 107,
           uid: 'TCGA-04-1517-01',
           na: false,
@@ -8901,9 +7291,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-1661-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            429: 1,
-          },
+          attr_val_counts: { 429: 1 },
           attr_val: 429,
           uid: 'TCGA-09-1661-01',
           na: false,
@@ -8911,9 +7299,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-1995-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            723: 1,
-          },
+          attr_val_counts: { 723: 1 },
           attr_val: 723,
           uid: 'TCGA-61-1995-01',
           na: false,
@@ -8921,9 +7307,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1614-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            848: 1,
-          },
+          attr_val_counts: { 848: 1 },
           attr_val: 848,
           uid: 'TCGA-24-1614-01',
           na: false,
@@ -8931,9 +7315,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1569-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            258: 1,
-          },
+          attr_val_counts: { 258: 1 },
           attr_val: 258,
           uid: 'TCGA-36-1569-01',
           na: false,
@@ -8941,9 +7323,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2271-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            3: 1,
-          },
+          attr_val_counts: { 3: 1 },
           attr_val: 3,
           uid: 'TCGA-24-2271-01',
           na: false,
@@ -8951,9 +7331,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1123-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            4: 1,
-          },
+          attr_val_counts: { 4: 1 },
           attr_val: 4,
           uid: 'TCGA-23-1123-01',
           na: false,
@@ -8961,9 +7339,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1507-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            34: 1,
-          },
+          attr_val_counts: { 34: 1 },
           attr_val: 34,
           uid: 'TCGA-13-1507-01',
           na: false,
@@ -8971,9 +7347,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0899-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            5: 1,
-          },
+          attr_val_counts: { 5: 1 },
           attr_val: 5,
           uid: 'TCGA-13-0899-01',
           na: false,
@@ -8981,9 +7355,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1110-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            741: 1,
-          },
+          attr_val_counts: { 741: 1 },
           attr_val: 741,
           uid: 'TCGA-23-1110-01',
           na: false,
@@ -8991,9 +7363,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1319-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            106: 1,
-          },
+          attr_val_counts: { 106: 1 },
           attr_val: 106,
           uid: 'TCGA-25-1319-01',
           na: false,
@@ -9001,9 +7371,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1548-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            31: 1,
-          },
+          attr_val_counts: { 31: 1 },
           attr_val: 31,
           uid: 'TCGA-24-1548-01',
           na: false,
@@ -9011,9 +7379,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0910-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            34: 1,
-          },
+          attr_val_counts: { 34: 1 },
           attr_val: 34,
           uid: 'TCGA-13-0910-01',
           na: false,
@@ -9021,9 +7387,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1346-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            134: 1,
-          },
+          attr_val_counts: { 134: 1 },
           attr_val: 134,
           uid: 'TCGA-04-1346-01',
           na: false,
@@ -9031,9 +7395,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1350-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            739: 1,
-          },
+          attr_val_counts: { 739: 1 },
           attr_val: 739,
           uid: 'TCGA-04-1350-01',
           na: false,
@@ -9041,9 +7403,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1326-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            1: 1,
-          },
+          attr_val_counts: { 1: 1 },
           attr_val: 1,
           uid: 'TCGA-25-1326-01',
           na: false,
@@ -9051,9 +7411,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1549-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            16: 1,
-          },
+          attr_val_counts: { 16: 1 },
           attr_val: 16,
           uid: 'TCGA-24-1549-01',
           na: false,
@@ -9061,9 +7419,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0891-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            154: 1,
-          },
+          attr_val_counts: { 154: 1 },
           attr_val: 154,
           uid: 'TCGA-13-0891-01',
           na: false,
@@ -9071,9 +7427,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1411-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            9: 1,
-          },
+          attr_val_counts: { 9: 1 },
           attr_val: 9,
           uid: 'TCGA-13-1411-01',
           na: false,
@@ -9081,9 +7435,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2260-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            4: 1,
-          },
+          attr_val_counts: { 4: 1 },
           attr_val: 4,
           uid: 'TCGA-24-2260-01',
           na: false,
@@ -9091,9 +7443,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1342-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            4: 1,
-          },
+          attr_val_counts: { 4: 1 },
           attr_val: 4,
           uid: 'TCGA-04-1342-01',
           na: false,
@@ -9101,9 +7451,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0723-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            1012: 1,
-          },
+          attr_val_counts: { 1012: 1 },
           attr_val: 1012,
           uid: 'TCGA-13-0723-01',
           na: false,
@@ -9111,9 +7459,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2289-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            10: 1,
-          },
+          attr_val_counts: { 10: 1 },
           attr_val: 10,
           uid: 'TCGA-24-2289-01',
           na: false,
@@ -9121,9 +7467,7 @@ export const mockData = {
         {
           sample: 'TCGA-59-2354-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            1: 1,
-          },
+          attr_val_counts: { 1: 1 },
           attr_val: 1,
           uid: 'TCGA-59-2354-01',
           na: false,
@@ -9131,9 +7475,7 @@ export const mockData = {
         {
           sample: 'TCGA-59-2350-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            29: 1,
-          },
+          attr_val_counts: { 29: 1 },
           attr_val: 29,
           uid: 'TCGA-59-2350-01',
           na: false,
@@ -9141,9 +7483,7 @@ export const mockData = {
         {
           sample: 'TCGA-59-2363-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            58: 1,
-          },
+          attr_val_counts: { 58: 1 },
           attr_val: 58,
           uid: 'TCGA-59-2363-01',
           na: false,
@@ -9151,9 +7491,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0762-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            86: 1,
-          },
+          attr_val_counts: { 86: 1 },
           attr_val: 86,
           uid: 'TCGA-13-0762-01',
           na: false,
@@ -9161,9 +7499,7 @@ export const mockData = {
         {
           sample: 'TCGA-59-2351-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            2: 1,
-          },
+          attr_val_counts: { 2: 1 },
           attr_val: 2,
           uid: 'TCGA-59-2351-01',
           na: false,
@@ -9171,9 +7507,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2398-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            476: 1,
-          },
+          attr_val_counts: { 476: 1 },
           attr_val: 476,
           uid: 'TCGA-25-2398-01',
           na: false,
@@ -9181,9 +7515,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1315-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            3: 1,
-          },
+          attr_val_counts: { 3: 1 },
           attr_val: 3,
           uid: 'TCGA-25-1315-01',
           na: false,
@@ -9191,9 +7523,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1497-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            104: 1,
-          },
+          attr_val_counts: { 104: 1 },
           attr_val: 104,
           uid: 'TCGA-13-1497-01',
           na: false,
@@ -9201,9 +7531,7 @@ export const mockData = {
         {
           sample: 'TCGA-30-1853-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            177: 1,
-          },
+          attr_val_counts: { 177: 1 },
           attr_val: 177,
           uid: 'TCGA-30-1853-01',
           na: false,
@@ -9211,9 +7539,7 @@ export const mockData = {
         {
           sample: 'TCGA-57-1582-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            11: 1,
-          },
+          attr_val_counts: { 11: 1 },
           attr_val: 11,
           uid: 'TCGA-57-1582-01',
           na: false,
@@ -9221,9 +7547,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-0966-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            4: 1,
-          },
+          attr_val_counts: { 4: 1 },
           attr_val: 4,
           uid: 'TCGA-24-0966-01',
           na: false,
@@ -9231,9 +7555,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1557-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            311: 1,
-          },
+          attr_val_counts: { 311: 1 },
           attr_val: 311,
           uid: 'TCGA-24-1557-01',
           na: false,
@@ -9241,9 +7563,7 @@ export const mockData = {
         {
           sample: 'TCGA-59-2355-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            65: 1,
-          },
+          attr_val_counts: { 65: 1 },
           attr_val: 65,
           uid: 'TCGA-59-2355-01',
           na: false,
@@ -9251,9 +7571,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0927-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            14: 1,
-          },
+          attr_val_counts: { 14: 1 },
           attr_val: 14,
           uid: 'TCGA-10-0927-01',
           na: false,
@@ -9261,9 +7579,7 @@ export const mockData = {
         {
           sample: 'TCGA-09-2044-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            28: 1,
-          },
+          attr_val_counts: { 28: 1 },
           attr_val: 28,
           uid: 'TCGA-09-2044-01',
           na: false,
@@ -9271,9 +7587,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0906-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            535: 1,
-          },
+          attr_val_counts: { 535: 1 },
           attr_val: 535,
           uid: 'TCGA-13-0906-01',
           na: false,
@@ -9281,9 +7595,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1627-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            327: 1,
-          },
+          attr_val_counts: { 327: 1 },
           attr_val: 327,
           uid: 'TCGA-25-1627-01',
           na: false,
@@ -9291,9 +7603,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1482-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            22: 1,
-          },
+          attr_val_counts: { 22: 1 },
           attr_val: 22,
           uid: 'TCGA-13-1482-01',
           na: false,
@@ -9301,9 +7611,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2281-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            25: 1,
-          },
+          attr_val_counts: { 25: 1 },
           attr_val: 25,
           uid: 'TCGA-24-2281-01',
           na: false,
@@ -9311,9 +7619,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0889-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            2: 1,
-          },
+          attr_val_counts: { 2: 1 },
           attr_val: 2,
           uid: 'TCGA-13-0889-01',
           na: false,
@@ -9321,9 +7627,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2016-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            2: 1,
-          },
+          attr_val_counts: { 2: 1 },
           attr_val: 2,
           uid: 'TCGA-61-2016-01',
           na: false,
@@ -9331,9 +7635,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1362-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            185: 1,
-          },
+          attr_val_counts: { 185: 1 },
           attr_val: 185,
           uid: 'TCGA-04-1362-01',
           na: false,
@@ -9341,9 +7643,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0717-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            966: 1,
-          },
+          attr_val_counts: { 966: 1 },
           attr_val: 966,
           uid: 'TCGA-13-0717-01',
           na: false,
@@ -9351,9 +7651,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2104-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            16: 1,
-          },
+          attr_val_counts: { 16: 1 },
           attr_val: 16,
           uid: 'TCGA-61-2104-01',
           na: false,
@@ -9361,9 +7659,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0938-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            2: 1,
-          },
+          attr_val_counts: { 2: 1 },
           attr_val: 2,
           uid: 'TCGA-10-0938-01',
           na: false,
@@ -9371,9 +7667,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2035-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            6: 1,
-          },
+          attr_val_counts: { 6: 1 },
           attr_val: 6,
           uid: 'TCGA-24-2035-01',
           na: false,
@@ -9381,9 +7675,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1105-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            23: 1,
-          },
+          attr_val_counts: { 23: 1 },
           attr_val: 23,
           uid: 'TCGA-24-1105-01',
           na: false,
@@ -9391,9 +7683,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-0979-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            9: 1,
-          },
+          attr_val_counts: { 9: 1 },
           attr_val: 9,
           uid: 'TCGA-24-0979-01',
           na: false,
@@ -9401,9 +7691,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1361-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            581: 1,
-          },
+          attr_val_counts: { 581: 1 },
           attr_val: 581,
           uid: 'TCGA-04-1361-01',
           na: false,
@@ -9411,9 +7699,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1628-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            70: 1,
-          },
+          attr_val_counts: { 70: 1 },
           attr_val: 70,
           uid: 'TCGA-25-1628-01',
           na: false,
@@ -9421,9 +7707,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1491-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            36: 1,
-          },
+          attr_val_counts: { 36: 1 },
           attr_val: 36,
           uid: 'TCGA-13-1491-01',
           na: false,
@@ -9431,9 +7715,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1635-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            28: 1,
-          },
+          attr_val_counts: { 28: 1 },
           attr_val: 28,
           uid: 'TCGA-25-1635-01',
           na: false,
@@ -9441,9 +7723,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1506-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            481: 1,
-          },
+          attr_val_counts: { 481: 1 },
           attr_val: 481,
           uid: 'TCGA-13-1506-01',
           na: false,
@@ -9451,9 +7731,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1560-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            365: 1,
-          },
+          attr_val_counts: { 365: 1 },
           attr_val: 365,
           uid: 'TCGA-24-1560-01',
           na: false,
@@ -9461,9 +7739,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1410-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            6: 1,
-          },
+          attr_val_counts: { 6: 1 },
           attr_val: 6,
           uid: 'TCGA-13-1410-01',
           na: false,
@@ -9471,9 +7747,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1464-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            4: 1,
-          },
+          attr_val_counts: { 4: 1 },
           attr_val: 4,
           uid: 'TCGA-24-1464-01',
           na: false,
@@ -9481,9 +7755,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0935-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            114: 1,
-          },
+          attr_val_counts: { 114: 1 },
           attr_val: 114,
           uid: 'TCGA-10-0935-01',
           na: false,
@@ -9491,9 +7763,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1568-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            121: 1,
-          },
+          attr_val_counts: { 121: 1 },
           attr_val: 121,
           uid: 'TCGA-36-1568-01',
           na: false,
@@ -9501,9 +7771,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2072-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            10: 1,
-          },
+          attr_val_counts: { 10: 1 },
           attr_val: 10,
           uid: 'TCGA-23-2072-01',
           na: false,
@@ -9511,9 +7779,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1487-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            3: 1,
-          },
+          attr_val_counts: { 3: 1 },
           attr_val: 3,
           uid: 'TCGA-13-1487-01',
           na: false,
@@ -9521,9 +7787,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1426-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            4: 1,
-          },
+          attr_val_counts: { 4: 1 },
           attr_val: 4,
           uid: 'TCGA-24-1426-01',
           na: false,
@@ -9531,9 +7795,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0920-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            166: 1,
-          },
+          attr_val_counts: { 166: 1 },
           attr_val: 166,
           uid: 'TCGA-13-0920-01',
           na: false,
@@ -9541,9 +7803,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1320-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            67: 1,
-          },
+          attr_val_counts: { 67: 1 },
           attr_val: 67,
           uid: 'TCGA-25-1320-01',
           na: false,
@@ -9551,9 +7811,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1021-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            17: 1,
-          },
+          attr_val_counts: { 17: 1 },
           attr_val: 17,
           uid: 'TCGA-23-1021-01',
           na: false,
@@ -9561,9 +7819,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1348-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            13: 1,
-          },
+          attr_val_counts: { 13: 1 },
           attr_val: 13,
           uid: 'TCGA-04-1348-01',
           na: false,
@@ -9571,9 +7827,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1338-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            201: 1,
-          },
+          attr_val_counts: { 201: 1 },
           attr_val: 201,
           uid: 'TCGA-04-1338-01',
           na: false,
@@ -9581,9 +7835,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1117-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            292: 1,
-          },
+          attr_val_counts: { 292: 1 },
           attr_val: 292,
           uid: 'TCGA-23-1117-01',
           na: false,
@@ -9591,9 +7843,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1578-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            451: 1,
-          },
+          attr_val_counts: { 451: 1 },
           attr_val: 451,
           uid: 'TCGA-36-1578-01',
           na: false,
@@ -9601,9 +7851,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1575-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            31: 1,
-          },
+          attr_val_counts: { 31: 1 },
           attr_val: 31,
           uid: 'TCGA-36-1575-01',
           na: false,
@@ -9611,9 +7859,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1574-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            272: 1,
-          },
+          attr_val_counts: { 272: 1 },
           attr_val: 272,
           uid: 'TCGA-36-1574-01',
           na: false,
@@ -9621,9 +7867,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2399-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            15: 1,
-          },
+          attr_val_counts: { 15: 1 },
           attr_val: 15,
           uid: 'TCGA-25-2399-01',
           na: false,
@@ -9631,9 +7875,7 @@ export const mockData = {
         {
           sample: 'TCGA-30-1891-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            209: 1,
-          },
+          attr_val_counts: { 209: 1 },
           attr_val: 209,
           uid: 'TCGA-30-1891-01',
           na: false,
@@ -9641,9 +7883,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1577-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            55: 1,
-          },
+          attr_val_counts: { 55: 1 },
           attr_val: 55,
           uid: 'TCGA-36-1577-01',
           na: false,
@@ -9651,9 +7891,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1466-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            568: 1,
-          },
+          attr_val_counts: { 568: 1 },
           attr_val: 568,
           uid: 'TCGA-24-1466-01',
           na: false,
@@ -9661,9 +7899,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2092-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            887: 1,
-          },
+          attr_val_counts: { 887: 1 },
           attr_val: 887,
           uid: 'TCGA-61-2092-01',
           na: false,
@@ -9671,9 +7907,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1347-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            413: 1,
-          },
+          attr_val_counts: { 413: 1 },
           attr_val: 413,
           uid: 'TCGA-04-1347-01',
           na: false,
@@ -9681,9 +7915,7 @@ export const mockData = {
         {
           sample: 'TCGA-20-0990-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            73: 1,
-          },
+          attr_val_counts: { 73: 1 },
           attr_val: 73,
           uid: 'TCGA-20-0990-01',
           na: false,
@@ -9691,9 +7923,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1104-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            57: 1,
-          },
+          attr_val_counts: { 57: 1 },
           attr_val: 57,
           uid: 'TCGA-24-1104-01',
           na: false,
@@ -9701,9 +7931,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1418-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            10: 1,
-          },
+          attr_val_counts: { 10: 1 },
           attr_val: 10,
           uid: 'TCGA-24-1418-01',
           na: false,
@@ -9711,9 +7939,7 @@ export const mockData = {
         {
           sample: 'TCGA-57-1583-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            1: 1,
-          },
+          attr_val_counts: { 1: 1 },
           attr_val: 1,
           uid: 'TCGA-57-1583-01',
           na: false,
@@ -9721,9 +7947,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0795-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            106: 1,
-          },
+          attr_val_counts: { 106: 1 },
           attr_val: 106,
           uid: 'TCGA-13-0795-01',
           na: false,
@@ -9731,9 +7955,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1496-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            1: 1,
-          },
+          attr_val_counts: { 1: 1 },
           attr_val: 1,
           uid: 'TCGA-13-1496-01',
           na: false,
@@ -9741,9 +7963,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1623-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            1045: 1,
-          },
+          attr_val_counts: { 1045: 1 },
           attr_val: 1045,
           uid: 'TCGA-25-1623-01',
           na: false,
@@ -9751,9 +7971,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1551-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            3: 1,
-          },
+          attr_val_counts: { 3: 1 },
           attr_val: 3,
           uid: 'TCGA-24-1551-01',
           na: false,
@@ -9761,9 +7979,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1431-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            45: 1,
-          },
+          attr_val_counts: { 45: 1 },
           attr_val: 45,
           uid: 'TCGA-24-1431-01',
           na: false,
@@ -9771,9 +7987,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-2060-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            294: 1,
-          },
+          attr_val_counts: { 294: 1 },
           attr_val: 294,
           uid: 'TCGA-13-2060-01',
           na: false,
@@ -9781,9 +7995,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1631-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            24: 1,
-          },
+          attr_val_counts: { 24: 1 },
           attr_val: 24,
           uid: 'TCGA-25-1631-01',
           na: false,
@@ -9791,9 +8003,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1495-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            23: 1,
-          },
+          attr_val_counts: { 23: 1 },
           attr_val: 23,
           uid: 'TCGA-13-1495-01',
           na: false,
@@ -9801,9 +8011,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1603-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            77: 1,
-          },
+          attr_val_counts: { 77: 1 },
           attr_val: 77,
           uid: 'TCGA-24-1603-01',
           na: false,
@@ -9811,9 +8019,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1530-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            602: 1,
-          },
+          attr_val_counts: { 602: 1 },
           attr_val: 602,
           uid: 'TCGA-04-1530-01',
           na: false,
@@ -9821,9 +8027,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1542-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            66: 1,
-          },
+          attr_val_counts: { 66: 1 },
           attr_val: 66,
           uid: 'TCGA-04-1542-01',
           na: false,
@@ -9831,9 +8035,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1471-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            5: 1,
-          },
+          attr_val_counts: { 5: 1 },
           attr_val: 5,
           uid: 'TCGA-24-1471-01',
           na: false,
@@ -9841,9 +8043,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2102-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            17: 1,
-          },
+          attr_val_counts: { 17: 1 },
           attr_val: 17,
           uid: 'TCGA-61-2102-01',
           na: false,
@@ -9851,9 +8051,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1469-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            174: 1,
-          },
+          attr_val_counts: { 174: 1 },
           attr_val: 174,
           uid: 'TCGA-24-1469-01',
           na: false,
@@ -9861,9 +8059,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1407-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            247: 1,
-          },
+          attr_val_counts: { 247: 1 },
           attr_val: 247,
           uid: 'TCGA-13-1407-01',
           na: false,
@@ -9871,9 +8067,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1028-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            3: 1,
-          },
+          attr_val_counts: { 3: 1 },
           attr_val: 3,
           uid: 'TCGA-23-1028-01',
           na: false,
@@ -9881,9 +8075,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0894-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            485: 1,
-          },
+          attr_val_counts: { 485: 1 },
           attr_val: 485,
           uid: 'TCGA-13-0894-01',
           na: false,
@@ -9891,9 +8083,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1409-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            3: 1,
-          },
+          attr_val_counts: { 3: 1 },
           attr_val: 3,
           uid: 'TCGA-13-1409-01',
           na: false,
@@ -9901,9 +8091,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-0982-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            9: 1,
-          },
+          attr_val_counts: { 9: 1 },
           attr_val: 9,
           uid: 'TCGA-24-0982-01',
           na: false,
@@ -9911,9 +8099,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2000-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            61: 1,
-          },
+          attr_val_counts: { 61: 1 },
           attr_val: 61,
           uid: 'TCGA-61-2000-01',
           na: false,
@@ -9921,9 +8107,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-2110-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            128: 1,
-          },
+          attr_val_counts: { 128: 1 },
           attr_val: 128,
           uid: 'TCGA-61-2110-01',
           na: false,
@@ -9931,9 +8115,7 @@ export const mockData = {
         {
           sample: 'TCGA-31-1950-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            4: 1,
-          },
+          attr_val_counts: { 4: 1 },
           attr_val: 4,
           uid: 'TCGA-31-1950-01',
           na: false,
@@ -9941,9 +8123,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1424-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            729: 1,
-          },
+          attr_val_counts: { 729: 1 },
           attr_val: 729,
           uid: 'TCGA-24-1424-01',
           na: false,
@@ -9951,9 +8131,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1427-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            878: 1,
-          },
+          attr_val_counts: { 878: 1 },
           attr_val: 878,
           uid: 'TCGA-24-1427-01',
           na: false,
@@ -9961,9 +8139,7 @@ export const mockData = {
         {
           sample: 'TCGA-61-1998-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            187: 1,
-          },
+          attr_val_counts: { 187: 1 },
           attr_val: 187,
           uid: 'TCGA-61-1998-01',
           na: false,
@@ -9971,9 +8147,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0904-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            187: 1,
-          },
+          attr_val_counts: { 187: 1 },
           attr_val: 187,
           uid: 'TCGA-13-0904-01',
           na: false,
@@ -9981,9 +8155,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0923-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            19: 1,
-          },
+          attr_val_counts: { 19: 1 },
           attr_val: 19,
           uid: 'TCGA-13-0923-01',
           na: false,
@@ -9991,9 +8163,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1563-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            164: 1,
-          },
+          attr_val_counts: { 164: 1 },
           attr_val: 164,
           uid: 'TCGA-24-1563-01',
           na: false,
@@ -10001,9 +8171,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1504-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            3: 1,
-          },
+          attr_val_counts: { 3: 1 },
           attr_val: 3,
           uid: 'TCGA-13-1504-01',
           na: false,
@@ -10011,9 +8179,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1324-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            7: 1,
-          },
+          attr_val_counts: { 7: 1 },
           attr_val: 7,
           uid: 'TCGA-25-1324-01',
           na: false,
@@ -10021,9 +8187,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0897-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            1032: 1,
-          },
+          attr_val_counts: { 1032: 1 },
           attr_val: 1032,
           uid: 'TCGA-13-0897-01',
           na: false,
@@ -10031,9 +8195,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0937-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            330: 1,
-          },
+          attr_val_counts: { 330: 1 },
           attr_val: 330,
           uid: 'TCGA-10-0937-01',
           na: false,
@@ -10041,9 +8203,7 @@ export const mockData = {
         {
           sample: 'TCGA-04-1364-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            3: 1,
-          },
+          attr_val_counts: { 3: 1 },
           attr_val: 3,
           uid: 'TCGA-04-1364-01',
           na: false,
@@ -10051,9 +8211,7 @@ export const mockData = {
         {
           sample: 'TCGA-20-0991-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            10: 1,
-          },
+          attr_val_counts: { 10: 1 },
           attr_val: 10,
           uid: 'TCGA-20-0991-01',
           na: false,
@@ -10061,9 +8219,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2267-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            12: 1,
-          },
+          attr_val_counts: { 12: 1 },
           attr_val: 12,
           uid: 'TCGA-24-2267-01',
           na: false,
@@ -10071,9 +8227,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1404-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            217: 1,
-          },
+          attr_val_counts: { 217: 1 },
           attr_val: 217,
           uid: 'TCGA-13-1404-01',
           na: false,
@@ -10081,9 +8235,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0911-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            185: 1,
-          },
+          attr_val_counts: { 185: 1 },
           attr_val: 185,
           uid: 'TCGA-13-0911-01',
           na: false,
@@ -10091,9 +8243,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1313-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            1: 1,
-          },
+          attr_val_counts: { 1: 1 },
           attr_val: 1,
           uid: 'TCGA-25-1313-01',
           na: false,
@@ -10101,9 +8251,7 @@ export const mockData = {
         {
           sample: 'TCGA-36-1571-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            17: 1,
-          },
+          attr_val_counts: { 17: 1 },
           attr_val: 17,
           uid: 'TCGA-36-1571-01',
           na: false,
@@ -10111,9 +8259,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-0884-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            4: 1,
-          },
+          attr_val_counts: { 4: 1 },
           attr_val: 4,
           uid: 'TCGA-13-0884-01',
           na: false,
@@ -10121,9 +8267,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1412-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            534: 1,
-          },
+          attr_val_counts: { 534: 1 },
           attr_val: 534,
           uid: 'TCGA-13-1412-01',
           na: false,
@@ -10131,9 +8275,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1545-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            38: 1,
-          },
+          attr_val_counts: { 38: 1 },
           attr_val: 38,
           uid: 'TCGA-24-1545-01',
           na: false,
@@ -10141,9 +8283,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1436-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            619: 1,
-          },
+          attr_val_counts: { 619: 1 },
           attr_val: 619,
           uid: 'TCGA-24-1436-01',
           na: false,
@@ -10151,9 +8291,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2400-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            33: 1,
-          },
+          attr_val_counts: { 33: 1 },
           attr_val: 33,
           uid: 'TCGA-25-2400-01',
           na: false,
@@ -10161,9 +8299,7 @@ export const mockData = {
         {
           sample: 'TCGA-13-1403-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            552: 1,
-          },
+          attr_val_counts: { 552: 1 },
           attr_val: 552,
           uid: 'TCGA-13-1403-01',
           na: false,
@@ -10171,9 +8307,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1116-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            5: 1,
-          },
+          attr_val_counts: { 5: 1 },
           attr_val: 5,
           uid: 'TCGA-23-1116-01',
           na: false,
@@ -10181,9 +8315,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0925-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            128: 1,
-          },
+          attr_val_counts: { 128: 1 },
           attr_val: 128,
           uid: 'TCGA-10-0925-01',
           na: false,
@@ -10191,9 +8323,7 @@ export const mockData = {
         {
           sample: 'TCGA-10-0933-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            453: 1,
-          },
+          attr_val_counts: { 453: 1 },
           attr_val: 453,
           uid: 'TCGA-10-0933-01',
           na: false,
@@ -10201,9 +8331,7 @@ export const mockData = {
         {
           sample: 'TCGA-20-1684-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            10: 1,
-          },
+          attr_val_counts: { 10: 1 },
           attr_val: 10,
           uid: 'TCGA-20-1684-01',
           na: false,
@@ -10211,9 +8339,7 @@ export const mockData = {
         {
           sample: 'TCGA-20-1685-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            1: 1,
-          },
+          attr_val_counts: { 1: 1 },
           attr_val: 1,
           uid: 'TCGA-20-1685-01',
           na: false,
@@ -10221,9 +8347,7 @@ export const mockData = {
         {
           sample: 'TCGA-20-1686-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            274: 1,
-          },
+          attr_val_counts: { 274: 1 },
           attr_val: 274,
           uid: 'TCGA-20-1686-01',
           na: false,
@@ -10231,9 +8355,7 @@ export const mockData = {
         {
           sample: 'TCGA-20-1687-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            285: 1,
-          },
+          attr_val_counts: { 285: 1 },
           attr_val: 285,
           uid: 'TCGA-20-1687-01',
           na: false,
@@ -10241,9 +8363,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1029-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            5: 1,
-          },
+          attr_val_counts: { 5: 1 },
           attr_val: 5,
           uid: 'TCGA-23-1029-01',
           na: false,
@@ -10251,9 +8371,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1031-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            3: 1,
-          },
+          attr_val_counts: { 3: 1 },
           attr_val: 3,
           uid: 'TCGA-23-1031-01',
           na: false,
@@ -10261,9 +8379,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1109-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            49: 1,
-          },
+          attr_val_counts: { 49: 1 },
           attr_val: 49,
           uid: 'TCGA-23-1109-01',
           na: false,
@@ -10271,9 +8387,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1111-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            126: 1,
-          },
+          attr_val_counts: { 126: 1 },
           attr_val: 126,
           uid: 'TCGA-23-1111-01',
           na: false,
@@ -10281,9 +8395,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1113-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            109: 1,
-          },
+          attr_val_counts: { 109: 1 },
           attr_val: 109,
           uid: 'TCGA-23-1113-01',
           na: false,
@@ -10291,9 +8403,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1119-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            13: 1,
-          },
+          attr_val_counts: { 13: 1 },
           attr_val: 13,
           uid: 'TCGA-23-1119-01',
           na: false,
@@ -10301,9 +8411,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-1809-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            23: 1,
-          },
+          attr_val_counts: { 23: 1 },
           attr_val: 23,
           uid: 'TCGA-23-1809-01',
           na: false,
@@ -10311,9 +8419,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2641-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            113: 1,
-          },
+          attr_val_counts: { 113: 1 },
           attr_val: 113,
           uid: 'TCGA-23-2641-01',
           na: false,
@@ -10321,9 +8427,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2643-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            65: 1,
-          },
+          attr_val_counts: { 65: 1 },
           attr_val: 65,
           uid: 'TCGA-23-2643-01',
           na: false,
@@ -10331,9 +8435,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2645-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            168: 1,
-          },
+          attr_val_counts: { 168: 1 },
           attr_val: 168,
           uid: 'TCGA-23-2645-01',
           na: false,
@@ -10341,9 +8443,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2647-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            15: 1,
-          },
+          attr_val_counts: { 15: 1 },
           attr_val: 15,
           uid: 'TCGA-23-2647-01',
           na: false,
@@ -10351,9 +8451,7 @@ export const mockData = {
         {
           sample: 'TCGA-23-2649-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            98: 1,
-          },
+          attr_val_counts: { 98: 1 },
           attr_val: 98,
           uid: 'TCGA-23-2649-01',
           na: false,
@@ -10361,9 +8459,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-0980-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            708: 1,
-          },
+          attr_val_counts: { 708: 1 },
           attr_val: 708,
           uid: 'TCGA-24-0980-01',
           na: false,
@@ -10371,9 +8467,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-0981-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            3: 1,
-          },
+          attr_val_counts: { 3: 1 },
           attr_val: 3,
           uid: 'TCGA-24-0981-01',
           na: false,
@@ -10381,9 +8475,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1430-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            16: 1,
-          },
+          attr_val_counts: { 16: 1 },
           attr_val: 16,
           uid: 'TCGA-24-1430-01',
           na: false,
@@ -10391,9 +8483,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1435-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            5: 1,
-          },
+          attr_val_counts: { 5: 1 },
           attr_val: 5,
           uid: 'TCGA-24-1435-01',
           na: false,
@@ -10401,9 +8491,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1467-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            40: 1,
-          },
+          attr_val_counts: { 40: 1 },
           attr_val: 40,
           uid: 'TCGA-24-1467-01',
           na: false,
@@ -10411,9 +8499,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1544-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            6: 1,
-          },
+          attr_val_counts: { 6: 1 },
           attr_val: 6,
           uid: 'TCGA-24-1544-01',
           na: false,
@@ -10421,9 +8507,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1546-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            43: 1,
-          },
+          attr_val_counts: { 43: 1 },
           attr_val: 43,
           uid: 'TCGA-24-1546-01',
           na: false,
@@ -10431,9 +8515,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1550-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            2: 1,
-          },
+          attr_val_counts: { 2: 1 },
           attr_val: 2,
           uid: 'TCGA-24-1550-01',
           na: false,
@@ -10441,9 +8523,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1552-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            1: 1,
-          },
+          attr_val_counts: { 1: 1 },
           attr_val: 1,
           uid: 'TCGA-24-1552-01',
           na: false,
@@ -10451,9 +8531,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1553-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            16: 1,
-          },
+          attr_val_counts: { 16: 1 },
           attr_val: 16,
           uid: 'TCGA-24-1553-01',
           na: false,
@@ -10461,9 +8539,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1565-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            6: 1,
-          },
+          attr_val_counts: { 6: 1 },
           attr_val: 6,
           uid: 'TCGA-24-1565-01',
           na: false,
@@ -10471,9 +8547,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1842-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            4: 1,
-          },
+          attr_val_counts: { 4: 1 },
           attr_val: 4,
           uid: 'TCGA-24-1842-01',
           na: false,
@@ -10481,9 +8555,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1843-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            658: 1,
-          },
+          attr_val_counts: { 658: 1 },
           attr_val: 658,
           uid: 'TCGA-24-1843-01',
           na: false,
@@ -10491,9 +8563,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1844-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            6: 1,
-          },
+          attr_val_counts: { 6: 1 },
           attr_val: 6,
           uid: 'TCGA-24-1844-01',
           na: false,
@@ -10501,9 +8571,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1845-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            9: 1,
-          },
+          attr_val_counts: { 9: 1 },
           attr_val: 9,
           uid: 'TCGA-24-1845-01',
           na: false,
@@ -10511,9 +8579,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1846-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            7: 1,
-          },
+          attr_val_counts: { 7: 1 },
           attr_val: 7,
           uid: 'TCGA-24-1846-01',
           na: false,
@@ -10521,9 +8587,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1847-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            2: 1,
-          },
+          attr_val_counts: { 2: 1 },
           attr_val: 2,
           uid: 'TCGA-24-1847-01',
           na: false,
@@ -10531,9 +8595,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1849-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            3: 1,
-          },
+          attr_val_counts: { 3: 1 },
           attr_val: 3,
           uid: 'TCGA-24-1849-01',
           na: false,
@@ -10541,9 +8603,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1850-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            990: 1,
-          },
+          attr_val_counts: { 990: 1 },
           attr_val: 990,
           uid: 'TCGA-24-1850-01',
           na: false,
@@ -10551,9 +8611,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1852-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            267: 1,
-          },
+          attr_val_counts: { 267: 1 },
           attr_val: 267,
           uid: 'TCGA-24-1852-01',
           na: false,
@@ -10561,9 +8619,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1920-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            126: 1,
-          },
+          attr_val_counts: { 126: 1 },
           attr_val: 126,
           uid: 'TCGA-24-1920-01',
           na: false,
@@ -10571,9 +8627,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1923-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            6: 1,
-          },
+          attr_val_counts: { 6: 1 },
           attr_val: 6,
           uid: 'TCGA-24-1923-01',
           na: false,
@@ -10581,9 +8635,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1924-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            66: 1,
-          },
+          attr_val_counts: { 66: 1 },
           attr_val: 66,
           uid: 'TCGA-24-1924-01',
           na: false,
@@ -10591,9 +8643,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1927-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            6: 1,
-          },
+          attr_val_counts: { 6: 1 },
           attr_val: 6,
           uid: 'TCGA-24-1927-01',
           na: false,
@@ -10601,9 +8651,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1928-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            22: 1,
-          },
+          attr_val_counts: { 22: 1 },
           attr_val: 22,
           uid: 'TCGA-24-1928-01',
           na: false,
@@ -10611,9 +8659,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-1930-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            912: 1,
-          },
+          attr_val_counts: { 912: 1 },
           attr_val: 912,
           uid: 'TCGA-24-1930-01',
           na: false,
@@ -10621,9 +8667,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2020-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            43: 1,
-          },
+          attr_val_counts: { 43: 1 },
           attr_val: 43,
           uid: 'TCGA-24-2020-01',
           na: false,
@@ -10631,9 +8675,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2023-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            333: 1,
-          },
+          attr_val_counts: { 333: 1 },
           attr_val: 333,
           uid: 'TCGA-24-2023-01',
           na: false,
@@ -10641,9 +8683,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2026-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            78: 1,
-          },
+          attr_val_counts: { 78: 1 },
           attr_val: 78,
           uid: 'TCGA-24-2026-01',
           na: false,
@@ -10651,9 +8691,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2027-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            14: 1,
-          },
+          attr_val_counts: { 14: 1 },
           attr_val: 14,
           uid: 'TCGA-24-2027-01',
           na: false,
@@ -10661,9 +8699,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2029-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            4: 1,
-          },
+          attr_val_counts: { 4: 1 },
           attr_val: 4,
           uid: 'TCGA-24-2029-01',
           na: false,
@@ -10671,9 +8707,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2033-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            2: 1,
-          },
+          attr_val_counts: { 2: 1 },
           attr_val: 2,
           uid: 'TCGA-24-2033-01',
           na: false,
@@ -10681,9 +8715,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2038-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            991: 1,
-          },
+          attr_val_counts: { 991: 1 },
           attr_val: 991,
           uid: 'TCGA-24-2038-01',
           na: false,
@@ -10691,9 +8723,7 @@ export const mockData = {
         {
           sample: 'TCGA-24-2295-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            306: 1,
-          },
+          attr_val_counts: { 306: 1 },
           attr_val: 306,
           uid: 'TCGA-24-2295-01',
           na: false,
@@ -10701,9 +8731,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1312-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            99: 1,
-          },
+          attr_val_counts: { 99: 1 },
           attr_val: 99,
           uid: 'TCGA-25-1312-01',
           na: false,
@@ -10711,9 +8739,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1314-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            3: 1,
-          },
+          attr_val_counts: { 3: 1 },
           attr_val: 3,
           uid: 'TCGA-25-1314-01',
           na: false,
@@ -10721,9 +8747,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1316-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            208: 1,
-          },
+          attr_val_counts: { 208: 1 },
           attr_val: 208,
           uid: 'TCGA-25-1316-01',
           na: false,
@@ -10731,9 +8755,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1317-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            6: 1,
-          },
+          attr_val_counts: { 6: 1 },
           attr_val: 6,
           uid: 'TCGA-25-1317-01',
           na: false,
@@ -10741,9 +8763,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1323-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            13: 1,
-          },
+          attr_val_counts: { 13: 1 },
           attr_val: 13,
           uid: 'TCGA-25-1323-01',
           na: false,
@@ -10751,9 +8771,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1325-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            57: 1,
-          },
+          attr_val_counts: { 57: 1 },
           attr_val: 57,
           uid: 'TCGA-25-1325-01',
           na: false,
@@ -10761,9 +8779,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1328-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            1: 1,
-          },
+          attr_val_counts: { 1: 1 },
           attr_val: 1,
           uid: 'TCGA-25-1328-01',
           na: false,
@@ -10771,9 +8787,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1633-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            4: 1,
-          },
+          attr_val_counts: { 4: 1 },
           attr_val: 4,
           uid: 'TCGA-25-1633-01',
           na: false,
@@ -10781,9 +8795,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1870-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            10: 1,
-          },
+          attr_val_counts: { 10: 1 },
           attr_val: 10,
           uid: 'TCGA-25-1870-01',
           na: false,
@@ -10791,9 +8803,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1871-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            2: 1,
-          },
+          attr_val_counts: { 2: 1 },
           attr_val: 2,
           uid: 'TCGA-25-1871-01',
           na: false,
@@ -10801,9 +8811,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1877-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            3: 1,
-          },
+          attr_val_counts: { 3: 1 },
           attr_val: 3,
           uid: 'TCGA-25-1877-01',
           na: false,
@@ -10811,9 +8819,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-1878-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            6: 1,
-          },
+          attr_val_counts: { 6: 1 },
           attr_val: 6,
           uid: 'TCGA-25-1878-01',
           na: false,
@@ -10821,9 +8827,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2042-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            1: 1,
-          },
+          attr_val_counts: { 1: 1 },
           attr_val: 1,
           uid: 'TCGA-25-2042-01',
           na: false,
@@ -10831,9 +8835,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2390-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            84: 1,
-          },
+          attr_val_counts: { 84: 1 },
           attr_val: 84,
           uid: 'TCGA-25-2390-01',
           na: false,
@@ -10841,9 +8843,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2396-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            18: 1,
-          },
+          attr_val_counts: { 18: 1 },
           attr_val: 18,
           uid: 'TCGA-25-2396-01',
           na: false,
@@ -10851,9 +8851,7 @@ export const mockData = {
         {
           sample: 'TCGA-25-2397-01',
           attr_id: 'MUTATION_COUNT',
-          attr_val_counts: {
-            82: 1,
-          },
+          attr_val_counts: { 82: 1 },
           attr_val: 82,
           uid: 'TCGA-25-2397-01',
           na: false,
@@ -47734,7 +45732,6 @@ export const mockData = {
       minProfileValue: -4.988479756830202,
     },
   ],
-  // "width": 1067,
   caseLinkOutInTooltips: false,
   suppressRendering: false,
   keepSorted: true,
@@ -48045,10 +46042,7 @@ export const mockData = {
   distinguishMutationType: true,
   distinguishGermlineMutations: true,
   distinguishDrivers: true,
-  sortConfig: {
-    sortByMutationType: true,
-    sortByDrivers: true,
-  },
+  sortConfig: { sortByMutationType: true, sortByDrivers: true },
   showWhitespaceBetweenColumns: true,
   showMinimap: false,
 };

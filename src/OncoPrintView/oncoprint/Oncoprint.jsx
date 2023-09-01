@@ -1,3 +1,4 @@
+import { useSize } from 'ahooks';
 import _ from 'lodash';
 import { OncoprintJS } from 'oncoprintjs';
 import * as React from 'react';
@@ -6,73 +7,90 @@ import './styles.scss';
 
 export const GENETIC_TRACK_GROUP_INDEX = 1;
 export const CLINICAL_TRACK_GROUP_INDEX = 0;
-
 const Oncoprint = (props) => {
+  console.log('Oncoprint', props);
   const divRefHandler = React.useRef(null);
-  const oncoprintJs = React.useRef(null);
-  const [lastTransitionProps, setLastTransitionProps] = React.useState({});
-  const [trackSpecKeyToTrackId, setTrackSpecKeyToTrackId] = React.useState({});
+  const divSize = useSize(divRefHandler);
+  const oncoprintJsRef = React.useRef(null);
+  const lastTransitionProps = React.useRef({});
+  const trackSpecKeyToTrackId = React.useRef({});
 
   const getTrackSpecKey = (targetTrackId) => {
     let ret = null;
-
-    _.forEach(this.trackSpecKeyToTrackId, (trackId, key) => {
+    _.forEach(trackSpecKeyToTrackId.current, (trackId, key) => {
       if (trackId === targetTrackId) {
         ret = key;
         return false;
       }
     });
-
     return ret;
+  };
+
+  const sortByMutationType = () => {
+    return (
+      props.distinguishMutationType &&
+      props.sortConfig &&
+      props.sortConfig.sortByMutationType
+    );
+  };
+
+  const sortByDrivers = () => {
+    return (
+      props.distinguishDrivers &&
+      props.sortConfig &&
+      props.sortConfig.sortByDrivers
+    );
   };
 
   const refreshOncoprint = (params) => {
     const start = performance.now();
-
-    if (!oncoprintJs.current) {
+    if (!oncoprintJsRef.current) {
       // instantiate new one
-      oncoprintJs.current = new OncoprintJS(
-        `#react-oncoprintjs-container-div`,
-        params.width || divRefHandler.current?.offsetWidth,
+      oncoprintJsRef.current = new OncoprintJS(
+        `#react-oncoprintjs-view-container-div`,
+        params.width,
         params.initParams,
       );
-      oncoprintJs.current?.setTrackGroupLegendOrder([
+      oncoprintJsRef.current.setTrackGroupLegendOrder([
         GENETIC_TRACK_GROUP_INDEX,
         CLINICAL_TRACK_GROUP_INDEX,
       ]);
-      window.frontendOnc = oncoprintJs.current;
+      window.frontendOnc = oncoprintJsRef.current;
       if (params.broadcastOncoprintJsRef) {
-        params.broadcastOncoprintJsRef(oncoprintJs.current);
+        params.broadcastOncoprintJsRef(oncoprintJsRef.current);
       }
     }
-
-    if (!oncoprintJs.current?.webgl_unavailable && oncoprintJs.current) {
-      console.log('refreshOncoprint', oncoprintJs.current);
+    if (!oncoprintJsRef.current.webgl_unavailable) {
       transition(
         params,
-        lastTransitionProps,
-        oncoprintJs.current,
-        () => trackSpecKeyToTrackId,
+        lastTransitionProps.current || {},
+        oncoprintJsRef.current,
+        () => trackSpecKeyToTrackId.current,
         () => {
           return params.molecularProfileIdToMolecularProfile;
         },
       );
-      setLastTransitionProps(params);
+      lastTransitionProps.current = _.clone(params);
     }
     console.log('oncoprint render time: ', performance.now() - start);
   };
 
   React.useEffect(() => {
-    console.log('props:%o', props);
-    refreshOncoprint(props);
-    return () => {
-      console.log('oncoprint unmount');
-      oncoprintJs.current && oncoprintJs.current.destroy();
-      oncoprintJs.current = null;
-    };
-  }, [props]);
+    refreshOncoprint({
+      ...props,
+      width: divSize?.width || divRefHandler?.current?.offsetWidth,
+    });
+  }, [props, divSize?.width]);
 
-  return <div id="react-oncoprintjs-container-div" ref={divRefHandler} />;
+  React.useEffect(() => {
+    return () => {
+      if (oncoprintJsRef.current) {
+        oncoprintJsRef.current.destroy();
+        oncoprintJsRef.current = undefined;
+      }
+    };
+  }, []);
+  return <div id="react-oncoprintjs-view-container-div" ref={divRefHandler} />;
 };
 
-export default React.memo(Oncoprint);
+export default Oncoprint;

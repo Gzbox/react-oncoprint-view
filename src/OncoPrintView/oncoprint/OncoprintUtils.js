@@ -244,7 +244,7 @@ export function getGeneticTrackRuleSetParams(
   }
   return rule_set;
 }
-export function getClinicalTrackRuleSetParamsFn(track) {
+export function getClinicalTrackRuleSetParams(track) {
   let params;
   switch (track.datatype) {
     case 'number':

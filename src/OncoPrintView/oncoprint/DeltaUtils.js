@@ -1,14 +1,13 @@
-import _ from 'lodash';
+import _, { isEqual } from 'lodash';
 import { AlterationTypeConstants } from '../shared/constants';
 import ifNotDefined from '../shared/lib/ifNotDefined';
-import { makeGeneticTrackTooltip } from './makeGeneticTrackTooltip';
 import {
   CLINICAL_TRACK_GROUP_INDEX,
   GENETIC_TRACK_GROUP_INDEX,
 } from './Oncoprint';
 import {
   getCategoricalTrackRuleSetParams,
-  getClinicalTrackRuleSetParamsFn,
+  getClinicalTrackRuleSetParams,
   getGenesetHeatmapTrackRuleSetParams,
   getGeneticTrackRuleSetParams,
   getHeatmapTrackRuleSetParams,
@@ -26,7 +25,12 @@ import {
   makeClinicalTrackTooltip,
   makeHeatmapTrackTooltip,
 } from './TooltipUtils';
-
+import { makeGeneticTrackTooltip } from './makeGeneticTrackTooltip';
+// This file implements functions that call imperative OncoprintJS library
+//  methods in order to keep the oncoprint in a state consistent with the
+//  specified props. In essence, it's transforming declarative logic into
+//  imperative logic by executing "transitions" from the previous props
+//  to the new props.
 export function transition(
   nextProps,
   prevProps,
@@ -34,6 +38,8 @@ export function transition(
   getTrackSpecKeyToTrackId,
   getMolecularProfileMap,
 ) {
+  console.log(isEqual(nextProps, prevProps));
+  console.log('nextProps:%o, prevProps:%o', nextProps, prevProps);
   const notKeepingSorted = shouldNotKeepSortedForTransition(
     nextProps,
     prevProps,
@@ -41,6 +47,11 @@ export function transition(
   const suppressingRendering = shouldSuppressRenderingForTransition(
     nextProps,
     prevProps,
+  );
+  console.log(
+    'notKeepingSorted:%o, suppressingRendering:%o',
+    notKeepingSorted,
+    suppressingRendering,
   );
   if (suppressingRendering) {
     doSuppressRendering(nextProps, oncoprint);
@@ -994,7 +1005,7 @@ function transitionClinicalTrack(
     return;
   } else if (nextSpec && !prevSpec) {
     // Add track
-    const rule_set_params = getClinicalTrackRuleSetParamsFn(nextSpec);
+    const rule_set_params = getClinicalTrackRuleSetParams(nextSpec);
     rule_set_params.legend_label = nextSpec.label;
     rule_set_params.exclude_from_legend = !nextProps.showClinicalTrackLegends;
     rule_set_params.na_legend_label = nextSpec.na_legend_label;

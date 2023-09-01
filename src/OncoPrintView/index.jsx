@@ -3,7 +3,6 @@ import './fontAwesome/css/font-awesome.min.css';
 import Oncoprint from './oncoprint/Oncoprint';
 
 const OncoprintView = (props) => {
-  console.log(props);
   return <Oncoprint {...props} />;
 };
 
