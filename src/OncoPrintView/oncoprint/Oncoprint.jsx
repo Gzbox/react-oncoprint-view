@@ -8,7 +8,7 @@ import './styles.scss';
 export const GENETIC_TRACK_GROUP_INDEX = 1;
 export const CLINICAL_TRACK_GROUP_INDEX = 0;
 const Oncoprint = (props) => {
-  console.log('Oncoprint', props);
+  // console.log('Oncoprint', props);
   const divRefHandler = React.useRef(null);
   const divSize = useSize(divRefHandler);
   const oncoprintJsRef = React.useRef(null);
@@ -55,11 +55,11 @@ const Oncoprint = (props) => {
         GENETIC_TRACK_GROUP_INDEX,
         CLINICAL_TRACK_GROUP_INDEX,
       ]);
-      window.frontendOnc = oncoprintJsRef.current;
       if (params.broadcastOncoprintJsRef) {
         params.broadcastOncoprintJsRef(oncoprintJsRef.current);
       }
     }
+
     if (!oncoprintJsRef.current.webgl_unavailable) {
       transition(
         params,
@@ -72,7 +72,7 @@ const Oncoprint = (props) => {
       );
       lastTransitionProps.current = _.clone(params);
     }
-    console.log('oncoprint render time: ', performance.now() - start);
+    // console.log('oncoprint render time: ', performance.now() - start);
   };
 
   React.useEffect(() => {
@@ -90,6 +90,8 @@ const Oncoprint = (props) => {
       }
     };
   }, []);
+
+  // console.log('Oncoprint', oncoprintJsRef.current);
   return <div id="react-oncoprintjs-view-container-div" ref={divRefHandler} />;
 };
 

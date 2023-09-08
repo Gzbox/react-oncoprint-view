@@ -45732,11 +45732,6 @@ export const mockData = {
       minProfileValue: -4.988479756830202,
     },
   ],
-  caseLinkOutInTooltips: false,
-  suppressRendering: false,
-  keepSorted: true,
-  hiddenIds: [],
-  showClinicalTrackLegends: true,
   horzZoomToFitIds: [
     'TCGA-25-2392-01',
     'TCGA-04-1331-01',
@@ -46039,10 +46034,4 @@ export const mockData = {
     'TCGA-13-1403-01',
     'TCGA-23-1116-01',
   ],
-  distinguishMutationType: true,
-  distinguishGermlineMutations: true,
-  distinguishDrivers: true,
-  sortConfig: { sortByMutationType: true, sortByDrivers: true },
-  showWhitespaceBetweenColumns: true,
-  showMinimap: false,
 };

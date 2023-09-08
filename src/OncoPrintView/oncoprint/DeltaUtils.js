@@ -1,4 +1,4 @@
-import _, { isEqual } from 'lodash';
+import _ from 'lodash';
 import { AlterationTypeConstants } from '../shared/constants';
 import ifNotDefined from '../shared/lib/ifNotDefined';
 import {
@@ -38,8 +38,8 @@ export function transition(
   getTrackSpecKeyToTrackId,
   getMolecularProfileMap,
 ) {
-  console.log(isEqual(nextProps, prevProps));
-  console.log('nextProps:%o, prevProps:%o', nextProps, prevProps);
+  // console.log(isEqual(nextProps, prevProps));
+  // console.log('nextProps:%o, prevProps:%o', nextProps, prevProps);
   const notKeepingSorted = shouldNotKeepSortedForTransition(
     nextProps,
     prevProps,
@@ -48,11 +48,11 @@ export function transition(
     nextProps,
     prevProps,
   );
-  console.log(
-    'notKeepingSorted:%o, suppressingRendering:%o',
-    notKeepingSorted,
-    suppressingRendering,
-  );
+  // console.log(
+  //   'notKeepingSorted:%o, suppressingRendering:%o',
+  //   notKeepingSorted,
+  //   suppressingRendering,
+  // );
   if (suppressingRendering) {
     doSuppressRendering(nextProps, oncoprint);
   }
