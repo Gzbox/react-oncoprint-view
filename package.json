@@ -58,7 +58,7 @@
     "@types/react": "18.2.21",
     "@types/react-dom": "18.2.7",
     "@umijs/lint": "4.0.80",
-    "babel-plugin-transform-remove-console": "^6.9.4",
+    "babel-plugin-transform-remove-console": "6.9.4",
     "dumi": "2.2.7",
     "eslint": "8.48.0",
     "father": "4.3.3",

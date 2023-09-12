@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "noImplicitAny": false,
     "strict": true,
     "declaration": true,
     "skipLibCheck": true,
@@ -7,21 +8,10 @@
     "jsx": "react",
     "baseUrl": "./",
     "paths": {
-      "@@/*": [
-        ".dumi/tmp/*"
-      ],
-      "react-oncoprint-view": [
-        "src"
-      ],
-      "react-oncoprint-view/*": [
-        "src/*",
-        "*"
-      ]
+      "@@/*": [".dumi/tmp/*"],
+      "react-oncoprint-view": ["src"],
+      "react-oncoprint-view/*": ["src/*", "*"]
     }
   },
-  "include": [
-    ".dumi/**/*",
-    ".dumirc.ts",
-    "src/**/*",
-  ]
+  "include": [".dumi/**/*", ".dumirc.ts", "src/**/*"]
 }
