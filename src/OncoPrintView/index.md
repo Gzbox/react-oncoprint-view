@@ -17,6 +17,7 @@ export default () => {
   const [showWhitespace, setShowWhitespace] = useState(true);
   const [linkOutIn, setLinkOutIn] = useState(false);
   const [keepSorted, setKeepSorted] = useState(true);
+  const [currentHorzZoomValue, setCurrentHorzZoomValue] = useState();
   const [showClinicalTrackLegends, setShowClinicalTrackLegends] =
     useState(true);
   const [distinguishMutationType, setDistinguishMutationType] = useState(true);
@@ -76,6 +77,7 @@ export default () => {
           显示突变驱动
         </button>
         <button onClick={onZoomOutClick}>缩小</button>
+        <button disabled="true">{currentHorzZoomValue || '1'}</button>
         <button onClick={onZoomInClick}>放大</button>
       </div>
       <OncoPrintView
@@ -104,6 +106,19 @@ export default () => {
         }}
         onMinimapClose={() => {
           console.log('onMinimapClose');
+        }}
+        onHorzZoom={(value) => {
+          console.log('onHorzZoom', value);
+          setCurrentHorzZoomValue(value);
+        }}
+        onDeleteClinicalTrack={(key) => {
+          console.log(key);
+        }}
+        onTrackGapChange={(trackId, gapOn) => {
+          console.log(trackId, gapOn);
+        }}
+        onTrackSortDirectionChange={(trackId, dir) => {
+          console.log(trackId, dir);
         }}
       />
     </Fragment>

@@ -65,6 +65,7 @@ export function transition(
   transitionWhitespaceBetweenColumns(nextProps, prevProps, oncoprint);
   transitionShowMinimap(nextProps, prevProps, oncoprint);
   transitionOnMinimapCloseCallback(nextProps, prevProps, oncoprint);
+  transitionOnHorzZoomCallback(nextProps, prevProps, oncoprint);
   transitionShowTrackLabels(nextProps, prevProps, oncoprint);
   transitionShowSublabels(nextProps, prevProps, oncoprint);
   transitionTrackHeaders(nextProps, prevProps, oncoprint);
@@ -411,6 +412,11 @@ function transitionOnMinimapCloseCallback(nextProps, prevProps, oncoprint) {
     nextProps.onMinimapClose !== prevProps.onMinimapClose
   ) {
     oncoprint.onMinimapClose(nextProps.onMinimapClose);
+  }
+}
+function transitionOnHorzZoomCallback(nextProps, prevProps, oncoprint) {
+  if (nextProps.onHorzZoom && nextProps.onHorzZoom !== prevProps.onHorzZoom) {
+    oncoprint.onHorzZoom(nextProps.onHorzZoom);
   }
 }
 function hasGeneticTrackTooltipChanged(nextProps, prevProps) {
@@ -774,7 +780,7 @@ function tryRemoveTrack(nextSpec, prevSpec, trackSpecKeyToTrackId, oncoprint) {
   if (!nextSpec && prevSpec) {
     // remove track, if OncoprintJS hasn't already removed it and told a
     // removeCallback to forget its track ID
-    const trackId = trackSpecKeyToTrackId[prevSpec.key];
+    const trackId = trackSpecKeyToTrackId[prevSpec?.key];
     if (typeof trackId !== 'undefined') {
       if (oncoprint.getTracks().includes(trackId)) {
         oncoprint.removeTrack(trackId);
